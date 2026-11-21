@@ -1,3 +1,4 @@
+import java.util.LinkedList;
 import java.util.List;
 
 public class ProgramaPrincipal {
@@ -5,7 +6,7 @@ public class ProgramaPrincipal {
         List<Emprestimo> emprestimos = Util.carregarEmprestimos("emprestimo1000alea.txt");
         List<String> nomesPesquisa = Util.carregaNomesPesquisa();
 
-        ordenacaoHeapsort(emprestimos);
+        pesquisaAVL(emprestimos);
 
         //Escreve arquivo ordenado pelo nome
         Util.escreveArquivo(emprestimos, "ordenaçãoHeap.txt");
@@ -98,6 +99,44 @@ public class ProgramaPrincipal {
             orderna(esq, j, emprestimos, usaInsercaoDireta);
         if (dir > i)
             orderna(i, dir, emprestimos, usaInsercaoDireta);
+    }
+
+    private static void pesquisaABB(List<Emprestimo> emprestimos) {
+        List<String> nomes = Util.carregaNomesPesquisa();
+        ArvoreABB arvoreABB = new ArvoreABB();
+
+        for (Emprestimo emprestimo : emprestimos) {
+            arvoreABB.inserir(emprestimo);
+        }
+
+        List<NoABB> resultados = new LinkedList<>();
+        for (String nome : nomes) {
+            NoABB pesquisado = arvoreABB.pesquisar(nome);
+            resultados.add(pesquisado);
+        }
+
+        Util.gerarArquivoPesquisaABB(resultados, nomes, "testeABB.txt");
+    }
+
+    private static void pesquisaAVL(List<Emprestimo> emprestimos) {
+        List<String> nomes = Util.carregaNomesPesquisa();
+        ArvoreAvl arvoreAvl = new ArvoreAvl();
+
+        for (Emprestimo emprestimo : emprestimos) {
+            arvoreAvl.inserir(emprestimo);
+        }
+
+        List<NoAvl> resultados = new LinkedList<>();
+        for (String nome : nomes) {
+            NoAvl pesquisado = arvoreAvl.pesquisar(nome);
+            resultados.add(pesquisado);
+        }
+
+        Util.gerarArquivoPesquisaAvl(resultados, nomes, "testeAVL.txt");
+    }
+
+    private static void pesquisaHashingEncadeado(List<Emprestimo> emprestimos) {
+
     }
 
     ///////////////////////////////////////
