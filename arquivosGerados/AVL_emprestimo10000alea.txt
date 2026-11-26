@@ -1,0 +1,3244 @@
+NOME: Melissa Lins
+Nenhum empréstimo encontrado.
+
+NOME: Patricia Silva
+Empréstimo: 253 - Livro: Cartas para o Amanhã - Volume 20 - Autor: Beatriz Souza
+Data do empréstimo: 2026-09-14 - Data de devolução: 2026-09-24
+Empréstimo: 1094 - Livro: O Misterio da Montanha - Volume 197 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-08-04 - Data de devolução: 2025-08-14
+Empréstimo: 5415 - Livro: O Vale dos Sonhos - Volume 171 - Autor: Ana Carvalho
+Data do empréstimo: 2025-12-03 - Data de devolução: 2025-12-13
+Empréstimo: 8787 - Livro: A Ilha Distante - Volume 58 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-08-11 - Data de devolução: 2026-08-21
+TOTAL: 4 empréstimos
+
+NOME: Bruna Borges
+Empréstimo: 4118 - Livro: Noites de Inverno - Volume 132 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-05-10 - Data de devolução: 2026-05-20
+Empréstimo: 8435 - Livro: O Relogio Esquecido - Volume 114 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-07-08 - Data de devolução: 2024-07-18
+Empréstimo: 9132 - Livro: O Ultimo Farol - Volume 124 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-04-27 - Data de devolução: 2025-05-07
+Empréstimo: 9709 - Livro: A Casa das Janelas Azuis - Volume 49 - Autor: Marina Duarte
+Data do empréstimo: 2026-02-11 - Data de devolução: 2026-02-21
+TOTAL: 4 empréstimos
+
+NOME: Rafael Souza
+Empréstimo: 923 - Livro: A Ilha Distante - Volume 217 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-07-02 - Data de devolução: 2025-07-12
+TOTAL: 1 empréstimos
+
+NOME: Gustavo Santos
+Empréstimo: 453 - Livro: O Vale dos Sonhos - Volume 167 - Autor: Ana Carvalho
+Data do empréstimo: 2024-02-21 - Data de devolução: 2024-03-02
+Empréstimo: 1769 - Livro: Viagem ao Norte - Volume 49 - Autor: Eduardo Lima
+Data do empréstimo: 2025-01-13 - Data de devolução: 2025-01-23
+Empréstimo: 2423 - Livro: Noites de Inverno - Volume 231 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-09-01 - Data de devolução: 2023-09-11
+TOTAL: 3 empréstimos
+
+NOME: Clarice Bittencourt
+Nenhum empréstimo encontrado.
+
+NOME: Nicolas Souza
+Empréstimo: 1512 - Livro: A Cidade das Estrelas - Volume 113 - Autor: Luciana Castro
+Data do empréstimo: 2025-10-04 - Data de devolução: 2025-10-14
+Empréstimo: 2172 - Livro: A Casa das Janelas Azuis - Volume 90 - Autor: Marina Duarte
+Data do empréstimo: 2024-08-11 - Data de devolução: 2024-08-21
+Empréstimo: 3012 - Livro: A Ilha Distante - Volume 136 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-07-30 - Data de devolução: 2023-08-09
+Empréstimo: 9143 - Livro: O Diario de Helena - Volume 40 - Autor: Laura Barbosa
+Data do empréstimo: 2026-09-07 - Data de devolução: 2026-09-17
+TOTAL: 4 empréstimos
+
+NOME: Luana Santos
+Empréstimo: 334 - Livro: O Ultimo Farol - Volume 29 - Autor: Rafael Oliveira
+Data do empréstimo: 2022-10-22 - Data de devolução: 2022-11-01
+Empréstimo: 4046 - Livro: A Floresta Silenciosa - Volume 26 - Autor: Camila Santos
+Data do empréstimo: 2023-11-04 - Data de devolução: 2023-11-14
+Empréstimo: 7548 - Livro: As Cores do Vento - Volume 157 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-11-20 - Data de devolução: 2025-11-30
+Empréstimo: 7663 - Livro: O Ultimo Farol - Volume 69 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-03-31 - Data de devolução: 2023-04-10
+Empréstimo: 7951 - Livro: O Misterio da Montanha - Volume 139 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-11-10 - Data de devolução: 2024-11-20
+Empréstimo: 9291 - Livro: A Ilha Distante - Volume 155 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-06-13 - Data de devolução: 2023-06-23
+TOTAL: 6 empréstimos
+
+NOME: Isadora Brandão
+Nenhum empréstimo encontrado.
+
+NOME: Murilo Moraes
+Empréstimo: 8703 - Livro: Noites de Inverno - Volume 48 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-04-15 - Data de devolução: 2023-04-25
+TOTAL: 1 empréstimos
+
+NOME: Augusto Freire
+Nenhum empréstimo encontrado.
+
+NOME: Felipe Martins
+Empréstimo: 709 - Livro: O Castelo na Colina - Volume 155 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-01-25 - Data de devolução: 2025-02-04
+Empréstimo: 3436 - Livro: A Luz da Manhã - Volume 30 - Autor: Bruno Machado
+Data do empréstimo: 2024-11-10 - Data de devolução: 2024-11-20
+Empréstimo: 3679 - Livro: A Ilha Distante - Volume 68 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-04-15 - Data de devolução: 2023-04-25
+Empréstimo: 4224 - Livro: O Castelo na Colina - Volume 151 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-01-11 - Data de devolução: 2024-01-21
+Empréstimo: 5158 - Livro: A Cidade das Estrelas - Volume 153 - Autor: Luciana Castro
+Data do empréstimo: 2022-11-25 - Data de devolução: 2022-12-05
+Empréstimo: 5519 - Livro: O Misterio da Montanha - Volume 227 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-07-14 - Data de devolução: 2025-07-24
+Empréstimo: 9915 - Livro: A Floresta Silenciosa - Volume 29 - Autor: Camila Santos
+Data do empréstimo: 2024-10-29 - Data de devolução: 2024-11-08
+TOTAL: 7 empréstimos
+
+NOME: Helena Lima
+Empréstimo: 226 - Livro: O Segredo do Jardim - Volume 163 - Autor: Carlos Almeida
+Data do empréstimo: 2023-05-27 - Data de devolução: 2023-06-06
+Empréstimo: 8108 - Livro: O Misterio da Montanha - Volume 55 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-09-27 - Data de devolução: 2024-10-07
+TOTAL: 2 empréstimos
+
+NOME: Ricardo Oliveira
+Empréstimo: 4217 - Livro: Noites de Inverno - Volume 2 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-05-20 - Data de devolução: 2026-05-30
+Empréstimo: 9475 - Livro: A Luz da Manhã - Volume 173 - Autor: Bruno Machado
+Data do empréstimo: 2024-05-26 - Data de devolução: 2024-06-05
+TOTAL: 2 empréstimos
+
+NOME: Thiago Lopes
+Empréstimo: 570 - Livro: O Vale dos Sonhos - Volume 200 - Autor: Ana Carvalho
+Data do empréstimo: 2025-11-18 - Data de devolução: 2025-11-28
+Empréstimo: 1177 - Livro: O Relogio Esquecido - Volume 115 - Autor: Daniel Ferreira
+Data do empréstimo: 2022-12-01 - Data de devolução: 2022-12-11
+Empréstimo: 1567 - Livro: Cartas para o Amanhã - Volume 127 - Autor: Beatriz Souza
+Data do empréstimo: 2025-04-03 - Data de devolução: 2025-04-13
+Empréstimo: 4002 - Livro: O Castelo na Colina - Volume 186 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-09-20 - Data de devolução: 2025-09-30
+Empréstimo: 4837 - Livro: Cartas para o Amanhã - Volume 23 - Autor: Beatriz Souza
+Data do empréstimo: 2026-05-13 - Data de devolução: 2026-05-23
+Empréstimo: 6209 - Livro: A Cidade das Estrelas - Volume 202 - Autor: Luciana Castro
+Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
+Empréstimo: 8271 - Livro: O Relogio Esquecido - Volume 160 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-03-27 - Data de devolução: 2023-04-06
+TOTAL: 7 empréstimos
+
+NOME: Bernardo Reis
+Empréstimo: 4502 - Livro: A Cidade das Estrelas - Volume 182 - Autor: Luciana Castro
+Data do empréstimo: 2025-04-10 - Data de devolução: 2025-04-20
+TOTAL: 1 empréstimos
+
+NOME: Helena Rocha
+Empréstimo: 346 - Livro: O Misterio da Montanha - Volume 52 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-03-13 - Data de devolução: 2023-03-23
+Empréstimo: 9462 - Livro: A Ponte de Pedra - Volume 97 - Autor: Marcelo Torres
+Data do empréstimo: 2025-09-05 - Data de devolução: 2025-09-15
+TOTAL: 2 empréstimos
+
+NOME: Joao Gomes
+Empréstimo: 686 - Livro: A Floresta Silenciosa - Volume 133 - Autor: Camila Santos
+Data do empréstimo: 2023-06-03 - Data de devolução: 2023-06-13
+Empréstimo: 1575 - Livro: A Ilha Distante - Volume 9 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-10-07 - Data de devolução: 2023-10-17
+Empréstimo: 1753 - Livro: A Cidade das Estrelas - Volume 68 - Autor: Luciana Castro
+Data do empréstimo: 2025-08-16 - Data de devolução: 2025-08-26
+Empréstimo: 9101 - Livro: O Segredo do Jardim - Volume 164 - Autor: Carlos Almeida
+Data do empréstimo: 2024-08-27 - Data de devolução: 2024-09-06
+TOTAL: 4 empréstimos
+
+NOME: Henrique Vieira
+Empréstimo: 986 - Livro: A Floresta Silenciosa - Volume 100 - Autor: Camila Santos
+Data do empréstimo: 2024-12-22 - Data de devolução: 2025-01-01
+Empréstimo: 1348 - Livro: Noites de Inverno - Volume 234 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-06-28 - Data de devolução: 2024-07-08
+Empréstimo: 2069 - Livro: O Relogio Esquecido - Volume 100 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-09-12 - Data de devolução: 2025-09-22
+Empréstimo: 3135 - Livro: Viagem ao Norte - Volume 91 - Autor: Eduardo Lima
+Data do empréstimo: 2026-04-19 - Data de devolução: 2026-04-29
+Empréstimo: 7901 - Livro: Cartas para o Amanhã - Volume 93 - Autor: Beatriz Souza
+Data do empréstimo: 2023-03-28 - Data de devolução: 2023-04-07
+Empréstimo: 9677 - Livro: A Ponte de Pedra - Volume 10 - Autor: Marcelo Torres
+Data do empréstimo: 2023-08-25 - Data de devolução: 2023-09-04
+TOTAL: 6 empréstimos
+
+NOME: Isabela Barreto
+Nenhum empréstimo encontrado.
+
+NOME: Valentina Martins
+Empréstimo: 2974 - Livro: O Mapa Perdido - Volume 10 - Autor: Juliana Mendes
+Data do empréstimo: 2025-11-26 - Data de devolução: 2025-12-06
+Empréstimo: 4654 - Livro: O Misterio da Montanha - Volume 62 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-06-01 - Data de devolução: 2026-06-11
+Empréstimo: 5797 - Livro: Noites de Inverno - Volume 68 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-10-08 - Data de devolução: 2023-10-18
+Empréstimo: 8711 - Livro: Noites de Inverno - Volume 12 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-01-08 - Data de devolução: 2026-01-18
+Empréstimo: 9799 - Livro: Viagem ao Norte - Volume 236 - Autor: Eduardo Lima
+Data do empréstimo: 2024-11-28 - Data de devolução: 2024-12-08
+Empréstimo: 9906 - Livro: A Casa das Janelas Azuis - Volume 60 - Autor: Marina Duarte
+Data do empréstimo: 2025-04-12 - Data de devolução: 2025-04-22
+TOTAL: 6 empréstimos
+
+NOME: Henrique Soares
+Nenhum empréstimo encontrado.
+
+NOME: Brenda Rios
+Nenhum empréstimo encontrado.
+
+NOME: Leonardo Borges
+Empréstimo: 2046 - Livro: O Segredo do Jardim - Volume 149 - Autor: Carlos Almeida
+Data do empréstimo: 2024-03-10 - Data de devolução: 2024-03-20
+Empréstimo: 2376 - Livro: O Castelo na Colina - Volume 164 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-12-13 - Data de devolução: 2023-12-23
+Empréstimo: 3951 - Livro: Cartas para o Amanhã - Volume 223 - Autor: Beatriz Souza
+Data do empréstimo: 2022-12-15 - Data de devolução: 2022-12-25
+Empréstimo: 9213 - Livro: O Segredo do Jardim - Volume 9 - Autor: Carlos Almeida
+Data do empréstimo: 2023-09-17 - Data de devolução: 2023-09-27
+TOTAL: 4 empréstimos
+
+NOME: Luana Campos
+Nenhum empréstimo encontrado.
+
+NOME: Rafaela Albuquerque
+Nenhum empréstimo encontrado.
+
+NOME: Afonso Porto
+Nenhum empréstimo encontrado.
+
+NOME: Otavio Pereira
+Empréstimo: 681 - Livro: O Diario de Helena - Volume 200 - Autor: Laura Barbosa
+Data do empréstimo: 2026-05-28 - Data de devolução: 2026-06-07
+Empréstimo: 4716 - Livro: A Ponte de Pedra - Volume 76 - Autor: Marcelo Torres
+Data do empréstimo: 2024-11-20 - Data de devolução: 2024-11-30
+TOTAL: 2 empréstimos
+
+NOME: Joao Ribeiro
+Empréstimo: 23 - Livro: As Cores do Vento - Volume 200 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-04-08 - Data de devolução: 2024-04-18
+Empréstimo: 289 - Livro: O Misterio da Montanha - Volume 26 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-04-23 - Data de devolução: 2023-05-03
+Empréstimo: 3270 - Livro: As Cores do Vento - Volume 30 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-01-02 - Data de devolução: 2024-01-12
+Empréstimo: 4854 - Livro: Cartas para o Amanhã - Volume 161 - Autor: Beatriz Souza
+Data do empréstimo: 2023-10-24 - Data de devolução: 2023-11-03
+Empréstimo: 4952 - Livro: As Aventuras de Clara - Volume 170 - Autor: Helena Martins
+Data do empréstimo: 2024-11-17 - Data de devolução: 2024-11-27
+TOTAL: 5 empréstimos
+
+NOME: Sabrina Fernandes
+Empréstimo: 2400 - Livro: O Mapa Perdido - Volume 122 - Autor: Juliana Mendes
+Data do empréstimo: 2024-06-27 - Data de devolução: 2024-07-07
+TOTAL: 1 empréstimos
+
+NOME: Luana Monteiro
+Empréstimo: 568 - Livro: O Diario de Helena - Volume 76 - Autor: Laura Barbosa
+Data do empréstimo: 2025-06-17 - Data de devolução: 2025-06-27
+Empréstimo: 2473 - Livro: A Casa das Janelas Azuis - Volume 235 - Autor: Marina Duarte
+Data do empréstimo: 2022-10-03 - Data de devolução: 2022-10-13
+Empréstimo: 2869 - Livro: A Cidade das Estrelas - Volume 115 - Autor: Luciana Castro
+Data do empréstimo: 2024-04-25 - Data de devolução: 2024-05-05
+Empréstimo: 5414 - Livro: A Casa das Janelas Azuis - Volume 220 - Autor: Marina Duarte
+Data do empréstimo: 2025-08-30 - Data de devolução: 2025-09-09
+TOTAL: 4 empréstimos
+
+NOME: Daniel Duarte
+Empréstimo: 278 - Livro: Noites de Inverno - Volume 156 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-06-06 - Data de devolução: 2025-06-16
+Empréstimo: 375 - Livro: A Cidade das Estrelas - Volume 137 - Autor: Luciana Castro
+Data do empréstimo: 2025-02-04 - Data de devolução: 2025-02-14
+Empréstimo: 3691 - Livro: O Diario de Helena - Volume 119 - Autor: Laura Barbosa
+Data do empréstimo: 2024-09-21 - Data de devolução: 2024-10-01
+Empréstimo: 5528 - Livro: Viagem ao Norte - Volume 155 - Autor: Eduardo Lima
+Data do empréstimo: 2025-02-18 - Data de devolução: 2025-02-28
+TOTAL: 4 empréstimos
+
+NOME: Bruna Fernandes
+Empréstimo: 1212 - Livro: A Floresta Silenciosa - Volume 77 - Autor: Camila Santos
+Data do empréstimo: 2025-06-22 - Data de devolução: 2025-07-02
+Empréstimo: 2421 - Livro: Noites de Inverno - Volume 224 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-05-09 - Data de devolução: 2024-05-19
+Empréstimo: 6677 - Livro: Noites de Inverno - Volume 250 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-09-26 - Data de devolução: 2025-10-06
+Empréstimo: 8541 - Livro: O Relogio Esquecido - Volume 89 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-01-25 - Data de devolução: 2023-02-04
+Empréstimo: 9247 - Livro: As Cores do Vento - Volume 64 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-06-13 - Data de devolução: 2023-06-23
+TOTAL: 5 empréstimos
+
+NOME: Rodrigo Ferraz
+Nenhum empréstimo encontrado.
+
+NOME: Débora Coutinho
+Nenhum empréstimo encontrado.
+
+NOME: Eduardo Nascimento
+Empréstimo: 637 - Livro: O Vale dos Sonhos - Volume 247 - Autor: Ana Carvalho
+Data do empréstimo: 2025-05-11 - Data de devolução: 2025-05-21
+Empréstimo: 2567 - Livro: O Caminho das Aguas - Volume 124 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-06-05 - Data de devolução: 2026-06-15
+Empréstimo: 7354 - Livro: O Vale dos Sonhos - Volume 170 - Autor: Ana Carvalho
+Data do empréstimo: 2026-04-06 - Data de devolução: 2026-04-16
+Empréstimo: 9769 - Livro: Viagem ao Norte - Volume 129 - Autor: Eduardo Lima
+Data do empréstimo: 2023-10-28 - Data de devolução: 2023-11-07
+TOTAL: 4 empréstimos
+
+NOME: Igor Barbosa
+Empréstimo: 933 - Livro: O Mapa Perdido - Volume 29 - Autor: Juliana Mendes
+Data do empréstimo: 2025-11-28 - Data de devolução: 2025-12-08
+Empréstimo: 6401 - Livro: A Ilha Distante - Volume 167 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-06-24 - Data de devolução: 2025-07-04
+Empréstimo: 6529 - Livro: A Ponte de Pedra - Volume 223 - Autor: Marcelo Torres
+Data do empréstimo: 2023-08-08 - Data de devolução: 2023-08-18
+Empréstimo: 8594 - Livro: Noites de Inverno - Volume 32 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-12-07 - Data de devolução: 2024-12-17
+TOTAL: 4 empréstimos
+
+NOME: Rodrigo Andrade
+Nenhum empréstimo encontrado.
+
+NOME: Carolina Nascimento
+Empréstimo: 1928 - Livro: As Cores do Vento - Volume 187 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-05-13 - Data de devolução: 2025-05-23
+Empréstimo: 5994 - Livro: O Segredo do Jardim - Volume 110 - Autor: Carlos Almeida
+Data do empréstimo: 2024-10-29 - Data de devolução: 2024-11-08
+Empréstimo: 8744 - Livro: Cartas para o Amanhã - Volume 228 - Autor: Beatriz Souza
+Data do empréstimo: 2026-03-27 - Data de devolução: 2026-04-06
+TOTAL: 3 empréstimos
+
+NOME: Simone Coelho
+Nenhum empréstimo encontrado.
+
+NOME: Luana Oliveira
+Empréstimo: 3541 - Livro: O Misterio da Montanha - Volume 128 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-10-26 - Data de devolução: 2025-11-05
+Empréstimo: 8474 - Livro: O Relogio Esquecido - Volume 188 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-11-10 - Data de devolução: 2024-11-20
+Empréstimo: 9803 - Livro: A Ilha Distante - Volume 69 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-04-11 - Data de devolução: 2023-04-21
+TOTAL: 3 empréstimos
+
+NOME: Vanessa Medeiros
+Empréstimo: 2020 - Livro: A Ilha Distante - Volume 94 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-12-16 - Data de devolução: 2023-12-26
+Empréstimo: 3905 - Livro: O Relogio Esquecido - Volume 2 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-03-29 - Data de devolução: 2026-04-08
+Empréstimo: 6842 - Livro: A Casa das Janelas Azuis - Volume 93 - Autor: Marina Duarte
+Data do empréstimo: 2024-01-25 - Data de devolução: 2024-02-04
+Empréstimo: 8323 - Livro: A Ponte de Pedra - Volume 28 - Autor: Marcelo Torres
+Data do empréstimo: 2025-07-12 - Data de devolução: 2025-07-22
+Empréstimo: 8797 - Livro: O Misterio da Montanha - Volume 183 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-01-04 - Data de devolução: 2024-01-14
+TOTAL: 5 empréstimos
+
+NOME: Elisa Rodrigues
+Empréstimo: 6514 - Livro: O Diario de Helena - Volume 128 - Autor: Laura Barbosa
+Data do empréstimo: 2025-12-29 - Data de devolução: 2026-01-08
+Empréstimo: 6530 - Livro: A Ponte de Pedra - Volume 235 - Autor: Marcelo Torres
+Data do empréstimo: 2025-09-10 - Data de devolução: 2025-09-20
+Empréstimo: 6557 - Livro: O Misterio da Montanha - Volume 13 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-09-30 - Data de devolução: 2024-10-10
+Empréstimo: 7682 - Livro: Viagem ao Norte - Volume 169 - Autor: Eduardo Lima
+Data do empréstimo: 2025-12-18 - Data de devolução: 2025-12-28
+Empréstimo: 7845 - Livro: O Segredo do Jardim - Volume 52 - Autor: Carlos Almeida
+Data do empréstimo: 2025-06-16 - Data de devolução: 2025-06-26
+TOTAL: 5 empréstimos
+
+NOME: Joao Machado
+Empréstimo: 1805 - Livro: A Ilha Distante - Volume 133 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-02-18 - Data de devolução: 2026-02-28
+Empréstimo: 7157 - Livro: As Cores do Vento - Volume 150 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-04-15 - Data de devolução: 2023-04-25
+Empréstimo: 8619 - Livro: O Segredo do Jardim - Volume 153 - Autor: Carlos Almeida
+Data do empréstimo: 2024-09-30 - Data de devolução: 2024-10-10
+TOTAL: 3 empréstimos
+
+NOME: Bruna Torres
+Empréstimo: 9567 - Livro: Noites de Inverno - Volume 30 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-02-15 - Data de devolução: 2026-02-25
+TOTAL: 1 empréstimos
+
+NOME: Joao Fernandes
+Empréstimo: 1854 - Livro: A Floresta Silenciosa - Volume 159 - Autor: Camila Santos
+Data do empréstimo: 2023-11-25 - Data de devolução: 2023-12-05
+TOTAL: 1 empréstimos
+
+NOME: Samuel Bittencourt
+Nenhum empréstimo encontrado.
+
+NOME: Jonathan Seabra
+Nenhum empréstimo encontrado.
+
+NOME: Joaquim Santos
+Empréstimo: 2078 - Livro: A Casa das Janelas Azuis - Volume 27 - Autor: Marina Duarte
+Data do empréstimo: 2025-10-05 - Data de devolução: 2025-10-15
+Empréstimo: 2600 - Livro: Noites de Inverno - Volume 60 - Autor: Pedro Nogueira
+Data do empréstimo: 2022-12-31 - Data de devolução: 2023-01-10
+Empréstimo: 7113 - Livro: O Ultimo Farol - Volume 67 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-07-13 - Data de devolução: 2026-07-23
+Empréstimo: 8029 - Livro: O Ultimo Farol - Volume 2 - Autor: Rafael Oliveira
+Data do empréstimo: 2022-11-18 - Data de devolução: 2022-11-28
+TOTAL: 4 empréstimos
+
+NOME: Mariana Batista
+Empréstimo: 1571 - Livro: As Aventuras de Clara - Volume 40 - Autor: Helena Martins
+Data do empréstimo: 2026-04-28 - Data de devolução: 2026-05-08
+Empréstimo: 2340 - Livro: A Casa das Janelas Azuis - Volume 153 - Autor: Marina Duarte
+Data do empréstimo: 2023-03-15 - Data de devolução: 2023-03-25
+TOTAL: 2 empréstimos
+
+NOME: Giovana Nunes
+Nenhum empréstimo encontrado.
+
+NOME: Thiago Gomes
+Empréstimo: 1882 - Livro: Viagem ao Norte - Volume 204 - Autor: Eduardo Lima
+Data do empréstimo: 2024-08-04 - Data de devolução: 2024-08-14
+Empréstimo: 2814 - Livro: O Misterio da Montanha - Volume 214 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-10-11 - Data de devolução: 2023-10-21
+Empréstimo: 8859 - Livro: Viagem ao Norte - Volume 214 - Autor: Eduardo Lima
+Data do empréstimo: 2025-06-18 - Data de devolução: 2025-06-28
+TOTAL: 3 empréstimos
+
+NOME: Beatriz Ferreira
+Empréstimo: 3712 - Livro: A Ilha Distante - Volume 82 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-01-07 - Data de devolução: 2023-01-17
+TOTAL: 1 empréstimos
+
+NOME: Rodrigo Barbosa
+Empréstimo: 467 - Livro: O Misterio da Montanha - Volume 66 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-04-30 - Data de devolução: 2026-05-10
+Empréstimo: 630 - Livro: Viagem ao Norte - Volume 153 - Autor: Eduardo Lima
+Data do empréstimo: 2023-12-09 - Data de devolução: 2023-12-19
+Empréstimo: 1151 - Livro: As Aventuras de Clara - Volume 214 - Autor: Helena Martins
+Data do empréstimo: 2024-01-08 - Data de devolução: 2024-01-18
+Empréstimo: 1852 - Livro: A Ilha Distante - Volume 28 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-07-26 - Data de devolução: 2025-08-05
+Empréstimo: 6766 - Livro: As Cores do Vento - Volume 104 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-01-27 - Data de devolução: 2023-02-06
+Empréstimo: 8112 - Livro: O Misterio da Montanha - Volume 201 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-03-16 - Data de devolução: 2024-03-26
+Empréstimo: 8151 - Livro: A Casa das Janelas Azuis - Volume 69 - Autor: Marina Duarte
+Data do empréstimo: 2026-04-25 - Data de devolução: 2026-05-05
+TOTAL: 7 empréstimos
+
+NOME: Gabriela Azevedo
+Nenhum empréstimo encontrado.
+
+NOME: Daiane Porto
+Nenhum empréstimo encontrado.
+
+NOME: Isadora Cordeiro
+Nenhum empréstimo encontrado.
+
+NOME: Leandro Gama
+Nenhum empréstimo encontrado.
+
+NOME: Arthur Brandão
+Nenhum empréstimo encontrado.
+
+NOME: Nicolas Almeida
+Empréstimo: 1367 - Livro: A Ilha Distante - Volume 15 - Autor: Gabriel Vieira
+Data do empréstimo: 2022-11-13 - Data de devolução: 2022-11-23
+Empréstimo: 6070 - Livro: As Cores do Vento - Volume 97 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-07-02 - Data de devolução: 2023-07-12
+Empréstimo: 6105 - Livro: O Relogio Esquecido - Volume 174 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-04-07 - Data de devolução: 2024-04-17
+Empréstimo: 8280 - Livro: O Castelo na Colina - Volume 7 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-02-26 - Data de devolução: 2023-03-08
+Empréstimo: 9044 - Livro: A Ilha Distante - Volume 138 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-09-16 - Data de devolução: 2025-09-26
+Empréstimo: 9522 - Livro: Cartas para o Amanhã - Volume 30 - Autor: Beatriz Souza
+Data do empréstimo: 2024-11-07 - Data de devolução: 2024-11-17
+Empréstimo: 9865 - Livro: O Misterio da Montanha - Volume 30 - Autor: Fernando Ribeiro
+Data do empréstimo: 2022-10-15 - Data de devolução: 2022-10-25
+TOTAL: 7 empréstimos
+
+NOME: Daiane Seabra
+Nenhum empréstimo encontrado.
+
+NOME: Vanessa Teixeira
+Empréstimo: 4600 - Livro: O Castelo na Colina - Volume 38 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-09-19 - Data de devolução: 2026-09-29
+Empréstimo: 7178 - Livro: Cartas para o Amanhã - Volume 160 - Autor: Beatriz Souza
+Data do empréstimo: 2025-08-23 - Data de devolução: 2025-09-02
+Empréstimo: 7748 - Livro: As Cores do Vento - Volume 136 - Autor: Ricardo Teixeira
+Data do empréstimo: 2022-10-16 - Data de devolução: 2022-10-26
+Empréstimo: 8139 - Livro: Cartas para o Amanhã - Volume 41 - Autor: Beatriz Souza
+Data do empréstimo: 2025-08-23 - Data de devolução: 2025-09-02
+TOTAL: 4 empréstimos
+
+NOME: Enzo Fernandes
+Empréstimo: 382 - Livro: As Cores do Vento - Volume 164 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-05-04 - Data de devolução: 2025-05-14
+Empréstimo: 3913 - Livro: O Segredo do Jardim - Volume 145 - Autor: Carlos Almeida
+Data do empréstimo: 2024-08-10 - Data de devolução: 2024-08-20
+Empréstimo: 6490 - Livro: O Misterio da Montanha - Volume 102 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-08-31 - Data de devolução: 2024-09-10
+TOTAL: 3 empréstimos
+
+NOME: Caio Farias
+Nenhum empréstimo encontrado.
+
+NOME: Fernando Pereira
+Empréstimo: 1374 - Livro: A Cidade das Estrelas - Volume 75 - Autor: Luciana Castro
+Data do empréstimo: 2023-05-06 - Data de devolução: 2023-05-16
+Empréstimo: 2167 - Livro: O Diario de Helena - Volume 215 - Autor: Laura Barbosa
+Data do empréstimo: 2025-07-26 - Data de devolução: 2025-08-05
+Empréstimo: 3506 - Livro: O Relogio Esquecido - Volume 139 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-03-21 - Data de devolução: 2025-03-31
+Empréstimo: 3724 - Livro: O Diario de Helena - Volume 134 - Autor: Laura Barbosa
+Data do empréstimo: 2025-06-27 - Data de devolução: 2025-07-07
+Empréstimo: 4468 - Livro: O Ultimo Farol - Volume 127 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-06-25 - Data de devolução: 2024-07-05
+Empréstimo: 8516 - Livro: O Segredo do Jardim - Volume 247 - Autor: Carlos Almeida
+Data do empréstimo: 2023-04-03 - Data de devolução: 2023-04-13
+TOTAL: 6 empréstimos
+
+NOME: Laura Carvalho
+Empréstimo: 2347 - Livro: A Casa das Janelas Azuis - Volume 85 - Autor: Marina Duarte
+Data do empréstimo: 2024-08-18 - Data de devolução: 2024-08-28
+Empréstimo: 4416 - Livro: Noites de Inverno - Volume 18 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-03-12 - Data de devolução: 2025-03-22
+TOTAL: 2 empréstimos
+
+NOME: Daniel Dias
+Empréstimo: 532 - Livro: O Castelo na Colina - Volume 83 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-08-24 - Data de devolução: 2024-09-03
+Empréstimo: 2089 - Livro: O Castelo na Colina - Volume 113 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-04-21 - Data de devolução: 2025-05-01
+Empréstimo: 2993 - Livro: O Ultimo Farol - Volume 62 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-05-28 - Data de devolução: 2023-06-07
+Empréstimo: 7583 - Livro: O Ultimo Farol - Volume 205 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-07-21 - Data de devolução: 2026-07-31
+Empréstimo: 8839 - Livro: O Vale dos Sonhos - Volume 44 - Autor: Ana Carvalho
+Data do empréstimo: 2024-06-19 - Data de devolução: 2024-06-29
+TOTAL: 5 empréstimos
+
+NOME: Pedro Costa
+Empréstimo: 5023 - Livro: Cartas para o Amanhã - Volume 14 - Autor: Beatriz Souza
+Data do empréstimo: 2025-02-08 - Data de devolução: 2025-02-18
+Empréstimo: 6294 - Livro: O Ultimo Farol - Volume 29 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-03-06 - Data de devolução: 2026-03-16
+Empréstimo: 7706 - Livro: O Mapa Perdido - Volume 168 - Autor: Juliana Mendes
+Data do empréstimo: 2026-07-25 - Data de devolução: 2026-08-04
+TOTAL: 3 empréstimos
+
+NOME: Ana Nascimento
+Empréstimo: 2141 - Livro: O Caminho das Aguas - Volume 155 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-03-19 - Data de devolução: 2025-03-29
+Empréstimo: 5989 - Livro: O Segredo do Jardim - Volume 130 - Autor: Carlos Almeida
+Data do empréstimo: 2025-05-17 - Data de devolução: 2025-05-27
+Empréstimo: 6853 - Livro: As Cores do Vento - Volume 115 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-01-04 - Data de devolução: 2024-01-14
+Empréstimo: 7992 - Livro: O Relogio Esquecido - Volume 5 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-12-13 - Data de devolução: 2023-12-23
+Empréstimo: 9478 - Livro: A Ponte de Pedra - Volume 130 - Autor: Marcelo Torres
+Data do empréstimo: 2024-12-13 - Data de devolução: 2024-12-23
+TOTAL: 5 empréstimos
+
+NOME: Eduarda Rocha
+Empréstimo: 5834 - Livro: A Ilha Distante - Volume 181 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-04-04 - Data de devolução: 2025-04-14
+Empréstimo: 8008 - Livro: A Casa das Janelas Azuis - Volume 187 - Autor: Marina Duarte
+Data do empréstimo: 2026-08-20 - Data de devolução: 2026-08-30
+Empréstimo: 8354 - Livro: As Aventuras de Clara - Volume 2 - Autor: Helena Martins
+Data do empréstimo: 2023-03-14 - Data de devolução: 2023-03-24
+TOTAL: 3 empréstimos
+
+NOME: Carlos Carvalho
+Empréstimo: 1111 - Livro: Viagem ao Norte - Volume 92 - Autor: Eduardo Lima
+Data do empréstimo: 2023-11-10 - Data de devolução: 2023-11-20
+Empréstimo: 1862 - Livro: O Mapa Perdido - Volume 141 - Autor: Juliana Mendes
+Data do empréstimo: 2024-04-21 - Data de devolução: 2024-05-01
+Empréstimo: 3553 - Livro: A Floresta Silenciosa - Volume 170 - Autor: Camila Santos
+Data do empréstimo: 2025-10-12 - Data de devolução: 2025-10-22
+Empréstimo: 8168 - Livro: A Ponte de Pedra - Volume 182 - Autor: Marcelo Torres
+Data do empréstimo: 2023-07-03 - Data de devolução: 2023-07-13
+Empréstimo: 8462 - Livro: Cartas para o Amanhã - Volume 153 - Autor: Beatriz Souza
+Data do empréstimo: 2026-08-20 - Data de devolução: 2026-08-30
+Empréstimo: 9401 - Livro: A Luz da Manhã - Volume 134 - Autor: Bruno Machado
+Data do empréstimo: 2024-01-24 - Data de devolução: 2024-02-03
+TOTAL: 6 empréstimos
+
+NOME: Fernando Soares
+Empréstimo: 3749 - Livro: A Ponte de Pedra - Volume 64 - Autor: Marcelo Torres
+Data do empréstimo: 2023-03-16 - Data de devolução: 2023-03-26
+Empréstimo: 4606 - Livro: A Luz da Manhã - Volume 132 - Autor: Bruno Machado
+Data do empréstimo: 2025-11-18 - Data de devolução: 2025-11-28
+Empréstimo: 4668 - Livro: A Floresta Silenciosa - Volume 57 - Autor: Camila Santos
+Data do empréstimo: 2024-08-01 - Data de devolução: 2024-08-11
+TOTAL: 3 empréstimos
+
+NOME: Rafael Martins
+Empréstimo: 7439 - Livro: O Diario de Helena - Volume 225 - Autor: Laura Barbosa
+Data do empréstimo: 2023-10-17 - Data de devolução: 2023-10-27
+TOTAL: 1 empréstimos
+
+NOME: José Gama
+Nenhum empréstimo encontrado.
+
+NOME: Francisco Pereira
+Nenhum empréstimo encontrado.
+
+NOME: Natália Cunha
+Nenhum empréstimo encontrado.
+
+NOME: Henrique Gouveia
+Nenhum empréstimo encontrado.
+
+NOME: Bruno Ferreira
+Empréstimo: 1682 - Livro: O Ultimo Farol - Volume 7 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-06-11 - Data de devolução: 2026-06-21
+Empréstimo: 5181 - Livro: O Castelo na Colina - Volume 55 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-03-13 - Data de devolução: 2025-03-23
+Empréstimo: 6345 - Livro: A Cidade das Estrelas - Volume 213 - Autor: Luciana Castro
+Data do empréstimo: 2026-07-11 - Data de devolução: 2026-07-21
+Empréstimo: 6755 - Livro: A Cidade das Estrelas - Volume 140 - Autor: Luciana Castro
+Data do empréstimo: 2024-10-04 - Data de devolução: 2024-10-14
+Empréstimo: 6954 - Livro: O Relogio Esquecido - Volume 145 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-02-26 - Data de devolução: 2025-03-08
+TOTAL: 5 empréstimos
+
+NOME: Daniela Nogueira
+Empréstimo: 2356 - Livro: A Ponte de Pedra - Volume 58 - Autor: Marcelo Torres
+Data do empréstimo: 2025-06-01 - Data de devolução: 2025-06-11
+Empréstimo: 5360 - Livro: O Mapa Perdido - Volume 97 - Autor: Juliana Mendes
+Data do empréstimo: 2025-07-04 - Data de devolução: 2025-07-14
+Empréstimo: 7151 - Livro: Cartas para o Amanhã - Volume 35 - Autor: Beatriz Souza
+Data do empréstimo: 2026-04-25 - Data de devolução: 2026-05-05
+Empréstimo: 9015 - Livro: A Luz da Manhã - Volume 46 - Autor: Bruno Machado
+Data do empréstimo: 2025-03-22 - Data de devolução: 2025-04-01
+Empréstimo: 9148 - Livro: O Vale dos Sonhos - Volume 30 - Autor: Ana Carvalho
+Data do empréstimo: 2026-02-11 - Data de devolução: 2026-02-21
+TOTAL: 5 empréstimos
+
+NOME: Fernando Vieira
+Empréstimo: 1135 - Livro: O Diario de Helena - Volume 243 - Autor: Laura Barbosa
+Data do empréstimo: 2023-06-16 - Data de devolução: 2023-06-26
+Empréstimo: 6304 - Livro: As Cores do Vento - Volume 14 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-08-02 - Data de devolução: 2024-08-12
+TOTAL: 2 empréstimos
+
+NOME: Nicolas Lopes
+Empréstimo: 7712 - Livro: Cartas para o Amanhã - Volume 238 - Autor: Beatriz Souza
+Data do empréstimo: 2024-09-07 - Data de devolução: 2024-09-17
+Empréstimo: 8391 - Livro: As Aventuras de Clara - Volume 157 - Autor: Helena Martins
+Data do empréstimo: 2023-06-17 - Data de devolução: 2023-06-27
+TOTAL: 2 empréstimos
+
+NOME: Fernando Cardoso
+Empréstimo: 4155 - Livro: O Diario de Helena - Volume 237 - Autor: Laura Barbosa
+Data do empréstimo: 2023-08-23 - Data de devolução: 2023-09-02
+Empréstimo: 4819 - Livro: Viagem ao Norte - Volume 78 - Autor: Eduardo Lima
+Data do empréstimo: 2024-11-11 - Data de devolução: 2024-11-21
+Empréstimo: 7917 - Livro: O Caminho das Aguas - Volume 108 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-09-03 - Data de devolução: 2023-09-13
+Empréstimo: 9523 - Livro: O Vale dos Sonhos - Volume 91 - Autor: Ana Carvalho
+Data do empréstimo: 2025-07-04 - Data de devolução: 2025-07-14
+TOTAL: 4 empréstimos
+
+NOME: Maurício Farias
+Nenhum empréstimo encontrado.
+
+NOME: Vinícius Cavalcante
+Nenhum empréstimo encontrado.
+
+NOME: Juliana Barbosa
+Empréstimo: 160 - Livro: Noites de Inverno - Volume 162 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-05-06 - Data de devolução: 2025-05-16
+Empréstimo: 6223 - Livro: O Vale dos Sonhos - Volume 117 - Autor: Ana Carvalho
+Data do empréstimo: 2025-12-14 - Data de devolução: 2025-12-24
+Empréstimo: 9196 - Livro: A Floresta Silenciosa - Volume 179 - Autor: Camila Santos
+Data do empréstimo: 2025-07-01 - Data de devolução: 2025-07-11
+TOTAL: 3 empréstimos
+
+NOME: Alice Almeida
+Empréstimo: 3531 - Livro: O Castelo na Colina - Volume 57 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-08-06 - Data de devolução: 2023-08-16
+Empréstimo: 7416 - Livro: A Casa das Janelas Azuis - Volume 198 - Autor: Marina Duarte
+Data do empréstimo: 2024-09-18 - Data de devolução: 2024-09-28
+Empréstimo: 8453 - Livro: Cartas para o Amanhã - Volume 150 - Autor: Beatriz Souza
+Data do empréstimo: 2024-11-08 - Data de devolução: 2024-11-18
+TOTAL: 3 empréstimos
+
+NOME: Eduarda Santos
+Empréstimo: 9 - Livro: O Vale dos Sonhos - Volume 44 - Autor: Ana Carvalho
+Data do empréstimo: 2022-11-19 - Data de devolução: 2022-11-29
+Empréstimo: 8078 - Livro: Cartas para o Amanhã - Volume 206 - Autor: Beatriz Souza
+Data do empréstimo: 2023-12-02 - Data de devolução: 2023-12-12
+TOTAL: 2 empréstimos
+
+NOME: Henrique Magalhães
+Nenhum empréstimo encontrado.
+
+NOME: Raul Vieira
+Empréstimo: 3959 - Livro: A Cidade das Estrelas - Volume 223 - Autor: Luciana Castro
+Data do empréstimo: 2023-06-28 - Data de devolução: 2023-07-08
+Empréstimo: 5407 - Livro: A Luz da Manhã - Volume 115 - Autor: Bruno Machado
+Data do empréstimo: 2025-03-28 - Data de devolução: 2025-04-07
+Empréstimo: 9217 - Livro: Noites de Inverno - Volume 162 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-04-03 - Data de devolução: 2023-04-13
+TOTAL: 3 empréstimos
+
+NOME: Mateus Nascimento
+Empréstimo: 1474 - Livro: A Cidade das Estrelas - Volume 54 - Autor: Luciana Castro
+Data do empréstimo: 2025-07-19 - Data de devolução: 2025-07-29
+Empréstimo: 2194 - Livro: A Ponte de Pedra - Volume 95 - Autor: Marcelo Torres
+Data do empréstimo: 2026-03-05 - Data de devolução: 2026-03-15
+Empréstimo: 7971 - Livro: A Casa das Janelas Azuis - Volume 104 - Autor: Marina Duarte
+Data do empréstimo: 2022-11-20 - Data de devolução: 2022-11-30
+TOTAL: 3 empréstimos
+
+NOME: Rodrigo Macedo
+Nenhum empréstimo encontrado.
+
+NOME: Victor Castro
+Empréstimo: 6565 - Livro: A Cidade das Estrelas - Volume 81 - Autor: Luciana Castro
+Data do empréstimo: 2025-04-05 - Data de devolução: 2025-04-15
+TOTAL: 1 empréstimos
+
+NOME: Matheus Nascimento
+Nenhum empréstimo encontrado.
+
+NOME: Elisa Soares
+Empréstimo: 344 - Livro: O Relogio Esquecido - Volume 162 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-05-09 - Data de devolução: 2024-05-19
+Empréstimo: 1288 - Livro: A Luz da Manhã - Volume 162 - Autor: Bruno Machado
+Data do empréstimo: 2024-04-03 - Data de devolução: 2024-04-13
+Empréstimo: 9963 - Livro: Cartas para o Amanhã - Volume 26 - Autor: Beatriz Souza
+Data do empréstimo: 2024-05-28 - Data de devolução: 2024-06-07
+TOTAL: 3 empréstimos
+
+NOME: Rodrigo Gomes
+Empréstimo: 555 - Livro: As Cores do Vento - Volume 162 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-11-10 - Data de devolução: 2023-11-20
+Empréstimo: 3110 - Livro: Cartas para o Amanhã - Volume 10 - Autor: Beatriz Souza
+Data do empréstimo: 2024-09-30 - Data de devolução: 2024-10-10
+Empréstimo: 7209 - Livro: A Ponte de Pedra - Volume 66 - Autor: Marcelo Torres
+Data do empréstimo: 2024-02-10 - Data de devolução: 2024-02-20
+Empréstimo: 8926 - Livro: A Cidade das Estrelas - Volume 168 - Autor: Luciana Castro
+Data do empréstimo: 2022-10-16 - Data de devolução: 2022-10-26
+TOTAL: 4 empréstimos
+
+NOME: Thales Vasconcelos
+Nenhum empréstimo encontrado.
+
+NOME: Valéria Campos
+Nenhum empréstimo encontrado.
+
+NOME: Larissa Borges
+Empréstimo: 5494 - Livro: O Ultimo Farol - Volume 16 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-01-23 - Data de devolução: 2024-02-02
+Empréstimo: 7093 - Livro: Cartas para o Amanhã - Volume 240 - Autor: Beatriz Souza
+Data do empréstimo: 2022-10-29 - Data de devolução: 2022-11-08
+TOTAL: 2 empréstimos
+
+NOME: Leonardo Oliveira
+Empréstimo: 2309 - Livro: As Aventuras de Clara - Volume 175 - Autor: Helena Martins
+Data do empréstimo: 2025-07-04 - Data de devolução: 2025-07-14
+Empréstimo: 3413 - Livro: As Aventuras de Clara - Volume 71 - Autor: Helena Martins
+Data do empréstimo: 2025-01-16 - Data de devolução: 2025-01-26
+Empréstimo: 5018 - Livro: O Mapa Perdido - Volume 245 - Autor: Juliana Mendes
+Data do empréstimo: 2023-04-15 - Data de devolução: 2023-04-25
+TOTAL: 3 empréstimos
+
+NOME: Igor Dias
+Empréstimo: 2360 - Livro: As Aventuras de Clara - Volume 92 - Autor: Helena Martins
+Data do empréstimo: 2022-12-03 - Data de devolução: 2022-12-13
+Empréstimo: 4249 - Livro: A Floresta Silenciosa - Volume 155 - Autor: Camila Santos
+Data do empréstimo: 2026-09-13 - Data de devolução: 2026-09-23
+Empréstimo: 5637 - Livro: O Vale dos Sonhos - Volume 76 - Autor: Ana Carvalho
+Data do empréstimo: 2024-12-07 - Data de devolução: 2024-12-17
+Empréstimo: 5919 - Livro: O Diario de Helena - Volume 83 - Autor: Laura Barbosa
+Data do empréstimo: 2023-07-31 - Data de devolução: 2023-08-10
+TOTAL: 4 empréstimos
+
+NOME: Gustavo Castro
+Empréstimo: 1594 - Livro: O Misterio da Montanha - Volume 48 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-01-24 - Data de devolução: 2023-02-03
+Empréstimo: 4049 - Livro: As Cores do Vento - Volume 23 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-03-23 - Data de devolução: 2025-04-02
+TOTAL: 2 empréstimos
+
+NOME: Beatriz Nogueira
+Empréstimo: 1257 - Livro: O Castelo na Colina - Volume 128 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-07-06 - Data de devolução: 2026-07-16
+Empréstimo: 1606 - Livro: A Cidade das Estrelas - Volume 219 - Autor: Luciana Castro
+Data do empréstimo: 2025-04-27 - Data de devolução: 2025-05-07
+Empréstimo: 2520 - Livro: A Cidade das Estrelas - Volume 23 - Autor: Luciana Castro
+Data do empréstimo: 2024-09-05 - Data de devolução: 2024-09-15
+Empréstimo: 3100 - Livro: As Cores do Vento - Volume 110 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-05-03 - Data de devolução: 2024-05-13
+Empréstimo: 4328 - Livro: Viagem ao Norte - Volume 91 - Autor: Eduardo Lima
+Data do empréstimo: 2023-07-09 - Data de devolução: 2023-07-19
+Empréstimo: 6495 - Livro: As Aventuras de Clara - Volume 155 - Autor: Helena Martins
+Data do empréstimo: 2023-01-04 - Data de devolução: 2023-01-14
+TOTAL: 6 empréstimos
+
+NOME: Raul Coutinho
+Nenhum empréstimo encontrado.
+
+NOME: Larissa Souza
+Empréstimo: 119 - Livro: A Ilha Distante - Volume 17 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-05-03 - Data de devolução: 2024-05-13
+Empréstimo: 694 - Livro: O Mapa Perdido - Volume 28 - Autor: Juliana Mendes
+Data do empréstimo: 2023-04-13 - Data de devolução: 2023-04-23
+Empréstimo: 9254 - Livro: As Aventuras de Clara - Volume 102 - Autor: Helena Martins
+Data do empréstimo: 2025-08-14 - Data de devolução: 2025-08-24
+Empréstimo: 9815 - Livro: A Luz da Manhã - Volume 30 - Autor: Bruno Machado
+Data do empréstimo: 2025-12-16 - Data de devolução: 2025-12-26
+Empréstimo: 9851 - Livro: A Casa das Janelas Azuis - Volume 237 - Autor: Marina Duarte
+Data do empréstimo: 2025-08-30 - Data de devolução: 2025-09-09
+TOTAL: 5 empréstimos
+
+NOME: Margarida Franco
+Nenhum empréstimo encontrado.
+
+NOME: Sabrina Moraes
+Empréstimo: 2890 - Livro: O Segredo do Jardim - Volume 242 - Autor: Carlos Almeida
+Data do empréstimo: 2025-02-22 - Data de devolução: 2025-03-04
+Empréstimo: 4057 - Livro: A Ponte de Pedra - Volume 162 - Autor: Marcelo Torres
+Data do empréstimo: 2026-03-30 - Data de devolução: 2026-04-09
+Empréstimo: 6776 - Livro: O Relogio Esquecido - Volume 112 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-08-05 - Data de devolução: 2025-08-15
+TOTAL: 3 empréstimos
+
+NOME: Beatriz Vieira
+Empréstimo: 3685 - Livro: A Luz da Manhã - Volume 176 - Autor: Bruno Machado
+Data do empréstimo: 2025-03-22 - Data de devolução: 2025-04-01
+Empréstimo: 9718 - Livro: O Segredo do Jardim - Volume 231 - Autor: Carlos Almeida
+Data do empréstimo: 2022-11-03 - Data de devolução: 2022-11-13
+TOTAL: 2 empréstimos
+
+NOME: Patrícia Beltrão
+Nenhum empréstimo encontrado.
+
+NOME: Lucas Moreira
+Empréstimo: 134 - Livro: A Ponte de Pedra - Volume 17 - Autor: Marcelo Torres
+Data do empréstimo: 2023-07-14 - Data de devolução: 2023-07-24
+Empréstimo: 571 - Livro: As Aventuras de Clara - Volume 188 - Autor: Helena Martins
+Data do empréstimo: 2023-09-15 - Data de devolução: 2023-09-25
+Empréstimo: 1507 - Livro: O Mapa Perdido - Volume 162 - Autor: Juliana Mendes
+Data do empréstimo: 2025-10-11 - Data de devolução: 2025-10-21
+Empréstimo: 7435 - Livro: O Caminho das Aguas - Volume 118 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-11-18 - Data de devolução: 2022-11-28
+Empréstimo: 8073 - Livro: As Aventuras de Clara - Volume 149 - Autor: Helena Martins
+Data do empréstimo: 2024-03-31 - Data de devolução: 2024-04-10
+TOTAL: 5 empréstimos
+
+NOME: Gabriel Ferreira
+Empréstimo: 2762 - Livro: As Cores do Vento - Volume 89 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-11-23 - Data de devolução: 2025-12-03
+Empréstimo: 3496 - Livro: O Segredo do Jardim - Volume 246 - Autor: Carlos Almeida
+Data do empréstimo: 2023-07-25 - Data de devolução: 2023-08-04
+Empréstimo: 4071 - Livro: A Ponte de Pedra - Volume 172 - Autor: Marcelo Torres
+Data do empréstimo: 2024-11-08 - Data de devolução: 2024-11-18
+Empréstimo: 6964 - Livro: O Relogio Esquecido - Volume 194 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-08-18 - Data de devolução: 2024-08-28
+Empréstimo: 7053 - Livro: Viagem ao Norte - Volume 203 - Autor: Eduardo Lima
+Data do empréstimo: 2023-05-20 - Data de devolução: 2023-05-30
+Empréstimo: 7572 - Livro: O Caminho das Aguas - Volume 204 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-07-30 - Data de devolução: 2026-08-09
+Empréstimo: 9622 - Livro: A Cidade das Estrelas - Volume 132 - Autor: Luciana Castro
+Data do empréstimo: 2023-03-15 - Data de devolução: 2023-03-25
+TOTAL: 7 empréstimos
+
+NOME: Fernanda Gomes
+Empréstimo: 8106 - Livro: A Ponte de Pedra - Volume 117 - Autor: Marcelo Torres
+Data do empréstimo: 2024-02-15 - Data de devolução: 2024-02-25
+Empréstimo: 9072 - Livro: O Mapa Perdido - Volume 4 - Autor: Juliana Mendes
+Data do empréstimo: 2023-05-21 - Data de devolução: 2023-05-31
+Empréstimo: 9720 - Livro: O Ultimo Farol - Volume 22 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-02-12 - Data de devolução: 2024-02-22
+TOTAL: 3 empréstimos
+
+NOME: Mariana Almeida
+Nenhum empréstimo encontrado.
+
+NOME: Fernando Rocha
+Empréstimo: 1860 - Livro: A Ponte de Pedra - Volume 238 - Autor: Marcelo Torres
+Data do empréstimo: 2025-11-10 - Data de devolução: 2025-11-20
+Empréstimo: 4131 - Livro: O Mapa Perdido - Volume 216 - Autor: Juliana Mendes
+Data do empréstimo: 2025-03-03 - Data de devolução: 2025-03-13
+Empréstimo: 5146 - Livro: Cartas para o Amanhã - Volume 190 - Autor: Beatriz Souza
+Data do empréstimo: 2025-07-07 - Data de devolução: 2025-07-17
+Empréstimo: 7399 - Livro: O Caminho das Aguas - Volume 136 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-11-26 - Data de devolução: 2022-12-06
+TOTAL: 4 empréstimos
+
+NOME: Afonso Garcia
+Nenhum empréstimo encontrado.
+
+NOME: Leticia Marques
+Empréstimo: 1341 - Livro: Noites de Inverno - Volume 160 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-10-01 - Data de devolução: 2024-10-11
+Empréstimo: 5590 - Livro: O Relogio Esquecido - Volume 6 - Autor: Daniel Ferreira
+Data do empréstimo: 2022-11-03 - Data de devolução: 2022-11-13
+Empréstimo: 6718 - Livro: A Ilha Distante - Volume 97 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-12-03 - Data de devolução: 2023-12-13
+Empréstimo: 7518 - Livro: A Luz da Manhã - Volume 13 - Autor: Bruno Machado
+Data do empréstimo: 2023-04-11 - Data de devolução: 2023-04-21
+Empréstimo: 8481 - Livro: As Cores do Vento - Volume 70 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-11-18 - Data de devolução: 2025-11-28
+TOTAL: 5 empréstimos
+
+NOME: Rafael Monteiro
+Empréstimo: 1363 - Livro: O Caminho das Aguas - Volume 130 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-09-13 - Data de devolução: 2026-09-23
+Empréstimo: 7010 - Livro: O Vale dos Sonhos - Volume 62 - Autor: Ana Carvalho
+Data do empréstimo: 2023-11-04 - Data de devolução: 2023-11-14
+Empréstimo: 8753 - Livro: Noites de Inverno - Volume 3 - Autor: Pedro Nogueira
+Data do empréstimo: 2022-10-31 - Data de devolução: 2022-11-10
+Empréstimo: 9045 - Livro: O Relogio Esquecido - Volume 124 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-06-18 - Data de devolução: 2025-06-28
+TOTAL: 4 empréstimos
+
+NOME: Isabela Macedo
+Nenhum empréstimo encontrado.
+
+NOME: Raul Monteiro
+Empréstimo: 845 - Livro: O Vale dos Sonhos - Volume 146 - Autor: Ana Carvalho
+Data do empréstimo: 2025-05-06 - Data de devolução: 2025-05-16
+Empréstimo: 2095 - Livro: A Cidade das Estrelas - Volume 68 - Autor: Luciana Castro
+Data do empréstimo: 2025-04-16 - Data de devolução: 2025-04-26
+Empréstimo: 3629 - Livro: O Segredo do Jardim - Volume 234 - Autor: Carlos Almeida
+Data do empréstimo: 2026-07-25 - Data de devolução: 2026-08-04
+Empréstimo: 9035 - Livro: O Relogio Esquecido - Volume 2 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-04-23 - Data de devolução: 2026-05-03
+Empréstimo: 9429 - Livro: O Caminho das Aguas - Volume 123 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-02-03 - Data de devolução: 2025-02-13
+TOTAL: 5 empréstimos
+
+NOME: Rodrigo Rocha
+Empréstimo: 2063 - Livro: A Casa das Janelas Azuis - Volume 91 - Autor: Marina Duarte
+Data do empréstimo: 2025-09-12 - Data de devolução: 2025-09-22
+Empréstimo: 3070 - Livro: A Cidade das Estrelas - Volume 50 - Autor: Luciana Castro
+Data do empréstimo: 2023-07-30 - Data de devolução: 2023-08-09
+Empréstimo: 8730 - Livro: O Misterio da Montanha - Volume 48 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-11-15 - Data de devolução: 2024-11-25
+Empréstimo: 8922 - Livro: O Ultimo Farol - Volume 203 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-12-06 - Data de devolução: 2023-12-16
+Empréstimo: 9322 - Livro: O Castelo na Colina - Volume 50 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-02-23 - Data de devolução: 2023-03-05
+Empréstimo: 9540 - Livro: O Castelo na Colina - Volume 250 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-03-12 - Data de devolução: 2025-03-22
+TOTAL: 6 empréstimos
+
+NOME: Marina Xavier
+Empréstimo: 2392 - Livro: O Relogio Esquecido - Autor: Daniel Ferreira
+Data do empréstimo: 2024-04-19 - Data de devolução: 2024-04-29
+Empréstimo: 6089 - Livro: O Castelo na Colina - Volume 238 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-03-18 - Data de devolução: 2025-03-28
+Empréstimo: 9363 - Livro: A Cidade das Estrelas - Volume 94 - Autor: Luciana Castro
+Data do empréstimo: 2023-04-04 - Data de devolução: 2023-04-14
+TOTAL: 3 empréstimos
+
+NOME: Carolina Mendes
+Empréstimo: 3796 - Livro: A Ilha Distante - Volume 203 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-02-25 - Data de devolução: 2026-03-07
+Empréstimo: 3850 - Livro: A Ilha Distante - Volume 160 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-11-10 - Data de devolução: 2025-11-20
+Empréstimo: 9737 - Livro: O Castelo na Colina - Volume 64 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-01-23 - Data de devolução: 2025-02-02
+TOTAL: 3 empréstimos
+
+NOME: Helena Xavier
+Empréstimo: 4142 - Livro: Noites de Inverno - Volume 89 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-07-16 - Data de devolução: 2026-07-26
+Empréstimo: 7098 - Livro: O Castelo na Colina - Volume 97 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-07-27 - Data de devolução: 2024-08-06
+Empréstimo: 7166 - Livro: A Casa das Janelas Azuis - Volume 21 - Autor: Marina Duarte
+Data do empréstimo: 2024-09-22 - Data de devolução: 2024-10-02
+TOTAL: 3 empréstimos
+
+NOME: Leticia Pereira
+Empréstimo: 7630 - Livro: A Casa das Janelas Azuis - Volume 57 - Autor: Marina Duarte
+Data do empréstimo: 2024-12-27 - Data de devolução: 2025-01-06
+Empréstimo: 7978 - Livro: O Relogio Esquecido - Volume 224 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-11-03 - Data de devolução: 2024-11-13
+Empréstimo: 8623 - Livro: O Castelo na Colina - Volume 202 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-08-10 - Data de devolução: 2024-08-20
+TOTAL: 3 empréstimos
+
+NOME: Rafaela Monteiro
+Empréstimo: 1057 - Livro: O Ultimo Farol - Volume 106 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-03-27 - Data de devolução: 2026-04-06
+Empréstimo: 5366 - Livro: O Diario de Helena - Volume 139 - Autor: Laura Barbosa
+Data do empréstimo: 2025-08-25 - Data de devolução: 2025-09-04
+Empréstimo: 5512 - Livro: O Mapa Perdido - Volume 180 - Autor: Juliana Mendes
+Data do empréstimo: 2025-05-11 - Data de devolução: 2025-05-21
+Empréstimo: 6969 - Livro: A Ponte de Pedra - Volume 232 - Autor: Marcelo Torres
+Data do empréstimo: 2023-03-18 - Data de devolução: 2023-03-28
+Empréstimo: 9158 - Livro: O Relogio Esquecido - Volume 70 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-12-02 - Data de devolução: 2025-12-12
+TOTAL: 5 empréstimos
+
+NOME: Valéria Farias
+Nenhum empréstimo encontrado.
+
+NOME: Amanda Teixeira
+Empréstimo: 4593 - Livro: As Cores do Vento - Volume 57 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-12-02 - Data de devolução: 2024-12-12
+Empréstimo: 6796 - Livro: O Caminho das Aguas - Volume 115 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-04-01 - Data de devolução: 2024-04-11
+TOTAL: 2 empréstimos
+
+NOME: Rafael Almeida
+Empréstimo: 2217 - Livro: O Diario de Helena - Volume 106 - Autor: Laura Barbosa
+Data do empréstimo: 2023-12-01 - Data de devolução: 2023-12-11
+Empréstimo: 3274 - Livro: Cartas para o Amanhã - Volume 137 - Autor: Beatriz Souza
+Data do empréstimo: 2024-11-24 - Data de devolução: 2024-12-04
+Empréstimo: 7477 - Livro: O Misterio da Montanha - Volume 236 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-05-28 - Data de devolução: 2024-06-07
+TOTAL: 3 empréstimos
+
+NOME: Sérgio Pacheco
+Nenhum empréstimo encontrado.
+
+NOME: Gabriela Rodrigues
+Empréstimo: 4054 - Livro: As Cores do Vento - Volume 97 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-09-14 - Data de devolução: 2026-09-24
+Empréstimo: 5416 - Livro: O Relogio Esquecido - Volume 89 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-06-06 - Data de devolução: 2025-06-16
+Empréstimo: 5963 - Livro: A Ponte de Pedra - Volume 7 - Autor: Marcelo Torres
+Data do empréstimo: 2024-12-05 - Data de devolução: 2024-12-15
+TOTAL: 3 empréstimos
+
+NOME: Daniela Costa
+Empréstimo: 4444 - Livro: O Ultimo Farol - Volume 105 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-03-03 - Data de devolução: 2025-03-13
+Empréstimo: 6674 - Livro: As Aventuras de Clara - Volume 234 - Autor: Helena Martins
+Data do empréstimo: 2024-03-05 - Data de devolução: 2024-03-15
+Empréstimo: 6703 - Livro: A Ponte de Pedra - Volume 117 - Autor: Marcelo Torres
+Data do empréstimo: 2026-08-09 - Data de devolução: 2026-08-19
+Empréstimo: 9177 - Livro: O Ultimo Farol - Volume 81 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-10-05 - Data de devolução: 2024-10-15
+TOTAL: 4 empréstimos
+
+NOME: Raul Fernandes
+Empréstimo: 3689 - Livro: A Cidade das Estrelas - Volume 124 - Autor: Luciana Castro
+Data do empréstimo: 2024-12-24 - Data de devolução: 2025-01-03
+Empréstimo: 3988 - Livro: O Misterio da Montanha - Volume 182 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-07-18 - Data de devolução: 2023-07-28
+Empréstimo: 6019 - Livro: A Casa das Janelas Azuis - Autor: Marina Duarte
+Data do empréstimo: 2026-03-14 - Data de devolução: 2026-03-24
+Empréstimo: 6904 - Livro: O Misterio da Montanha - Volume 55 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-05-23 - Data de devolução: 2024-06-02
+TOTAL: 4 empréstimos
+
+NOME: Lucas Ramos
+Empréstimo: 1398 - Livro: As Cores do Vento - Volume 145 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-06-07 - Data de devolução: 2023-06-17
+Empréstimo: 1481 - Livro: O Castelo na Colina - Volume 4 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-11-06 - Data de devolução: 2024-11-16
+Empréstimo: 5774 - Livro: A Ilha Distante - Volume 175 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-08-17 - Data de devolução: 2024-08-27
+Empréstimo: 9289 - Livro: A Cidade das Estrelas - Volume 190 - Autor: Luciana Castro
+Data do empréstimo: 2024-07-12 - Data de devolução: 2024-07-22
+Empréstimo: 9937 - Livro: O Vale dos Sonhos - Volume 157 - Autor: Ana Carvalho
+Data do empréstimo: 2024-05-28 - Data de devolução: 2024-06-07
+TOTAL: 5 empréstimos
+
+NOME: Manuela Campos
+Nenhum empréstimo encontrado.
+
+NOME: Rodrigo Freitas
+Empréstimo: 7922 - Livro: O Misterio da Montanha - Volume 80 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-05-30 - Data de devolução: 2023-06-09
+TOTAL: 1 empréstimos
+
+NOME: Valentina Sampaio
+Nenhum empréstimo encontrado.
+
+NOME: Sílvia Freire
+Nenhum empréstimo encontrado.
+
+NOME: Juliana Xavier
+Empréstimo: 585 - Livro: O Caminho das Aguas - Volume 110 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-03-15 - Data de devolução: 2023-03-25
+Empréstimo: 3132 - Livro: A Ponte de Pedra - Volume 129 - Autor: Marcelo Torres
+Data do empréstimo: 2023-01-16 - Data de devolução: 2023-01-26
+Empréstimo: 5195 - Livro: As Aventuras de Clara - Volume 66 - Autor: Helena Martins
+Data do empréstimo: 2023-07-21 - Data de devolução: 2023-07-31
+Empréstimo: 5933 - Livro: Noites de Inverno - Volume 93 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-05-22 - Data de devolução: 2025-06-01
+TOTAL: 4 empréstimos
+
+NOME: Vitor Machado
+Nenhum empréstimo encontrado.
+
+NOME: Vinicius Nogueira
+Empréstimo: 1531 - Livro: As Cores do Vento - Volume 12 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-01-09 - Data de devolução: 2024-01-19
+Empréstimo: 5578 - Livro: A Casa das Janelas Azuis - Volume 88 - Autor: Marina Duarte
+Data do empréstimo: 2024-08-23 - Data de devolução: 2024-09-02
+TOTAL: 2 empréstimos
+
+NOME: Leticia Borges
+Empréstimo: 1180 - Livro: O Diario de Helena - Volume 38 - Autor: Laura Barbosa
+Data do empréstimo: 2024-08-25 - Data de devolução: 2024-09-04
+Empréstimo: 1216 - Livro: A Luz da Manhã - Volume 228 - Autor: Bruno Machado
+Data do empréstimo: 2022-11-20 - Data de devolução: 2022-11-30
+Empréstimo: 5517 - Livro: O Mapa Perdido - Volume 177 - Autor: Juliana Mendes
+Data do empréstimo: 2026-01-15 - Data de devolução: 2026-01-25
+TOTAL: 3 empréstimos
+
+NOME: Marcelo Oliveira
+Empréstimo: 412 - Livro: A Luz da Manhã - Volume 8 - Autor: Bruno Machado
+Data do empréstimo: 2024-04-18 - Data de devolução: 2024-04-28
+Empréstimo: 641 - Livro: O Ultimo Farol - Volume 44 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-01-17 - Data de devolução: 2026-01-27
+Empréstimo: 1977 - Livro: O Diario de Helena - Volume 100 - Autor: Laura Barbosa
+Data do empréstimo: 2026-06-10 - Data de devolução: 2026-06-20
+Empréstimo: 5421 - Livro: O Mapa Perdido - Volume 117 - Autor: Juliana Mendes
+Data do empréstimo: 2025-12-28 - Data de devolução: 2026-01-07
+TOTAL: 4 empréstimos
+
+NOME: Leonardo Vieira
+Empréstimo: 9147 - Livro: A Luz da Manhã - Volume 206 - Autor: Bruno Machado
+Data do empréstimo: 2026-01-26 - Data de devolução: 2026-02-05
+TOTAL: 1 empréstimos
+
+NOME: Lucas Nascimento
+Empréstimo: 526 - Livro: Viagem ao Norte - Volume 146 - Autor: Eduardo Lima
+Data do empréstimo: 2025-12-08 - Data de devolução: 2025-12-18
+Empréstimo: 2840 - Livro: Viagem ao Norte - Volume 3 - Autor: Eduardo Lima
+Data do empréstimo: 2023-11-18 - Data de devolução: 2023-11-28
+Empréstimo: 9998 - Livro: Viagem ao Norte - Volume 218 - Autor: Eduardo Lima
+Data do empréstimo: 2024-12-30 - Data de devolução: 2025-01-09
+TOTAL: 3 empréstimos
+
+NOME: Lorena Abreu
+Nenhum empréstimo encontrado.
+
+NOME: Joaquim Monteiro
+Empréstimo: 380 - Livro: A Cidade das Estrelas - Volume 128 - Autor: Luciana Castro
+Data do empréstimo: 2024-12-24 - Data de devolução: 2025-01-03
+Empréstimo: 2749 - Livro: A Ilha Distante - Volume 47 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-01-21 - Data de devolução: 2025-01-31
+Empréstimo: 4119 - Livro: A Ilha Distante - Volume 192 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-01-13 - Data de devolução: 2024-01-23
+Empréstimo: 5894 - Livro: A Floresta Silenciosa - Volume 12 - Autor: Camila Santos
+Data do empréstimo: 2024-12-25 - Data de devolução: 2025-01-04
+Empréstimo: 9141 - Livro: O Diario de Helena - Volume 186 - Autor: Laura Barbosa
+Data do empréstimo: 2024-05-20 - Data de devolução: 2024-05-30
+TOTAL: 5 empréstimos
+
+NOME: Samuel Oliveira
+Empréstimo: 3825 - Livro: O Caminho das Aguas - Volume 148 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-01-01 - Data de devolução: 2026-01-11
+Empréstimo: 7104 - Livro: A Casa das Janelas Azuis - Volume 140 - Autor: Marina Duarte
+Data do empréstimo: 2025-02-10 - Data de devolução: 2025-02-20
+Empréstimo: 8421 - Livro: A Casa das Janelas Azuis - Volume 246 - Autor: Marina Duarte
+Data do empréstimo: 2024-03-06 - Data de devolução: 2024-03-16
+TOTAL: 3 empréstimos
+
+NOME: Natalia Ferreira
+Empréstimo: 491 - Livro: O Relogio Esquecido - Volume 167 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-08-09 - Data de devolução: 2026-08-19
+Empréstimo: 2397 - Livro: O Mapa Perdido - Volume 183 - Autor: Juliana Mendes
+Data do empréstimo: 2025-11-07 - Data de devolução: 2025-11-17
+Empréstimo: 3220 - Livro: Viagem ao Norte - Volume 157 - Autor: Eduardo Lima
+Data do empréstimo: 2026-01-03 - Data de devolução: 2026-01-13
+Empréstimo: 6462 - Livro: Cartas para o Amanhã - Volume 242 - Autor: Beatriz Souza
+Data do empréstimo: 2026-05-29 - Data de devolução: 2026-06-08
+TOTAL: 4 empréstimos
+
+NOME: Victor Ferreira
+Nenhum empréstimo encontrado.
+
+NOME: Valentina Moreira
+Empréstimo: 2476 - Livro: O Caminho das Aguas - Volume 150 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-12-19 - Data de devolução: 2022-12-29
+Empréstimo: 7727 - Livro: Viagem ao Norte - Volume 121 - Autor: Eduardo Lima
+Data do empréstimo: 2022-11-28 - Data de devolução: 2022-12-08
+Empréstimo: 8722 - Livro: A Luz da Manhã - Volume 170 - Autor: Bruno Machado
+Data do empréstimo: 2024-12-29 - Data de devolução: 2025-01-08
+TOTAL: 3 empréstimos
+
+NOME: Arthur Souza
+Empréstimo: 3383 - Livro: A Casa das Janelas Azuis - Volume 82 - Autor: Marina Duarte
+Data do empréstimo: 2025-07-19 - Data de devolução: 2025-07-29
+Empréstimo: 7555 - Livro: O Segredo do Jardim - Volume 27 - Autor: Carlos Almeida
+Data do empréstimo: 2026-05-17 - Data de devolução: 2026-05-27
+Empréstimo: 8847 - Livro: O Castelo na Colina - Volume 71 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-09-19 - Data de devolução: 2024-09-29
+TOTAL: 3 empréstimos
+
+NOME: Raul Moraes
+Empréstimo: 1807 - Livro: As Cores do Vento - Volume 137 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-03-26 - Data de devolução: 2025-04-05
+Empréstimo: 2881 - Livro: Viagem ao Norte - Volume 133 - Autor: Eduardo Lima
+Data do empréstimo: 2024-08-15 - Data de devolução: 2024-08-25
+Empréstimo: 3358 - Livro: O Diario de Helena - Volume 31 - Autor: Laura Barbosa
+Data do empréstimo: 2023-01-28 - Data de devolução: 2023-02-07
+TOTAL: 3 empréstimos
+
+NOME: Marcelo Alves
+Empréstimo: 1710 - Livro: O Misterio da Montanha - Volume 37 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-09-01 - Data de devolução: 2025-09-11
+Empréstimo: 2005 - Livro: O Segredo do Jardim - Volume 44 - Autor: Carlos Almeida
+Data do empréstimo: 2022-12-24 - Data de devolução: 2023-01-03
+Empréstimo: 2231 - Livro: O Diario de Helena - Volume 202 - Autor: Laura Barbosa
+Data do empréstimo: 2022-10-27 - Data de devolução: 2022-11-06
+Empréstimo: 4402 - Livro: A Cidade das Estrelas - Volume 204 - Autor: Luciana Castro
+Data do empréstimo: 2025-05-13 - Data de devolução: 2025-05-23
+Empréstimo: 4531 - Livro: O Mapa Perdido - Volume 81 - Autor: Juliana Mendes
+Data do empréstimo: 2025-12-02 - Data de devolução: 2025-12-12
+Empréstimo: 5364 - Livro: A Ilha Distante - Volume 250 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-04-25 - Data de devolução: 2024-05-05
+Empréstimo: 9406 - Livro: As Aventuras de Clara - Volume 186 - Autor: Helena Martins
+Data do empréstimo: 2024-04-12 - Data de devolução: 2024-04-22
+TOTAL: 7 empréstimos
+
+NOME: Enzo Medeiros
+Empréstimo: 313 - Livro: A Casa das Janelas Azuis - Volume 108 - Autor: Marina Duarte
+Data do empréstimo: 2026-09-01 - Data de devolução: 2026-09-11
+Empréstimo: 7977 - Livro: O Vale dos Sonhos - Volume 232 - Autor: Ana Carvalho
+Data do empréstimo: 2024-10-17 - Data de devolução: 2024-10-27
+Empréstimo: 9242 - Livro: Cartas para o Amanhã - Volume 113 - Autor: Beatriz Souza
+Data do empréstimo: 2022-12-15 - Data de devolução: 2022-12-25
+TOTAL: 3 empréstimos
+
+NOME: Bruna Gomes
+Empréstimo: 1919 - Livro: O Ultimo Farol - Volume 172 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-08-26 - Data de devolução: 2026-09-05
+Empréstimo: 2258 - Livro: As Cores do Vento - Volume 60 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-06-01 - Data de devolução: 2026-06-11
+Empréstimo: 2667 - Livro: A Ponte de Pedra - Volume 81 - Autor: Marcelo Torres
+Data do empréstimo: 2024-10-23 - Data de devolução: 2024-11-02
+Empréstimo: 5059 - Livro: A Floresta Silenciosa - Volume 123 - Autor: Camila Santos
+Data do empréstimo: 2023-12-31 - Data de devolução: 2024-01-10
+TOTAL: 4 empréstimos
+
+NOME: Amanda Costa
+Empréstimo: 3096 - Livro: A Floresta Silenciosa - Volume 12 - Autor: Camila Santos
+Data do empréstimo: 2023-09-13 - Data de devolução: 2023-09-23
+Empréstimo: 3781 - Livro: Noites de Inverno - Volume 35 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-05-23 - Data de devolução: 2023-06-02
+Empréstimo: 7667 - Livro: Noites de Inverno - Volume 196 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-05-05 - Data de devolução: 2026-05-15
+TOTAL: 3 empréstimos
+
+NOME: Vinicius Teixeira
+Empréstimo: 19 - Livro: O Diario de Helena - Volume 192 - Autor: Laura Barbosa
+Data do empréstimo: 2024-04-18 - Data de devolução: 2024-04-28
+Empréstimo: 7611 - Livro: O Vale dos Sonhos - Volume 136 - Autor: Ana Carvalho
+Data do empréstimo: 2023-12-10 - Data de devolução: 2023-12-20
+TOTAL: 2 empréstimos
+
+NOME: Fernanda Fernandes
+Empréstimo: 9779 - Livro: As Aventuras de Clara - Volume 87 - Autor: Helena Martins
+Data do empréstimo: 2025-02-13 - Data de devolução: 2025-02-23
+TOTAL: 1 empréstimos
+
+NOME: Victor Mendes
+Empréstimo: 4177 - Livro: O Caminho das Aguas - Volume 246 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-04-26 - Data de devolução: 2023-05-06
+Empréstimo: 5478 - Livro: A Ponte de Pedra - Volume 67 - Autor: Marcelo Torres
+Data do empréstimo: 2023-03-11 - Data de devolução: 2023-03-21
+Empréstimo: 7246 - Livro: O Ultimo Farol - Volume 170 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-07-06 - Data de devolução: 2023-07-16
+Empréstimo: 7803 - Livro: O Vale dos Sonhos - Volume 233 - Autor: Ana Carvalho
+Data do empréstimo: 2024-03-17 - Data de devolução: 2024-03-27
+Empréstimo: 9145 - Livro: A Casa das Janelas Azuis - Volume 247 - Autor: Marina Duarte
+Data do empréstimo: 2024-11-24 - Data de devolução: 2024-12-04
+TOTAL: 5 empréstimos
+
+NOME: Francisco Porto
+Nenhum empréstimo encontrado.
+
+NOME: Ana Fernandes
+Empréstimo: 54 - Livro: O Castelo na Colina - Volume 13 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-08-21 - Data de devolução: 2025-08-31
+Empréstimo: 735 - Livro: O Diario de Helena - Volume 12 - Autor: Laura Barbosa
+Data do empréstimo: 2024-06-26 - Data de devolução: 2024-07-06
+Empréstimo: 2536 - Livro: A Ilha Distante - Volume 210 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-03-01 - Data de devolução: 2026-03-11
+Empréstimo: 3176 - Livro: A Ilha Distante - Volume 115 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-11-27 - Data de devolução: 2024-12-07
+Empréstimo: 4996 - Livro: As Cores do Vento - Volume 215 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-10-02 - Data de devolução: 2023-10-12
+Empréstimo: 9323 - Livro: As Aventuras de Clara - Volume 37 - Autor: Helena Martins
+Data do empréstimo: 2023-07-20 - Data de devolução: 2023-07-30
+Empréstimo: 9842 - Livro: A Casa das Janelas Azuis - Volume 129 - Autor: Marina Duarte
+Data do empréstimo: 2023-01-25 - Data de devolução: 2023-02-04
+TOTAL: 7 empréstimos
+
+NOME: Emanuel Nunes
+Nenhum empréstimo encontrado.
+
+NOME: Heitor Albuquerque
+Nenhum empréstimo encontrado.
+
+NOME: Arthur Batista
+Empréstimo: 1913 - Livro: Viagem ao Norte - Volume 157 - Autor: Eduardo Lima
+Data do empréstimo: 2024-09-12 - Data de devolução: 2024-09-22
+Empréstimo: 3359 - Livro: O Segredo do Jardim - Volume 151 - Autor: Carlos Almeida
+Data do empréstimo: 2026-02-11 - Data de devolução: 2026-02-21
+Empréstimo: 4025 - Livro: Viagem ao Norte - Volume 107 - Autor: Eduardo Lima
+Data do empréstimo: 2025-09-28 - Data de devolução: 2025-10-08
+Empréstimo: 4495 - Livro: O Castelo na Colina - Volume 78 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-12-06 - Data de devolução: 2024-12-16
+TOTAL: 4 empréstimos
+
+NOME: Bruno Medeiros
+Empréstimo: 539 - Livro: A Floresta Silenciosa - Volume 207 - Autor: Camila Santos
+Data do empréstimo: 2023-08-15 - Data de devolução: 2023-08-25
+Empréstimo: 1951 - Livro: O Mapa Perdido - Volume 189 - Autor: Juliana Mendes
+Data do empréstimo: 2023-12-02 - Data de devolução: 2023-12-12
+Empréstimo: 3845 - Livro: O Ultimo Farol - Volume 158 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-04-27 - Data de devolução: 2026-05-07
+Empréstimo: 5245 - Livro: A Ilha Distante - Volume 10 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-09-15 - Data de devolução: 2026-09-25
+Empréstimo: 5884 - Livro: A Casa das Janelas Azuis - Volume 247 - Autor: Marina Duarte
+Data do empréstimo: 2025-10-04 - Data de devolução: 2025-10-14
+Empréstimo: 8640 - Livro: Cartas para o Amanhã - Volume 9 - Autor: Beatriz Souza
+Data do empréstimo: 2025-10-10 - Data de devolução: 2025-10-20
+TOTAL: 6 empréstimos
+
+NOME: Beatriz Rocha
+Empréstimo: 1639 - Livro: As Cores do Vento - Volume 99 - Autor: Ricardo Teixeira
+Data do empréstimo: 2022-12-29 - Data de devolução: 2023-01-08
+Empréstimo: 7990 - Livro: A Ilha Distante - Volume 200 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-04-25 - Data de devolução: 2024-05-05
+Empréstimo: 8079 - Livro: O Misterio da Montanha - Volume 26 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-10-02 - Data de devolução: 2023-10-12
+TOTAL: 3 empréstimos
+
+NOME: Elisa Santos
+Empréstimo: 3079 - Livro: A Luz da Manhã - Volume 109 - Autor: Bruno Machado
+Data do empréstimo: 2024-11-07 - Data de devolução: 2024-11-17
+Empréstimo: 6844 - Livro: A Ilha Distante - Volume 248 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-03-18 - Data de devolução: 2024-03-28
+TOTAL: 2 empréstimos
+
+NOME: Fernanda Castro
+Empréstimo: 5361 - Livro: As Aventuras de Clara - Volume 14 - Autor: Helena Martins
+Data do empréstimo: 2026-01-01 - Data de devolução: 2026-01-11
+Empréstimo: 6799 - Livro: A Casa das Janelas Azuis - Volume 92 - Autor: Marina Duarte
+Data do empréstimo: 2025-05-06 - Data de devolução: 2025-05-16
+Empréstimo: 7485 - Livro: A Ilha Distante - Volume 219 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-09-02 - Data de devolução: 2024-09-12
+TOTAL: 3 empréstimos
+
+NOME: Juliana Borges
+Empréstimo: 4569 - Livro: O Relogio Esquecido - Volume 213 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-03-02 - Data de devolução: 2026-03-12
+Empréstimo: 5886 - Livro: A Luz da Manhã - Volume 42 - Autor: Bruno Machado
+Data do empréstimo: 2025-01-05 - Data de devolução: 2025-01-15
+Empréstimo: 6925 - Livro: O Relogio Esquecido - Volume 190 - Autor: Daniel Ferreira
+Data do empréstimo: 2022-10-25 - Data de devolução: 2022-11-04
+TOTAL: 3 empréstimos
+
+NOME: Valéria Cunha
+Nenhum empréstimo encontrado.
+
+NOME: Fernando Gomes
+Empréstimo: 3972 - Livro: O Misterio da Montanha - Volume 113 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-09-17 - Data de devolução: 2025-09-27
+TOTAL: 1 empréstimos
+
+NOME: Daniela Carvalho
+Empréstimo: 663 - Livro: Viagem ao Norte - Volume 161 - Autor: Eduardo Lima
+Data do empréstimo: 2024-07-03 - Data de devolução: 2024-07-13
+Empréstimo: 3137 - Livro: A Cidade das Estrelas - Volume 187 - Autor: Luciana Castro
+Data do empréstimo: 2025-06-03 - Data de devolução: 2025-06-13
+Empréstimo: 4980 - Livro: A Ponte de Pedra - Volume 183 - Autor: Marcelo Torres
+Data do empréstimo: 2024-12-21 - Data de devolução: 2024-12-31
+Empréstimo: 8367 - Livro: A Cidade das Estrelas - Volume 21 - Autor: Luciana Castro
+Data do empréstimo: 2024-11-08 - Data de devolução: 2024-11-18
+Empréstimo: 8513 - Livro: O Caminho das Aguas - Volume 96 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-04-16 - Data de devolução: 2025-04-26
+TOTAL: 5 empréstimos
+
+NOME: Bruno Ramos
+Empréstimo: 164 - Livro: O Vale dos Sonhos - Volume 101 - Autor: Ana Carvalho
+Data do empréstimo: 2026-09-18 - Data de devolução: 2026-09-28
+Empréstimo: 1816 - Livro: A Cidade das Estrelas - Volume 241 - Autor: Luciana Castro
+Data do empréstimo: 2023-01-21 - Data de devolução: 2023-01-31
+Empréstimo: 2543 - Livro: Viagem ao Norte - Volume 216 - Autor: Eduardo Lima
+Data do empréstimo: 2024-02-24 - Data de devolução: 2024-03-05
+Empréstimo: 3862 - Livro: Noites de Inverno - Volume 167 - Autor: Pedro Nogueira
+Data do empréstimo: 2022-10-03 - Data de devolução: 2022-10-13
+Empréstimo: 9269 - Livro: O Vale dos Sonhos - Volume 111 - Autor: Ana Carvalho
+Data do empréstimo: 2023-08-06 - Data de devolução: 2023-08-16
+TOTAL: 5 empréstimos
+
+NOME: Eduardo Castro
+Empréstimo: 8668 - Livro: Noites de Inverno - Volume 196 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-01-11 - Data de devolução: 2023-01-21
+TOTAL: 1 empréstimos
+
+NOME: Gabriela Rios
+Nenhum empréstimo encontrado.
+
+NOME: Mariana Vieira
+Empréstimo: 125 - Livro: A Ilha Distante - Volume 69 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-01-24 - Data de devolução: 2026-02-03
+Empréstimo: 1755 - Livro: A Ponte de Pedra - Volume 101 - Autor: Marcelo Torres
+Data do empréstimo: 2025-09-05 - Data de devolução: 2025-09-15
+Empréstimo: 2607 - Livro: O Mapa Perdido - Volume 183 - Autor: Juliana Mendes
+Data do empréstimo: 2025-06-16 - Data de devolução: 2025-06-26
+Empréstimo: 6215 - Livro: A Luz da Manhã - Volume 187 - Autor: Bruno Machado
+Data do empréstimo: 2025-09-12 - Data de devolução: 2025-09-22
+TOTAL: 4 empréstimos
+
+NOME: Thales Abreu
+Nenhum empréstimo encontrado.
+
+NOME: Elisa Goncalves
+Empréstimo: 4024 - Livro: A Luz da Manhã - Volume 17 - Autor: Bruno Machado
+Data do empréstimo: 2025-12-13 - Data de devolução: 2025-12-23
+Empréstimo: 4083 - Livro: A Luz da Manhã - Volume 241 - Autor: Bruno Machado
+Data do empréstimo: 2025-04-30 - Data de devolução: 2025-05-10
+Empréstimo: 4908 - Livro: As Aventuras de Clara - Volume 222 - Autor: Helena Martins
+Data do empréstimo: 2023-06-08 - Data de devolução: 2023-06-18
+TOTAL: 3 empréstimos
+
+NOME: Luiz Freitas
+Empréstimo: 1162 - Livro: A Cidade das Estrelas - Volume 141 - Autor: Luciana Castro
+Data do empréstimo: 2026-03-22 - Data de devolução: 2026-04-01
+Empréstimo: 2647 - Livro: O Caminho das Aguas - Volume 31 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-06-04 - Data de devolução: 2026-06-14
+Empréstimo: 3353 - Livro: O Relogio Esquecido - Volume 85 - Autor: Daniel Ferreira
+Data do empréstimo: 2022-11-29 - Data de devolução: 2022-12-09
+TOTAL: 3 empréstimos
+
+NOME: Mateus Goncalves
+Empréstimo: 200 - Livro: A Casa das Janelas Azuis - Volume 62 - Autor: Marina Duarte
+Data do empréstimo: 2022-11-19 - Data de devolução: 2022-11-29
+TOTAL: 1 empréstimos
+
+NOME: Juliana Reis
+Empréstimo: 3509 - Livro: O Mapa Perdido - Volume 73 - Autor: Juliana Mendes
+Data do empréstimo: 2024-02-21 - Data de devolução: 2024-03-02
+Empréstimo: 4498 - Livro: A Casa das Janelas Azuis - Volume 21 - Autor: Marina Duarte
+Data do empréstimo: 2026-03-30 - Data de devolução: 2026-04-09
+Empréstimo: 9186 - Livro: Cartas para o Amanhã - Volume 173 - Autor: Beatriz Souza
+Data do empréstimo: 2025-04-05 - Data de devolução: 2025-04-15
+TOTAL: 3 empréstimos
+
+NOME: Daiane Azevedo
+Nenhum empréstimo encontrado.
+
+NOME: Luiz Medeiros
+Empréstimo: 587 - Livro: A Casa das Janelas Azuis - Volume 190 - Autor: Marina Duarte
+Data do empréstimo: 2026-06-06 - Data de devolução: 2026-06-16
+Empréstimo: 796 - Livro: As Aventuras de Clara - Volume 46 - Autor: Helena Martins
+Data do empréstimo: 2024-11-17 - Data de devolução: 2024-11-27
+Empréstimo: 921 - Livro: As Aventuras de Clara - Volume 212 - Autor: Helena Martins
+Data do empréstimo: 2025-03-04 - Data de devolução: 2025-03-14
+Empréstimo: 1887 - Livro: Cartas para o Amanhã - Volume 229 - Autor: Beatriz Souza
+Data do empréstimo: 2025-04-12 - Data de devolução: 2025-04-22
+Empréstimo: 2987 - Livro: Cartas para o Amanhã - Volume 179 - Autor: Beatriz Souza
+Data do empréstimo: 2025-01-20 - Data de devolução: 2025-01-30
+Empréstimo: 3792 - Livro: O Misterio da Montanha - Volume 19 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-07-23 - Data de devolução: 2024-08-02
+Empréstimo: 9761 - Livro: Noites de Inverno - Volume 35 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
+TOTAL: 7 empréstimos
+
+NOME: Joaquim Freitas
+Empréstimo: 973 - Livro: Cartas para o Amanhã - Volume 66 - Autor: Beatriz Souza
+Data do empréstimo: 2025-07-28 - Data de devolução: 2025-08-07
+Empréstimo: 2317 - Livro: Noites de Inverno - Volume 151 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-07-25 - Data de devolução: 2023-08-04
+Empréstimo: 2354 - Livro: As Cores do Vento - Volume 142 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-04-08 - Data de devolução: 2023-04-18
+Empréstimo: 8893 - Livro: A Ponte de Pedra - Volume 230 - Autor: Marcelo Torres
+Data do empréstimo: 2024-04-03 - Data de devolução: 2024-04-13
+Empréstimo: 9066 - Livro: O Caminho das Aguas - Volume 40 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-01-21 - Data de devolução: 2026-01-31
+TOTAL: 5 empréstimos
+
+NOME: Gustavo Reis
+Empréstimo: 2633 - Livro: O Vale dos Sonhos - Volume 102 - Autor: Ana Carvalho
+Data do empréstimo: 2025-02-28 - Data de devolução: 2025-03-10
+Empréstimo: 4739 - Livro: As Cores do Vento - Volume 145 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-05-16 - Data de devolução: 2026-05-26
+Empréstimo: 4954 - Livro: Noites de Inverno - Volume 117 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-07-13 - Data de devolução: 2026-07-23
+Empréstimo: 6357 - Livro: Cartas para o Amanhã - Volume 5 - Autor: Beatriz Souza
+Data do empréstimo: 2024-06-02 - Data de devolução: 2024-06-12
+TOTAL: 4 empréstimos
+
+NOME: Joao Rocha
+Empréstimo: 2527 - Livro: Viagem ao Norte - Volume 238 - Autor: Eduardo Lima
+Data do empréstimo: 2025-09-24 - Data de devolução: 2025-10-04
+Empréstimo: 3143 - Livro: A Floresta Silenciosa - Volume 62 - Autor: Camila Santos
+Data do empréstimo: 2023-03-08 - Data de devolução: 2023-03-18
+Empréstimo: 7346 - Livro: O Misterio da Montanha - Volume 163 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-02-20 - Data de devolução: 2025-03-02
+Empréstimo: 7391 - Livro: A Casa das Janelas Azuis - Volume 246 - Autor: Marina Duarte
+Data do empréstimo: 2025-09-10 - Data de devolução: 2025-09-20
+Empréstimo: 7770 - Livro: O Diario de Helena - Volume 11 - Autor: Laura Barbosa
+Data do empréstimo: 2025-01-13 - Data de devolução: 2025-01-23
+Empréstimo: 8264 - Livro: O Diario de Helena - Volume 99 - Autor: Laura Barbosa
+Data do empréstimo: 2026-07-23 - Data de devolução: 2026-08-02
+TOTAL: 6 empréstimos
+
+NOME: Renata Rodrigues
+Empréstimo: 6054 - Livro: As Cores do Vento - Volume 12 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-12-02 - Data de devolução: 2024-12-12
+Empréstimo: 7170 - Livro: A Ilha Distante - Volume 63 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-04-23 - Data de devolução: 2026-05-03
+Empréstimo: 8148 - Livro: O Misterio da Montanha - Volume 246 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-01-20 - Data de devolução: 2023-01-30
+TOTAL: 3 empréstimos
+
+NOME: Gustavo Paiva
+Nenhum empréstimo encontrado.
+
+NOME: Juliana Lopes
+Empréstimo: 1280 - Livro: As Aventuras de Clara - Volume 134 - Autor: Helena Martins
+Data do empréstimo: 2023-07-04 - Data de devolução: 2023-07-14
+Empréstimo: 6986 - Livro: O Segredo do Jardim - Volume 87 - Autor: Carlos Almeida
+Data do empréstimo: 2025-11-05 - Data de devolução: 2025-11-15
+Empréstimo: 7486 - Livro: A Ponte de Pedra - Volume 84 - Autor: Marcelo Torres
+Data do empréstimo: 2026-07-25 - Data de devolução: 2026-08-04
+Empréstimo: 9449 - Livro: O Misterio da Montanha - Volume 237 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-04-15 - Data de devolução: 2026-04-25
+TOTAL: 4 empréstimos
+
+NOME: Natalia Mendes
+Empréstimo: 5564 - Livro: Noites de Inverno - Volume 246 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-06-24 - Data de devolução: 2024-07-04
+Empréstimo: 5974 - Livro: A Cidade das Estrelas - Volume 150 - Autor: Luciana Castro
+Data do empréstimo: 2024-03-07 - Data de devolução: 2024-03-17
+Empréstimo: 7742 - Livro: O Diario de Helena - Volume 82 - Autor: Laura Barbosa
+Data do empréstimo: 2024-09-12 - Data de devolução: 2024-09-22
+Empréstimo: 8798 - Livro: O Mapa Perdido - Volume 227 - Autor: Juliana Mendes
+Data do empréstimo: 2024-06-14 - Data de devolução: 2024-06-24
+TOTAL: 4 empréstimos
+
+NOME: Laura Cardoso
+Empréstimo: 1116 - Livro: A Ponte de Pedra - Volume 110 - Autor: Marcelo Torres
+Data do empréstimo: 2025-02-26 - Data de devolução: 2025-03-08
+Empréstimo: 1130 - Livro: O Vale dos Sonhos - Volume 221 - Autor: Ana Carvalho
+Data do empréstimo: 2023-09-08 - Data de devolução: 2023-09-18
+Empréstimo: 2334 - Livro: O Mapa Perdido - Volume 227 - Autor: Juliana Mendes
+Data do empréstimo: 2026-06-07 - Data de devolução: 2026-06-17
+Empréstimo: 5658 - Livro: A Casa das Janelas Azuis - Volume 236 - Autor: Marina Duarte
+Data do empréstimo: 2023-11-07 - Data de devolução: 2023-11-17
+Empréstimo: 5831 - Livro: A Ponte de Pedra - Volume 147 - Autor: Marcelo Torres
+Data do empréstimo: 2025-03-14 - Data de devolução: 2025-03-24
+Empréstimo: 6589 - Livro: A Floresta Silenciosa - Volume 88 - Autor: Camila Santos
+Data do empréstimo: 2024-12-13 - Data de devolução: 2024-12-23
+Empréstimo: 7254 - Livro: Viagem ao Norte - Volume 228 - Autor: Eduardo Lima
+Data do empréstimo: 2024-11-13 - Data de devolução: 2024-11-23
+TOTAL: 7 empréstimos
+
+NOME: Felipe Costa
+Empréstimo: 3917 - Livro: O Segredo do Jardim - Volume 55 - Autor: Carlos Almeida
+Data do empréstimo: 2025-04-19 - Data de devolução: 2025-04-29
+TOTAL: 1 empréstimos
+
+NOME: Alice Ferreira
+Empréstimo: 4285 - Livro: O Diario de Helena - Volume 36 - Autor: Laura Barbosa
+Data do empréstimo: 2025-12-20 - Data de devolução: 2025-12-30
+Empréstimo: 5114 - Livro: A Ilha Distante - Volume 221 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-08-31 - Data de devolução: 2024-09-10
+Empréstimo: 6062 - Livro: O Castelo na Colina - Volume 176 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-01-07 - Data de devolução: 2024-01-17
+Empréstimo: 6146 - Livro: Noites de Inverno - Volume 60 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-02-20 - Data de devolução: 2023-03-02
+Empréstimo: 8468 - Livro: O Castelo na Colina - Volume 208 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-03-13 - Data de devolução: 2024-03-23
+TOTAL: 5 empréstimos
+
+NOME: Ricardo Xavier
+Empréstimo: 3558 - Livro: O Ultimo Farol - Volume 248 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-12-31 - Data de devolução: 2025-01-10
+Empréstimo: 7290 - Livro: O Misterio da Montanha - Volume 241 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-09-25 - Data de devolução: 2024-10-05
+TOTAL: 2 empréstimos
+
+NOME: Marcelo Monteiro
+Empréstimo: 8678 - Livro: O Relogio Esquecido - Volume 14 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-05-18 - Data de devolução: 2023-05-28
+TOTAL: 1 empréstimos
+
+NOME: Jonathan Moraes
+Nenhum empréstimo encontrado.
+
+NOME: Bento Marinho
+Nenhum empréstimo encontrado.
+
+NOME: Igor Batista
+Empréstimo: 4125 - Livro: Viagem ao Norte - Volume 141 - Autor: Eduardo Lima
+Data do empréstimo: 2024-12-25 - Data de devolução: 2025-01-04
+Empréstimo: 7465 - Livro: A Casa das Janelas Azuis - Volume 134 - Autor: Marina Duarte
+Data do empréstimo: 2023-02-28 - Data de devolução: 2023-03-10
+TOTAL: 2 empréstimos
+
+NOME: Enzo Marques
+Empréstimo: 3952 - Livro: A Cidade das Estrelas - Volume 147 - Autor: Luciana Castro
+Data do empréstimo: 2023-06-15 - Data de devolução: 2023-06-25
+TOTAL: 1 empréstimos
+
+NOME: Thiago Cardoso
+Empréstimo: 3546 - Livro: A Ponte de Pedra - Volume 241 - Autor: Marcelo Torres
+Data do empréstimo: 2023-06-06 - Data de devolução: 2023-06-16
+Empréstimo: 5143 - Livro: A Casa das Janelas Azuis - Volume 233 - Autor: Marina Duarte
+Data do empréstimo: 2023-05-27 - Data de devolução: 2023-06-06
+Empréstimo: 5344 - Livro: A Cidade das Estrelas - Volume 190 - Autor: Luciana Castro
+Data do empréstimo: 2025-08-21 - Data de devolução: 2025-08-31
+Empréstimo: 5689 - Livro: A Floresta Silenciosa - Volume 129 - Autor: Camila Santos
+Data do empréstimo: 2024-06-20 - Data de devolução: 2024-06-30
+Empréstimo: 6065 - Livro: A Casa das Janelas Azuis - Volume 98 - Autor: Marina Duarte
+Data do empréstimo: 2025-06-24 - Data de devolução: 2025-07-04
+Empréstimo: 8248 - Livro: O Ultimo Farol - Volume 101 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-04-29 - Data de devolução: 2023-05-09
+TOTAL: 6 empréstimos
+
+NOME: Helena Monteiro
+Empréstimo: 4809 - Livro: Viagem ao Norte - Volume 73 - Autor: Eduardo Lima
+Data do empréstimo: 2025-03-26 - Data de devolução: 2025-04-05
+Empréstimo: 8384 - Livro: A Floresta Silenciosa - Volume 145 - Autor: Camila Santos
+Data do empréstimo: 2025-10-23 - Data de devolução: 2025-11-02
+TOTAL: 2 empréstimos
+
+NOME: Igor Lopes
+Empréstimo: 446 - Livro: A Ilha Distante - Volume 75 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-12-06 - Data de devolução: 2023-12-16
+Empréstimo: 2657 - Livro: A Ponte de Pedra - Volume 16 - Autor: Marcelo Torres
+Data do empréstimo: 2026-09-11 - Data de devolução: 2026-09-21
+Empréstimo: 8561 - Livro: O Diario de Helena - Volume 107 - Autor: Laura Barbosa
+Data do empréstimo: 2024-12-12 - Data de devolução: 2024-12-22
+TOTAL: 3 empréstimos
+
+NOME: Antônia Pereira
+Nenhum empréstimo encontrado.
+
+NOME: Miguel Oliveira
+Empréstimo: 4381 - Livro: O Castelo na Colina - Volume 168 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-01-31 - Data de devolução: 2025-02-10
+Empréstimo: 7114 - Livro: Noites de Inverno - Volume 203 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-07-12 - Data de devolução: 2024-07-22
+TOTAL: 2 empréstimos
+
+NOME: Helena Costa
+Nenhum empréstimo encontrado.
+
+NOME: Bernardo Alves
+Empréstimo: 1640 - Livro: O Relogio Esquecido - Volume 227 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-07-03 - Data de devolução: 2024-07-13
+Empréstimo: 5317 - Livro: A Cidade das Estrelas - Volume 234 - Autor: Luciana Castro
+Data do empréstimo: 2026-02-08 - Data de devolução: 2026-02-18
+Empréstimo: 5882 - Livro: Noites de Inverno - Volume 174 - Autor: Pedro Nogueira
+Data do empréstimo: 2022-10-31 - Data de devolução: 2022-11-10
+TOTAL: 3 empréstimos
+
+NOME: Lucas Lima
+Empréstimo: 7578 - Livro: A Floresta Silenciosa - Volume 51 - Autor: Camila Santos
+Data do empréstimo: 2024-03-23 - Data de devolução: 2024-04-02
+TOTAL: 1 empréstimos
+
+NOME: Luana Goncalves
+Empréstimo: 4847 - Livro: O Caminho das Aguas - Volume 249 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-04-26 - Data de devolução: 2023-05-06
+TOTAL: 1 empréstimos
+
+NOME: Gustavo Bandeira
+Nenhum empréstimo encontrado.
+
+NOME: Eduarda Alves
+Empréstimo: 5155 - Livro: A Cidade das Estrelas - Volume 188 - Autor: Luciana Castro
+Data do empréstimo: 2023-09-09 - Data de devolução: 2023-09-19
+Empréstimo: 7463 - Livro: O Ultimo Farol - Volume 208 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-09-15 - Data de devolução: 2025-09-25
+TOTAL: 2 empréstimos
+
+NOME: Joao Borges
+Empréstimo: 1012 - Livro: O Caminho das Aguas - Volume 88 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-03-23 - Data de devolução: 2023-04-02
+Empréstimo: 1380 - Livro: O Caminho das Aguas - Volume 227 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-05-31 - Data de devolução: 2023-06-10
+Empréstimo: 2137 - Livro: O Castelo na Colina - Volume 177 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-08-25 - Data de devolução: 2026-09-04
+Empréstimo: 2428 - Livro: O Misterio da Montanha - Volume 232 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-08-04 - Data de devolução: 2024-08-14
+Empréstimo: 2623 - Livro: O Mapa Perdido - Volume 242 - Autor: Juliana Mendes
+Data do empréstimo: 2025-10-13 - Data de devolução: 2025-10-23
+Empréstimo: 6469 - Livro: O Vale dos Sonhos - Volume 21 - Autor: Ana Carvalho
+Data do empréstimo: 2025-07-13 - Data de devolução: 2025-07-23
+Empréstimo: 7174 - Livro: A Floresta Silenciosa - Volume 116 - Autor: Camila Santos
+Data do empréstimo: 2026-02-11 - Data de devolução: 2026-02-21
+TOTAL: 7 empréstimos
+
+NOME: Samuel Farias
+Nenhum empréstimo encontrado.
+
+NOME: Natalia Rodrigues
+Nenhum empréstimo encontrado.
+
+NOME: Gabriela Alves
+Empréstimo: 8790 - Livro: A Ponte de Pedra - Volume 105 - Autor: Marcelo Torres
+Data do empréstimo: 2024-02-15 - Data de devolução: 2024-02-25
+TOTAL: 1 empréstimos
+
+NOME: Bruno Lopes
+Empréstimo: 1628 - Livro: O Diario de Helena - Volume 172 - Autor: Laura Barbosa
+Data do empréstimo: 2026-06-02 - Data de devolução: 2026-06-12
+Empréstimo: 6346 - Livro: O Ultimo Farol - Volume 220 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-08-25 - Data de devolução: 2025-09-04
+Empréstimo: 6402 - Livro: O Misterio da Montanha - Volume 57 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-12-13 - Data de devolução: 2023-12-23
+Empréstimo: 6435 - Livro: As Aventuras de Clara - Volume 36 - Autor: Helena Martins
+Data do empréstimo: 2023-04-13 - Data de devolução: 2023-04-23
+Empréstimo: 8994 - Livro: O Diario de Helena - Volume 214 - Autor: Laura Barbosa
+Data do empréstimo: 2024-09-22 - Data de devolução: 2024-10-02
+TOTAL: 5 empréstimos
+
+NOME: Sérgio Cerqueira
+Nenhum empréstimo encontrado.
+
+NOME: Laura Borges
+Empréstimo: 905 - Livro: A Casa das Janelas Azuis - Volume 84 - Autor: Marina Duarte
+Data do empréstimo: 2023-10-07 - Data de devolução: 2023-10-17
+Empréstimo: 1797 - Livro: Viagem ao Norte - Volume 70 - Autor: Eduardo Lima
+Data do empréstimo: 2026-01-15 - Data de devolução: 2026-01-25
+Empréstimo: 2902 - Livro: O Castelo na Colina - Volume 114 - Autor: Clara Rodrigues
+Data do empréstimo: 2022-12-08 - Data de devolução: 2022-12-18
+Empréstimo: 3766 - Livro: A Luz da Manhã - Volume 182 - Autor: Bruno Machado
+Data do empréstimo: 2025-01-21 - Data de devolução: 2025-01-31
+TOTAL: 4 empréstimos
+
+NOME: Henrique Rocha
+Empréstimo: 1976 - Livro: O Ultimo Farol - Volume 238 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-03-16 - Data de devolução: 2023-03-26
+Empréstimo: 3212 - Livro: O Caminho das Aguas - Volume 241 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-12-11 - Data de devolução: 2022-12-21
+Empréstimo: 6930 - Livro: Noites de Inverno - Volume 197 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-11-13 - Data de devolução: 2023-11-23
+TOTAL: 3 empréstimos
+
+NOME: Sofia Marques
+Empréstimo: 9307 - Livro: A Ponte de Pedra - Volume 64 - Autor: Marcelo Torres
+Data do empréstimo: 2026-01-18 - Data de devolução: 2026-01-28
+Empréstimo: 9381 - Livro: As Cores do Vento - Volume 21 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-03-07 - Data de devolução: 2025-03-17
+TOTAL: 2 empréstimos
+
+NOME: Camila Amaral
+Nenhum empréstimo encontrado.
+
+NOME: Larissa Rodrigues
+Empréstimo: 1991 - Livro: Cartas para o Amanhã - Volume 201 - Autor: Beatriz Souza
+Data do empréstimo: 2025-06-18 - Data de devolução: 2025-06-28
+Empréstimo: 2439 - Livro: As Aventuras de Clara - Volume 207 - Autor: Helena Martins
+Data do empréstimo: 2023-12-19 - Data de devolução: 2023-12-29
+Empréstimo: 3072 - Livro: O Vale dos Sonhos - Volume 232 - Autor: Ana Carvalho
+Data do empréstimo: 2026-01-25 - Data de devolução: 2026-02-04
+Empréstimo: 3088 - Livro: A Luz da Manhã - Volume 52 - Autor: Bruno Machado
+Data do empréstimo: 2024-07-14 - Data de devolução: 2024-07-24
+Empréstimo: 6575 - Livro: A Floresta Silenciosa - Volume 120 - Autor: Camila Santos
+Data do empréstimo: 2023-12-27 - Data de devolução: 2024-01-06
+Empréstimo: 7635 - Livro: Noites de Inverno - Volume 221 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-07-23 - Data de devolução: 2023-08-02
+TOTAL: 6 empréstimos
+
+NOME: Bruno Monteiro
+Empréstimo: 1430 - Livro: A Ilha Distante - Volume 237 - Autor: Gabriel Vieira
+Data do empréstimo: 2022-10-29 - Data de devolução: 2022-11-08
+Empréstimo: 8279 - Livro: A Casa das Janelas Azuis - Volume 103 - Autor: Marina Duarte
+Data do empréstimo: 2024-06-06 - Data de devolução: 2024-06-16
+Empréstimo: 9555 - Livro: O Relogio Esquecido - Volume 129 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-07-17 - Data de devolução: 2024-07-27
+TOTAL: 3 empréstimos
+
+NOME: Felipe Lopes
+Empréstimo: 7402 - Livro: O Castelo na Colina - Volume 177 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-11-14 - Data de devolução: 2024-11-24
+Empréstimo: 9862 - Livro: As Cores do Vento - Volume 47 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-05-20 - Data de devolução: 2026-05-30
+TOTAL: 2 empréstimos
+
+NOME: Lívia Cerqueira
+Nenhum empréstimo encontrado.
+
+NOME: Rafaela Assis
+Nenhum empréstimo encontrado.
+
+NOME: Thiago Pimentel
+Nenhum empréstimo encontrado.
+
+NOME: Marcos Cardoso
+Empréstimo: 4628 - Livro: A Ponte de Pedra - Volume 125 - Autor: Marcelo Torres
+Data do empréstimo: 2025-12-11 - Data de devolução: 2025-12-21
+Empréstimo: 6763 - Livro: A Luz da Manhã - Volume 250 - Autor: Bruno Machado
+Data do empréstimo: 2024-10-02 - Data de devolução: 2024-10-12
+TOTAL: 2 empréstimos
+
+NOME: Carolina Costa
+Empréstimo: 4585 - Livro: A Cidade das Estrelas - Volume 228 - Autor: Luciana Castro
+Data do empréstimo: 2024-06-14 - Data de devolução: 2024-06-24
+Empréstimo: 5893 - Livro: Cartas para o Amanhã - Volume 226 - Autor: Beatriz Souza
+Data do empréstimo: 2023-02-07 - Data de devolução: 2023-02-17
+TOTAL: 2 empréstimos
+
+NOME: Sofia Nogueira
+Empréstimo: 8900 - Livro: O Ultimo Farol - Volume 42 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-03-24 - Data de devolução: 2026-04-03
+TOTAL: 1 empréstimos
+
+NOME: Thiago Alves
+Empréstimo: 606 - Livro: O Vale dos Sonhos - Volume 193 - Autor: Ana Carvalho
+Data do empréstimo: 2023-04-21 - Data de devolução: 2023-05-01
+Empréstimo: 2339 - Livro: O Diario de Helena - Volume 54 - Autor: Laura Barbosa
+Data do empréstimo: 2026-09-13 - Data de devolução: 2026-09-23
+Empréstimo: 3523 - Livro: A Floresta Silenciosa - Volume 243 - Autor: Camila Santos
+Data do empréstimo: 2026-09-03 - Data de devolução: 2026-09-13
+Empréstimo: 9974 - Livro: A Luz da Manhã - Volume 6 - Autor: Bruno Machado
+Data do empréstimo: 2023-08-03 - Data de devolução: 2023-08-13
+TOTAL: 4 empréstimos
+
+NOME: Talita Queiroz
+Nenhum empréstimo encontrado.
+
+NOME: Brenda Rangel
+Nenhum empréstimo encontrado.
+
+NOME: Marina Freitas
+Empréstimo: 1081 - Livro: As Aventuras de Clara - Volume 159 - Autor: Helena Martins
+Data do empréstimo: 2023-02-26 - Data de devolução: 2023-03-08
+Empréstimo: 5526 - Livro: A Ponte de Pedra - Volume 21 - Autor: Marcelo Torres
+Data do empréstimo: 2023-03-14 - Data de devolução: 2023-03-24
+Empréstimo: 7328 - Livro: A Floresta Silenciosa - Volume 98 - Autor: Camila Santos
+Data do empréstimo: 2023-05-02 - Data de devolução: 2023-05-12
+TOTAL: 3 empréstimos
+
+NOME: Rodrigo Soares
+Empréstimo: 2809 - Livro: O Diario de Helena - Volume 188 - Autor: Laura Barbosa
+Data do empréstimo: 2023-01-11 - Data de devolução: 2023-01-21
+Empréstimo: 6635 - Livro: A Ponte de Pedra - Volume 175 - Autor: Marcelo Torres
+Data do empréstimo: 2023-08-23 - Data de devolução: 2023-09-02
+Empréstimo: 6770 - Livro: O Caminho das Aguas - Volume 166 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-11-16 - Data de devolução: 2022-11-26
+Empréstimo: 7267 - Livro: Cartas para o Amanhã - Volume 116 - Autor: Beatriz Souza
+Data do empréstimo: 2023-12-07 - Data de devolução: 2023-12-17
+Empréstimo: 8448 - Livro: As Cores do Vento - Volume 66 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-06-03 - Data de devolução: 2024-06-13
+TOTAL: 5 empréstimos
+
+NOME: Fernanda Sampaio
+Nenhum empréstimo encontrado.
+
+NOME: Marcos Viana
+Nenhum empréstimo encontrado.
+
+NOME: Marcelo Moraes
+Empréstimo: 358 - Livro: A Luz da Manhã - Volume 226 - Autor: Bruno Machado
+Data do empréstimo: 2025-09-10 - Data de devolução: 2025-09-20
+Empréstimo: 1503 - Livro: As Aventuras de Clara - Volume 19 - Autor: Helena Martins
+Data do empréstimo: 2023-04-26 - Data de devolução: 2023-05-06
+Empréstimo: 5626 - Livro: A Ponte de Pedra - Volume 31 - Autor: Marcelo Torres
+Data do empréstimo: 2024-11-11 - Data de devolução: 2024-11-21
+Empréstimo: 6268 - Livro: O Diario de Helena - Volume 11 - Autor: Laura Barbosa
+Data do empréstimo: 2024-04-24 - Data de devolução: 2024-05-04
+Empréstimo: 8005 - Livro: O Misterio da Montanha - Volume 20 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-03-01 - Data de devolução: 2025-03-11
+TOTAL: 5 empréstimos
+
+NOME: Igor Costa
+Empréstimo: 7003 - Livro: Viagem ao Norte - Volume 154 - Autor: Eduardo Lima
+Data do empréstimo: 2023-08-20 - Data de devolução: 2023-08-30
+Empréstimo: 7108 - Livro: O Diario de Helena - Volume 248 - Autor: Laura Barbosa
+Data do empréstimo: 2023-11-13 - Data de devolução: 2023-11-23
+Empréstimo: 7430 - Livro: A Floresta Silenciosa - Volume 107 - Autor: Camila Santos
+Data do empréstimo: 2024-03-12 - Data de devolução: 2024-03-22
+Empréstimo: 9672 - Livro: Noites de Inverno - Volume 55 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-01-27 - Data de devolução: 2023-02-06
+TOTAL: 4 empréstimos
+
+NOME: Pedro Medeiros
+Empréstimo: 1737 - Livro: A Ponte de Pedra - Volume 226 - Autor: Marcelo Torres
+Data do empréstimo: 2025-02-13 - Data de devolução: 2025-02-23
+Empréstimo: 3614 - Livro: O Castelo na Colina - Volume 54 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-04-06 - Data de devolução: 2024-04-16
+Empréstimo: 4984 - Livro: A Casa das Janelas Azuis - Volume 218 - Autor: Marina Duarte
+Data do empréstimo: 2026-07-05 - Data de devolução: 2026-07-15
+Empréstimo: 6679 - Livro: O Misterio da Montanha - Volume 172 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-08-15 - Data de devolução: 2023-08-25
+TOTAL: 4 empréstimos
+
+NOME: Murilo Sampaio
+Nenhum empréstimo encontrado.
+
+NOME: Leticia Costa
+Empréstimo: 1602 - Livro: O Relogio Esquecido - Volume 183 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-07-03 - Data de devolução: 2024-07-13
+Empréstimo: 2576 - Livro: O Segredo do Jardim - Volume 63 - Autor: Carlos Almeida
+Data do empréstimo: 2025-03-05 - Data de devolução: 2025-03-15
+Empréstimo: 5046 - Livro: A Floresta Silenciosa - Volume 185 - Autor: Camila Santos
+Data do empréstimo: 2026-07-28 - Data de devolução: 2026-08-07
+Empréstimo: 6732 - Livro: O Vale dos Sonhos - Volume 23 - Autor: Ana Carvalho
+Data do empréstimo: 2025-10-06 - Data de devolução: 2025-10-16
+Empréstimo: 6781 - Livro: O Caminho das Aguas - Volume 20 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-10-30 - Data de devolução: 2022-11-09
+TOTAL: 5 empréstimos
+
+NOME: Carlos Rocha
+Empréstimo: 2773 - Livro: Cartas para o Amanhã - Volume 111 - Autor: Beatriz Souza
+Data do empréstimo: 2025-10-21 - Data de devolução: 2025-10-31
+Empréstimo: 4000 - Livro: Cartas para o Amanhã - Volume 133 - Autor: Beatriz Souza
+Data do empréstimo: 2023-05-13 - Data de devolução: 2023-05-23
+Empréstimo: 9770 - Livro: O Misterio da Montanha - Volume 243 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-03-18 - Data de devolução: 2023-03-28
+TOTAL: 3 empréstimos
+
+NOME: Samuel Goncalves
+Empréstimo: 82 - Livro: Viagem ao Norte - Volume 25 - Autor: Eduardo Lima
+Data do empréstimo: 2023-01-16 - Data de devolução: 2023-01-26
+Empréstimo: 3649 - Livro: As Cores do Vento - Volume 166 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-02-26 - Data de devolução: 2025-03-08
+Empréstimo: 4195 - Livro: Noites de Inverno - Volume 186 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-01-12 - Data de devolução: 2024-01-22
+Empréstimo: 4219 - Livro: As Cores do Vento - Volume 102 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-06-26 - Data de devolução: 2026-07-06
+Empréstimo: 4575 - Livro: O Vale dos Sonhos - Volume 82 - Autor: Ana Carvalho
+Data do empréstimo: 2023-09-15 - Data de devolução: 2023-09-25
+Empréstimo: 6673 - Livro: O Misterio da Montanha - Volume 24 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-09-13 - Data de devolução: 2024-09-23
+Empréstimo: 8234 - Livro: O Ultimo Farol - Volume 136 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-11-23 - Data de devolução: 2025-12-03
+TOTAL: 7 empréstimos
+
+NOME: Enzo Marinho
+Nenhum empréstimo encontrado.
+
+NOME: Diego Soares
+Empréstimo: 4834 - Livro: As Cores do Vento - Volume 201 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-10-12 - Data de devolução: 2025-10-22
+Empréstimo: 8237 - Livro: As Aventuras de Clara - Volume 38 - Autor: Helena Martins
+Data do empréstimo: 2024-11-29 - Data de devolução: 2024-12-09
+Empréstimo: 9216 - Livro: Noites de Inverno - Volume 59 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-04-09 - Data de devolução: 2024-04-19
+TOTAL: 3 empréstimos
+
+NOME: Marcelo Marques
+Empréstimo: 3217 - Livro: O Segredo do Jardim - Volume 17 - Autor: Carlos Almeida
+Data do empréstimo: 2025-05-31 - Data de devolução: 2025-06-10
+Empréstimo: 4469 - Livro: A Luz da Manhã - Volume 41 - Autor: Bruno Machado
+Data do empréstimo: 2024-12-29 - Data de devolução: 2025-01-08
+Empréstimo: 9687 - Livro: O Castelo na Colina - Volume 107 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-01-14 - Data de devolução: 2023-01-24
+TOTAL: 3 empréstimos
+
+NOME: Enzo Dias
+Empréstimo: 1399 - Livro: O Misterio da Montanha - Volume 150 - Autor: Fernando Ribeiro
+Data do empréstimo: 2022-11-11 - Data de devolução: 2022-11-21
+Empréstimo: 2582 - Livro: O Relogio Esquecido - Volume 178 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-03-31 - Data de devolução: 2023-04-10
+Empréstimo: 6352 - Livro: O Relogio Esquecido - Volume 138 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-06-03 - Data de devolução: 2026-06-13
+Empréstimo: 8556 - Livro: A Cidade das Estrelas - Volume 168 - Autor: Luciana Castro
+Data do empréstimo: 2025-04-21 - Data de devolução: 2025-05-01
+TOTAL: 4 empréstimos
+
+NOME: Bruna Almeida
+Empréstimo: 5147 - Livro: O Vale dos Sonhos - Volume 72 - Autor: Ana Carvalho
+Data do empréstimo: 2025-06-22 - Data de devolução: 2025-07-02
+Empréstimo: 8775 - Livro: Noites de Inverno - Volume 224 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-12-14 - Data de devolução: 2025-12-24
+TOTAL: 2 empréstimos
+
+NOME: Luiz Ferreira
+Empréstimo: 2029 - Livro: O Diario de Helena - Volume 126 - Autor: Laura Barbosa
+Data do empréstimo: 2023-05-27 - Data de devolução: 2023-06-06
+Empréstimo: 4867 - Livro: Cartas para o Amanhã - Volume 69 - Autor: Beatriz Souza
+Data do empréstimo: 2026-03-28 - Data de devolução: 2026-04-07
+Empréstimo: 4981 - Livro: O Relogio Esquecido - Volume 226 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-08-20 - Data de devolução: 2024-08-30
+Empréstimo: 7315 - Livro: Viagem ao Norte - Volume 216 - Autor: Eduardo Lima
+Data do empréstimo: 2025-07-24 - Data de devolução: 2025-08-03
+TOTAL: 4 empréstimos
+
+NOME: Cauã Lima
+Empréstimo: 1451 - Livro: As Cores do Vento - Volume 243 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-12-24 - Data de devolução: 2025-01-03
+Empréstimo: 6187 - Livro: A Luz da Manhã - Volume 41 - Autor: Bruno Machado
+Data do empréstimo: 2022-11-25 - Data de devolução: 2022-12-05
+Empréstimo: 7768 - Livro: A Ilha Distante - Volume 12 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-08-16 - Data de devolução: 2025-08-26
+Empréstimo: 9918 - Livro: Cartas para o Amanhã - Volume 179 - Autor: Beatriz Souza
+Data do empréstimo: 2025-11-20 - Data de devolução: 2025-11-30
+TOTAL: 4 empréstimos
+
+NOME: Vitor Nascimento
+Empréstimo: 6915 - Livro: O Misterio da Montanha - Volume 154 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-04-26 - Data de devolução: 2026-05-06
+Empréstimo: 8715 - Livro: O Relogio Esquecido - Volume 4 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-07-28 - Data de devolução: 2026-08-07
+TOTAL: 2 empréstimos
+
+NOME: Samuel Rodrigues
+Empréstimo: 2588 - Livro: Viagem ao Norte - Volume 200 - Autor: Eduardo Lima
+Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
+Empréstimo: 6233 - Livro: As Aventuras de Clara - Volume 222 - Autor: Helena Martins
+Data do empréstimo: 2023-08-02 - Data de devolução: 2023-08-12
+TOTAL: 2 empréstimos
+
+NOME: Bernardo Vieira
+Empréstimo: 723 - Livro: Viagem ao Norte - Volume 60 - Autor: Eduardo Lima
+Data do empréstimo: 2023-01-05 - Data de devolução: 2023-01-15
+Empréstimo: 6471 - Livro: A Casa das Janelas Azuis - Volume 245 - Autor: Marina Duarte
+Data do empréstimo: 2023-05-30 - Data de devolução: 2023-06-09
+Empréstimo: 9411 - Livro: A Ilha Distante - Volume 134 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-03-02 - Data de devolução: 2023-03-12
+Empréstimo: 9800 - Livro: A Ilha Distante - Volume 60 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-11-01 - Data de devolução: 2024-11-11
+TOTAL: 4 empréstimos
+
+NOME: Amanda Moreira
+Empréstimo: 1879 - Livro: A Luz da Manhã - Volume 234 - Autor: Bruno Machado
+Data do empréstimo: 2025-06-08 - Data de devolução: 2025-06-18
+Empréstimo: 4813 - Livro: A Casa das Janelas Azuis - Volume 73 - Autor: Marina Duarte
+Data do empréstimo: 2024-09-03 - Data de devolução: 2024-09-13
+TOTAL: 2 empréstimos
+
+NOME: Jéssica Neves
+Nenhum empréstimo encontrado.
+
+NOME: Fernanda Cavalcante
+Nenhum empréstimo encontrado.
+
+NOME: Marcelo Soares
+Empréstimo: 1610 - Livro: O Segredo do Jardim - Volume 132 - Autor: Carlos Almeida
+Data do empréstimo: 2025-01-24 - Data de devolução: 2025-02-03
+Empréstimo: 3234 - Livro: O Ultimo Farol - Volume 233 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-11-10 - Data de devolução: 2024-11-20
+Empréstimo: 5213 - Livro: O Ultimo Farol - Volume 135 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-01-27 - Data de devolução: 2024-02-06
+Empréstimo: 6133 - Livro: O Mapa Perdido - Volume 149 - Autor: Juliana Mendes
+Data do empréstimo: 2025-11-23 - Data de devolução: 2025-12-03
+Empréstimo: 8341 - Livro: Viagem ao Norte - Volume 130 - Autor: Eduardo Lima
+Data do empréstimo: 2023-09-06 - Data de devolução: 2023-09-16
+Empréstimo: 9310 - Livro: As Cores do Vento - Volume 15 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
+TOTAL: 6 empréstimos
+
+NOME: Luana Pereira
+Empréstimo: 495 - Livro: O Mapa Perdido - Volume 246 - Autor: Juliana Mendes
+Data do empréstimo: 2026-06-11 - Data de devolução: 2026-06-21
+Empréstimo: 4409 - Livro: A Ponte de Pedra - Volume 231 - Autor: Marcelo Torres
+Data do empréstimo: 2025-06-07 - Data de devolução: 2025-06-17
+TOTAL: 2 empréstimos
+
+NOME: Raul Martins
+Empréstimo: 1561 - Livro: As Cores do Vento - Volume 184 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-01-15 - Data de devolução: 2024-01-25
+Empréstimo: 3471 - Livro: O Misterio da Montanha - Volume 201 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-04-22 - Data de devolução: 2024-05-02
+Empréstimo: 5651 - Livro: Viagem ao Norte - Volume 196 - Autor: Eduardo Lima
+Data do empréstimo: 2025-11-02 - Data de devolução: 2025-11-12
+Empréstimo: 6765 - Livro: As Aventuras de Clara - Volume 95 - Autor: Helena Martins
+Data do empréstimo: 2024-10-01 - Data de devolução: 2024-10-11
+Empréstimo: 9165 - Livro: O Segredo do Jardim - Volume 43 - Autor: Carlos Almeida
+Data do empréstimo: 2022-10-03 - Data de devolução: 2022-10-13
+Empréstimo: 9339 - Livro: A Casa das Janelas Azuis - Volume 15 - Autor: Marina Duarte
+Data do empréstimo: 2026-05-05 - Data de devolução: 2026-05-15
+TOTAL: 6 empréstimos
+
+NOME: Natalia Lopes
+Empréstimo: 224 - Livro: A Ponte de Pedra - Volume 174 - Autor: Marcelo Torres
+Data do empréstimo: 2024-01-21 - Data de devolução: 2024-01-31
+Empréstimo: 2414 - Livro: O Castelo na Colina - Volume 240 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-07-13 - Data de devolução: 2023-07-23
+Empréstimo: 7205 - Livro: As Aventuras de Clara - Volume 198 - Autor: Helena Martins
+Data do empréstimo: 2023-07-30 - Data de devolução: 2023-08-09
+Empréstimo: 7756 - Livro: O Misterio da Montanha - Volume 93 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-05-27 - Data de devolução: 2025-06-06
+TOTAL: 4 empréstimos
+
+NOME: Daniel Costa
+Empréstimo: 1076 - Livro: O Caminho das Aguas - Volume 168 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-01-25 - Data de devolução: 2025-02-04
+Empréstimo: 3175 - Livro: O Caminho das Aguas - Volume 129 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-08-27 - Data de devolução: 2024-09-06
+Empréstimo: 7520 - Livro: A Casa das Janelas Azuis - Volume 246 - Autor: Marina Duarte
+Data do empréstimo: 2024-12-04 - Data de devolução: 2024-12-14
+TOTAL: 3 empréstimos
+
+NOME: Natália Fonseca
+Nenhum empréstimo encontrado.
+
+NOME: Ana Xavier
+Empréstimo: 572 - Livro: Viagem ao Norte - Volume 236 - Autor: Eduardo Lima
+Data do empréstimo: 2026-06-07 - Data de devolução: 2026-06-17
+Empréstimo: 6327 - Livro: A Cidade das Estrelas - Volume 76 - Autor: Luciana Castro
+Data do empréstimo: 2022-10-23 - Data de devolução: 2022-11-02
+TOTAL: 2 empréstimos
+
+NOME: Clara Martins
+Empréstimo: 1811 - Livro: A Ilha Distante - Volume 43 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-09-22 - Data de devolução: 2024-10-02
+TOTAL: 1 empréstimos
+
+NOME: Ana Barbosa
+Empréstimo: 521 - Livro: A Ponte de Pedra - Volume 34 - Autor: Marcelo Torres
+Data do empréstimo: 2024-10-24 - Data de devolução: 2024-11-03
+Empréstimo: 7858 - Livro: Noites de Inverno - Volume 75 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-04-09 - Data de devolução: 2025-04-19
+TOTAL: 2 empréstimos
+
+NOME: Leandro Bandeira
+Nenhum empréstimo encontrado.
+
+NOME: Rita Cordeiro
+Nenhum empréstimo encontrado.
+
+NOME: Igor Lima
+Empréstimo: 3613 - Livro: Cartas para o Amanhã - Volume 219 - Autor: Beatriz Souza
+Data do empréstimo: 2024-06-14 - Data de devolução: 2024-06-24
+Empréstimo: 7201 - Livro: O Ultimo Farol - Volume 164 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-02-25 - Data de devolução: 2024-03-06
+Empréstimo: 8276 - Livro: O Mapa Perdido - Volume 13 - Autor: Juliana Mendes
+Data do empréstimo: 2023-12-06 - Data de devolução: 2023-12-16
+TOTAL: 3 empréstimos
+
+NOME: Leandro Lacerda
+Nenhum empréstimo encontrado.
+
+NOME: Arthur Barreto
+Nenhum empréstimo encontrado.
+
+NOME: Vinicius Almeida
+Empréstimo: 5282 - Livro: O Segredo do Jardim - Volume 164 - Autor: Carlos Almeida
+Data do empréstimo: 2024-09-02 - Data de devolução: 2024-09-12
+Empréstimo: 9855 - Livro: O Relogio Esquecido - Volume 60 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-12-12 - Data de devolução: 2023-12-22
+TOTAL: 2 empréstimos
+
+NOME: Lívia Peixoto
+Nenhum empréstimo encontrado.
+
+NOME: Lucas Moraes
+Empréstimo: 2587 - Livro: O Misterio da Montanha - Volume 192 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-12-22 - Data de devolução: 2025-01-01
+Empréstimo: 4876 - Livro: A Ilha Distante - Volume 59 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-12-18 - Data de devolução: 2025-12-28
+TOTAL: 2 empréstimos
+
+NOME: Murilo Goncalves
+Empréstimo: 58 - Livro: O Ultimo Farol - Volume 3 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-08-07 - Data de devolução: 2026-08-17
+Empréstimo: 1666 - Livro: O Diario de Helena - Volume 82 - Autor: Laura Barbosa
+Data do empréstimo: 2025-11-17 - Data de devolução: 2025-11-27
+Empréstimo: 2057 - Livro: A Luz da Manhã - Volume 54 - Autor: Bruno Machado
+Data do empréstimo: 2025-10-22 - Data de devolução: 2025-11-01
+Empréstimo: 4705 - Livro: As Aventuras de Clara - Volume 169 - Autor: Helena Martins
+Data do empréstimo: 2025-07-04 - Data de devolução: 2025-07-14
+Empréstimo: 7152 - Livro: Viagem ao Norte - Volume 16 - Autor: Eduardo Lima
+Data do empréstimo: 2024-08-27 - Data de devolução: 2024-09-06
+TOTAL: 5 empréstimos
+
+NOME: Clara Souza
+Empréstimo: 2523 - Livro: Viagem ao Norte - Volume 203 - Autor: Eduardo Lima
+Data do empréstimo: 2023-09-07 - Data de devolução: 2023-09-17
+Empréstimo: 2708 - Livro: A Ponte de Pedra - Volume 156 - Autor: Marcelo Torres
+Data do empréstimo: 2023-11-07 - Data de devolução: 2023-11-17
+Empréstimo: 4637 - Livro: Cartas para o Amanhã - Volume 25 - Autor: Beatriz Souza
+Data do empréstimo: 2023-01-27 - Data de devolução: 2023-02-06
+Empréstimo: 5172 - Livro: O Vale dos Sonhos - Volume 111 - Autor: Ana Carvalho
+Data do empréstimo: 2024-09-28 - Data de devolução: 2024-10-08
+Empréstimo: 6932 - Livro: O Ultimo Farol - Volume 191 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-10-03 - Data de devolução: 2023-10-13
+Empréstimo: 7833 - Livro: A Ilha Distante - Volume 13 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-07-09 - Data de devolução: 2024-07-19
+Empréstimo: 8338 - Livro: O Ultimo Farol - Volume 231 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-02-11 - Data de devolução: 2026-02-21
+Empréstimo: 9084 - Livro: O Diario de Helena - Volume 192 - Autor: Laura Barbosa
+Data do empréstimo: 2026-08-29 - Data de devolução: 2026-09-08
+TOTAL: 8 empréstimos
+
+NOME: Marcelo Borges
+Empréstimo: 965 - Livro: A Ponte de Pedra - Volume 184 - Autor: Marcelo Torres
+Data do empréstimo: 2024-04-12 - Data de devolução: 2024-04-22
+Empréstimo: 1688 - Livro: A Ponte de Pedra - Volume 216 - Autor: Marcelo Torres
+Data do empréstimo: 2025-12-16 - Data de devolução: 2025-12-26
+Empréstimo: 5898 - Livro: A Luz da Manhã - Volume 43 - Autor: Bruno Machado
+Data do empréstimo: 2024-03-16 - Data de devolução: 2024-03-26
+Empréstimo: 9579 - Livro: O Misterio da Montanha - Volume 107 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-12-02 - Data de devolução: 2023-12-12
+TOTAL: 4 empréstimos
+
+NOME: Enzo Duarte
+Empréstimo: 544 - Livro: A Ponte de Pedra - Volume 68 - Autor: Marcelo Torres
+Data do empréstimo: 2024-08-30 - Data de devolução: 2024-09-09
+Empréstimo: 5412 - Livro: As Cores do Vento - Volume 247 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-01-24 - Data de devolução: 2023-02-03
+Empréstimo: 6281 - Livro: O Castelo na Colina - Volume 217 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-09-21 - Data de devolução: 2023-10-01
+TOTAL: 3 empréstimos
+
+NOME: Rafael Rocha
+Empréstimo: 1713 - Livro: A Cidade das Estrelas - Volume 38 - Autor: Luciana Castro
+Data do empréstimo: 2024-03-28 - Data de devolução: 2024-04-07
+Empréstimo: 7256 - Livro: O Caminho das Aguas - Volume 213 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-02-05 - Data de devolução: 2026-02-15
+TOTAL: 2 empréstimos
+
+NOME: Renata Oliveira
+Empréstimo: 7289 - Livro: A Ilha Distante - Volume 10 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-07-18 - Data de devolução: 2023-07-28
+TOTAL: 1 empréstimos
+
+NOME: Isabela Ramos
+Empréstimo: 130 - Livro: A Casa das Janelas Azuis - Volume 84 - Autor: Marina Duarte
+Data do empréstimo: 2024-08-20 - Data de devolução: 2024-08-30
+Empréstimo: 132 - Livro: O Mapa Perdido - Volume 99 - Autor: Juliana Mendes
+Data do empréstimo: 2025-07-14 - Data de devolução: 2025-07-24
+Empréstimo: 1485 - Livro: A Cidade das Estrelas - Volume 19 - Autor: Luciana Castro
+Data do empréstimo: 2026-08-20 - Data de devolução: 2026-08-30
+TOTAL: 3 empréstimos
+
+NOME: Renato Esteves
+Nenhum empréstimo encontrado.
+
+NOME: Murilo Silva
+Empréstimo: 1627 - Livro: Viagem ao Norte - Volume 171 - Autor: Eduardo Lima
+Data do empréstimo: 2023-06-16 - Data de devolução: 2023-06-26
+Empréstimo: 4976 - Livro: As Aventuras de Clara - Volume 160 - Autor: Helena Martins
+Data do empréstimo: 2026-09-13 - Data de devolução: 2026-09-23
+TOTAL: 2 empréstimos
+
+NOME: Alice Nascimento
+Empréstimo: 265 - Livro: O Misterio da Montanha - Volume 28 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-12-20 - Data de devolução: 2023-12-30
+Empréstimo: 2850 - Livro: O Caminho das Aguas - Volume 91 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-08-31 - Data de devolução: 2023-09-10
+Empréstimo: 3144 - Livro: A Ilha Distante - Volume 32 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-08-14 - Data de devolução: 2024-08-24
+Empréstimo: 3534 - Livro: Cartas para o Amanhã - Volume 139 - Autor: Beatriz Souza
+Data do empréstimo: 2025-03-13 - Data de devolução: 2025-03-23
+Empréstimo: 3676 - Livro: O Vale dos Sonhos - Volume 134 - Autor: Ana Carvalho
+Data do empréstimo: 2026-07-25 - Data de devolução: 2026-08-04
+Empréstimo: 3709 - Livro: O Caminho das Aguas - Volume 40 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-10-14 - Data de devolução: 2024-10-24
+Empréstimo: 7974 - Livro: O Castelo na Colina - Volume 51 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-08-23 - Data de devolução: 2024-09-02
+Empréstimo: 8386 - Livro: O Castelo na Colina - Volume 82 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-08-07 - Data de devolução: 2025-08-17
+TOTAL: 8 empréstimos
+
+NOME: Emanuel Peixoto
+Nenhum empréstimo encontrado.
+
+NOME: Alice Moreira
+Empréstimo: 1857 - Livro: As Cores do Vento - Volume 94 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-12-05 - Data de devolução: 2025-12-15
+Empréstimo: 2845 - Livro: O Ultimo Farol - Volume 137 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-05-28 - Data de devolução: 2023-06-07
+Empréstimo: 6115 - Livro: A Ponte de Pedra - Volume 83 - Autor: Marcelo Torres
+Data do empréstimo: 2025-03-10 - Data de devolução: 2025-03-20
+Empréstimo: 7379 - Livro: Noites de Inverno - Volume 119 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-12-06 - Data de devolução: 2024-12-16
+TOTAL: 4 empréstimos
+
+NOME: Marcelo Teixeira
+Empréstimo: 13 - Livro: As Aventuras de Clara - Volume 161 - Autor: Helena Martins
+Data do empréstimo: 2022-11-30 - Data de devolução: 2022-12-10
+Empréstimo: 4335 - Livro: O Ultimo Farol - Volume 61 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-04-25 - Data de devolução: 2023-05-05
+TOTAL: 2 empréstimos
+
+NOME: Sabrina Dias
+Empréstimo: 5560 - Livro: A Ponte de Pedra - Volume 145 - Autor: Marcelo Torres
+Data do empréstimo: 2025-12-10 - Data de devolução: 2025-12-20
+Empréstimo: 5857 - Livro: O Misterio da Montanha - Volume 32 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-03-09 - Data de devolução: 2023-03-19
+TOTAL: 2 empréstimos
+
+NOME: Ricardo Vieira
+Empréstimo: 100 - Livro: A Casa das Janelas Azuis - Volume 183 - Autor: Marina Duarte
+Data do empréstimo: 2025-10-28 - Data de devolução: 2025-11-07
+Empréstimo: 1366 - Livro: A Cidade das Estrelas - Volume 34 - Autor: Luciana Castro
+Data do empréstimo: 2023-09-14 - Data de devolução: 2023-09-24
+Empréstimo: 4580 - Livro: O Vale dos Sonhos - Volume 239 - Autor: Ana Carvalho
+Data do empréstimo: 2026-08-29 - Data de devolução: 2026-09-08
+TOTAL: 3 empréstimos
+
+NOME: Marcelo Nogueira
+Empréstimo: 2911 - Livro: A Floresta Silenciosa - Volume 225 - Autor: Camila Santos
+Data do empréstimo: 2022-10-26 - Data de devolução: 2022-11-05
+Empréstimo: 3660 - Livro: Noites de Inverno - Volume 136 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-08-27 - Data de devolução: 2024-09-06
+Empréstimo: 8267 - Livro: As Cores do Vento - Volume 94 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-03-15 - Data de devolução: 2026-03-25
+Empréstimo: 9162 - Livro: A Casa das Janelas Azuis - Volume 32 - Autor: Marina Duarte
+Data do empréstimo: 2024-07-31 - Data de devolução: 2024-08-10
+Empréstimo: 9684 - Livro: A Ilha Distante - Volume 143 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-07-07 - Data de devolução: 2023-07-17
+TOTAL: 5 empréstimos
+
+NOME: Valentina Vieira
+Empréstimo: 421 - Livro: Noites de Inverno - Volume 172 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-04-02 - Data de devolução: 2026-04-12
+Empréstimo: 3822 - Livro: O Castelo na Colina - Volume 216 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-09-18 - Data de devolução: 2024-09-28
+Empréstimo: 5984 - Livro: A Casa das Janelas Azuis - Volume 181 - Autor: Marina Duarte
+Data do empréstimo: 2022-11-18 - Data de devolução: 2022-11-28
+TOTAL: 3 empréstimos
+
+NOME: Renata Torres
+Empréstimo: 1277 - Livro: O Vale dos Sonhos - Volume 136 - Autor: Ana Carvalho
+Data do empréstimo: 2023-04-18 - Data de devolução: 2023-04-28
+Empréstimo: 4004 - Livro: O Misterio da Montanha - Volume 250 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-04-28 - Data de devolução: 2024-05-08
+Empréstimo: 4315 - Livro: O Vale dos Sonhos - Volume 155 - Autor: Ana Carvalho
+Data do empréstimo: 2024-07-08 - Data de devolução: 2024-07-18
+Empréstimo: 6255 - Livro: Noites de Inverno - Volume 189 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-04-01 - Data de devolução: 2024-04-11
+TOTAL: 4 empréstimos
+
+NOME: Manuela Cordeiro
+Nenhum empréstimo encontrado.
+
+NOME: Manuela Rezende
+Nenhum empréstimo encontrado.
+
+NOME: Rodrigo Torres
+Empréstimo: 27 - Livro: O Diario de Helena - Volume 200 - Autor: Laura Barbosa
+Data do empréstimo: 2023-09-06 - Data de devolução: 2023-09-16
+Empréstimo: 5029 - Livro: A Cidade das Estrelas - Volume 105 - Autor: Luciana Castro
+Data do empréstimo: 2024-04-08 - Data de devolução: 2024-04-18
+Empréstimo: 6224 - Livro: As Aventuras de Clara - Volume 216 - Autor: Helena Martins
+Data do empréstimo: 2024-08-25 - Data de devolução: 2024-09-04
+Empréstimo: 8023 - Livro: Noites de Inverno - Volume 216 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-03-14 - Data de devolução: 2023-03-24
+TOTAL: 4 empréstimos
+
+NOME: Leonardo Gomes
+Empréstimo: 4789 - Livro: A Ilha Distante - Volume 190 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-05-20 - Data de devolução: 2024-05-30
+Empréstimo: 6403 - Livro: O Caminho das Aguas - Volume 32 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-03-16 - Data de devolução: 2023-03-26
+Empréstimo: 8894 - Livro: O Ultimo Farol - Volume 151 - Autor: Rafael Oliveira
+Data do empréstimo: 2024-04-22 - Data de devolução: 2024-05-02
+TOTAL: 3 empréstimos
+
+NOME: Ricardo Carvalho
+Empréstimo: 3109 - Livro: O Misterio da Montanha - Volume 115 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-03-14 - Data de devolução: 2026-03-24
+Empréstimo: 4490 - Livro: O Relogio Esquecido - Volume 190 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-09-28 - Data de devolução: 2024-10-08
+Empréstimo: 4559 - Livro: Noites de Inverno - Volume 102 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-02-03 - Data de devolução: 2026-02-13
+Empréstimo: 6269 - Livro: O Caminho das Aguas - Volume 126 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-02-09 - Data de devolução: 2026-02-19
+Empréstimo: 6754 - Livro: As Aventuras de Clara - Volume 11 - Autor: Helena Martins
+Data do empréstimo: 2024-10-01 - Data de devolução: 2024-10-11
+Empréstimo: 7338 - Livro: As Cores do Vento - Volume 104 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-02-08 - Data de devolução: 2024-02-18
+Empréstimo: 7943 - Livro: O Misterio da Montanha - Volume 53 - Autor: Fernando Ribeiro
+Data do empréstimo: 2022-12-23 - Data de devolução: 2023-01-02
+Empréstimo: 8049 - Livro: Noites de Inverno - Volume 200 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-04-18 - Data de devolução: 2024-04-28
+TOTAL: 8 empréstimos
+
+NOME: Nicolas Nogueira
+Empréstimo: 3651 - Livro: Noites de Inverno - Volume 169 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-02-26 - Data de devolução: 2024-03-07
+Empréstimo: 4838 - Livro: A Ponte de Pedra - Volume 82 - Autor: Marcelo Torres
+Data do empréstimo: 2023-11-06 - Data de devolução: 2023-11-16
+TOTAL: 2 empréstimos
+
+NOME: Marina Castro
+Empréstimo: 1763 - Livro: A Casa das Janelas Azuis - Volume 52 - Autor: Marina Duarte
+Data do empréstimo: 2024-12-24 - Data de devolução: 2025-01-03
+Empréstimo: 1909 - Livro: O Castelo na Colina - Volume 224 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-08-25 - Data de devolução: 2025-09-04
+Empréstimo: 3403 - Livro: A Ilha Distante - Volume 185 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-02-16 - Data de devolução: 2026-02-26
+TOTAL: 3 empréstimos
+
+NOME: Nicolas Figueiredo
+Nenhum empréstimo encontrado.
+
+NOME: Eduarda Goncalves
+Empréstimo: 4161 - Livro: O Segredo do Jardim - Volume 133 - Autor: Carlos Almeida
+Data do empréstimo: 2023-08-03 - Data de devolução: 2023-08-13
+Empréstimo: 4748 - Livro: O Ultimo Farol - Volume 90 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-01-01 - Data de devolução: 2026-01-11
+Empréstimo: 9404 - Livro: O Castelo na Colina - Volume 154 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-04-14 - Data de devolução: 2026-04-24
+TOTAL: 3 empréstimos
+
+NOME: Gabriela Falcão
+Nenhum empréstimo encontrado.
+
+NOME: Leticia Monteiro
+Empréstimo: 316 - Livro: O Misterio da Montanha - Volume 230 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-12-09 - Data de devolução: 2023-12-19
+Empréstimo: 4591 - Livro: As Cores do Vento - Volume 35 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-04-26 - Data de devolução: 2026-05-06
+Empréstimo: 8885 - Livro: O Vale dos Sonhos - Volume 5 - Autor: Ana Carvalho
+Data do empréstimo: 2026-06-20 - Data de devolução: 2026-06-30
+TOTAL: 3 empréstimos
+
+NOME: Vinicius Cardoso
+Empréstimo: 326 - Livro: A Floresta Silenciosa - Volume 234 - Autor: Camila Santos
+Data do empréstimo: 2023-03-30 - Data de devolução: 2023-04-09
+Empréstimo: 3831 - Livro: A Ilha Distante - Volume 227 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-01-21 - Data de devolução: 2025-01-31
+Empréstimo: 7139 - Livro: O Diario de Helena - Volume 105 - Autor: Laura Barbosa
+Data do empréstimo: 2026-01-24 - Data de devolução: 2026-02-03
+Empréstimo: 8359 - Livro: A Cidade das Estrelas - Volume 133 - Autor: Luciana Castro
+Data do empréstimo: 2023-10-02 - Data de devolução: 2023-10-12
+Empréstimo: 9078 - Livro: A Ponte de Pedra - Volume 223 - Autor: Marcelo Torres
+Data do empréstimo: 2023-07-05 - Data de devolução: 2023-07-15
+TOTAL: 5 empréstimos
+
+NOME: Elisa Almeida
+Empréstimo: 4681 - Livro: O Relogio Esquecido - Volume 204 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-04-30 - Data de devolução: 2023-05-10
+TOTAL: 1 empréstimos
+
+NOME: Fabiana Gouveia
+Nenhum empréstimo encontrado.
+
+NOME: Vanessa Barros
+Empréstimo: 296 - Livro: A Floresta Silenciosa - Volume 97 - Autor: Camila Santos
+Data do empréstimo: 2024-03-13 - Data de devolução: 2024-03-23
+Empréstimo: 2302 - Livro: Viagem ao Norte - Volume 115 - Autor: Eduardo Lima
+Data do empréstimo: 2026-06-03 - Data de devolução: 2026-06-13
+Empréstimo: 8300 - Livro: O Diario de Helena - Volume 11 - Autor: Laura Barbosa
+Data do empréstimo: 2024-04-22 - Data de devolução: 2024-05-02
+TOTAL: 3 empréstimos
+
+NOME: Francisco Vasconcelos
+Nenhum empréstimo encontrado.
+
+NOME: Camila Duarte
+Empréstimo: 4866 - Livro: O Misterio da Montanha - Volume 122 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-09-29 - Data de devolução: 2023-10-09
+Empréstimo: 6604 - Livro: As Cores do Vento - Volume 72 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-03-06 - Data de devolução: 2026-03-16
+Empréstimo: 7389 - Livro: Viagem ao Norte - Volume 78 - Autor: Eduardo Lima
+Data do empréstimo: 2023-03-30 - Data de devolução: 2023-04-09
+Empréstimo: 7582 - Livro: Viagem ao Norte - Volume 170 - Autor: Eduardo Lima
+Data do empréstimo: 2024-01-23 - Data de devolução: 2024-02-02
+TOTAL: 4 empréstimos
+
+NOME: Gabriela Torres
+Empréstimo: 2079 - Livro: A Ponte de Pedra - Volume 196 - Autor: Marcelo Torres
+Data do empréstimo: 2024-08-01 - Data de devolução: 2024-08-11
+Empréstimo: 3664 - Livro: O Caminho das Aguas - Volume 139 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-06-24 - Data de devolução: 2024-07-04
+Empréstimo: 3730 - Livro: A Casa das Janelas Azuis - Volume 227 - Autor: Marina Duarte
+Data do empréstimo: 2022-11-17 - Data de devolução: 2022-11-27
+Empréstimo: 5198 - Livro: O Castelo na Colina - Volume 141 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-07-23 - Data de devolução: 2026-08-02
+Empréstimo: 6622 - Livro: Noites de Inverno - Volume 141 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-09-29 - Data de devolução: 2024-10-09
+Empréstimo: 8377 - Livro: A Casa das Janelas Azuis - Volume 60 - Autor: Marina Duarte
+Data do empréstimo: 2024-01-11 - Data de devolução: 2024-01-21
+TOTAL: 6 empréstimos
+
+NOME: Alice Barbosa
+Empréstimo: 193 - Livro: Cartas para o Amanhã - Volume 69 - Autor: Beatriz Souza
+Data do empréstimo: 2026-07-28 - Data de devolução: 2026-08-07
+Empréstimo: 985 - Livro: A Cidade das Estrelas - Volume 161 - Autor: Luciana Castro
+Data do empréstimo: 2023-12-23 - Data de devolução: 2024-01-02
+Empréstimo: 1454 - Livro: O Misterio da Montanha - Volume 9 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-01-29 - Data de devolução: 2026-02-08
+Empréstimo: 9393 - Livro: O Vale dos Sonhos - Volume 215 - Autor: Ana Carvalho
+Data do empréstimo: 2025-06-07 - Data de devolução: 2025-06-17
+Empréstimo: 9668 - Livro: Noites de Inverno - Volume 236 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-01-17 - Data de devolução: 2026-01-27
+TOTAL: 5 empréstimos
+
+NOME: Vanessa Costa
+Empréstimo: 3364 - Livro: O Relogio Esquecido - Volume 149 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-09-19 - Data de devolução: 2026-09-29
+Empréstimo: 5043 - Livro: Noites de Inverno - Volume 204 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-04-28 - Data de devolução: 2025-05-08
+Empréstimo: 5644 - Livro: Cartas para o Amanhã - Volume 236 - Autor: Beatriz Souza
+Data do empréstimo: 2024-07-14 - Data de devolução: 2024-07-24
+Empréstimo: 6788 - Livro: O Misterio da Montanha - Volume 26 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-10-11 - Data de devolução: 2025-10-21
+Empréstimo: 6827 - Livro: Viagem ao Norte - Volume 77 - Autor: Eduardo Lima
+Data do empréstimo: 2024-12-22 - Data de devolução: 2025-01-01
+Empréstimo: 7942 - Livro: Cartas para o Amanhã - Volume 108 - Autor: Beatriz Souza
+Data do empréstimo: 2026-05-16 - Data de devolução: 2026-05-26
+Empréstimo: 8176 - Livro: Cartas para o Amanhã - Volume 95 - Autor: Beatriz Souza
+Data do empréstimo: 2022-10-21 - Data de devolução: 2022-10-31
+Empréstimo: 8517 - Livro: A Cidade das Estrelas - Volume 243 - Autor: Luciana Castro
+Data do empréstimo: 2023-09-11 - Data de devolução: 2023-09-21
+Empréstimo: 9425 - Livro: O Caminho das Aguas - Volume 167 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-11-02 - Data de devolução: 2025-11-12
+TOTAL: 9 empréstimos
+
+NOME: Fernanda Barros
+Empréstimo: 1064 - Livro: A Casa das Janelas Azuis - Volume 50 - Autor: Marina Duarte
+Data do empréstimo: 2025-06-26 - Data de devolução: 2025-07-06
+Empréstimo: 3788 - Livro: A Ilha Distante - Volume 42 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-01-24 - Data de devolução: 2023-02-03
+Empréstimo: 6571 - Livro: O Misterio da Montanha - Volume 181 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-06-26 - Data de devolução: 2024-07-06
+TOTAL: 3 empréstimos
+
+NOME: Daniel Moreira
+Empréstimo: 8653 - Livro: A Ponte de Pedra - Autor: Marcelo Torres
+Data do empréstimo: 2025-03-13 - Data de devolução: 2025-03-23
+Empréstimo: 9648 - Livro: As Aventuras de Clara - Volume 83 - Autor: Helena Martins
+Data do empréstimo: 2026-01-28 - Data de devolução: 2026-02-07
+TOTAL: 2 empréstimos
+
+NOME: Helena Rodrigues
+Empréstimo: 407 - Livro: Noites de Inverno - Volume 238 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-06-23 - Data de devolução: 2025-07-03
+Empréstimo: 2477 - Livro: Cartas para o Amanhã - Volume 199 - Autor: Beatriz Souza
+Data do empréstimo: 2026-06-30 - Data de devolução: 2026-07-10
+Empréstimo: 7352 - Livro: A Cidade das Estrelas - Volume 243 - Autor: Luciana Castro
+Data do empréstimo: 2025-12-04 - Data de devolução: 2025-12-14
+TOTAL: 3 empréstimos
+
+NOME: Leonardo Santos
+Empréstimo: 1231 - Livro: O Mapa Perdido - Volume 168 - Autor: Juliana Mendes
+Data do empréstimo: 2026-01-15 - Data de devolução: 2026-01-25
+Empréstimo: 3588 - Livro: As Cores do Vento - Volume 196 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-11-25 - Data de devolução: 2023-12-05
+Empréstimo: 4317 - Livro: O Ultimo Farol - Volume 34 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-01-12 - Data de devolução: 2023-01-22
+Empréstimo: 6443 - Livro: A Floresta Silenciosa - Volume 132 - Autor: Camila Santos
+Data do empréstimo: 2024-06-27 - Data de devolução: 2024-07-07
+TOTAL: 4 empréstimos
+
+NOME: Gabriel Moraes
+Empréstimo: 847 - Livro: O Vale dos Sonhos - Volume 205 - Autor: Ana Carvalho
+Data do empréstimo: 2025-07-18 - Data de devolução: 2025-07-28
+Empréstimo: 1775 - Livro: A Ilha Distante - Volume 247 - Autor: Gabriel Vieira
+Data do empréstimo: 2024-09-22 - Data de devolução: 2024-10-02
+Empréstimo: 6069 - Livro: O Caminho das Aguas - Volume 187 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-07-29 - Data de devolução: 2024-08-08
+Empréstimo: 9341 - Livro: O Castelo na Colina - Volume 154 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-10-06 - Data de devolução: 2025-10-16
+Empréstimo: 9749 - Livro: Viagem ao Norte - Volume 116 - Autor: Eduardo Lima
+Data do empréstimo: 2023-06-01 - Data de devolução: 2023-06-11
+TOTAL: 5 empréstimos
+
+NOME: Patricia Costa
+Empréstimo: 405 - Livro: O Castelo na Colina - Volume 149 - Autor: Clara Rodrigues
+Data do empréstimo: 2023-02-04 - Data de devolução: 2023-02-14
+Empréstimo: 829 - Livro: O Castelo na Colina - Volume 80 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-02-09 - Data de devolução: 2026-02-19
+Empréstimo: 963 - Livro: Noites de Inverno - Volume 175 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-03-22 - Data de devolução: 2025-04-01
+Empréstimo: 2338 - Livro: O Vale dos Sonhos - Volume 149 - Autor: Ana Carvalho
+Data do empréstimo: 2025-10-13 - Data de devolução: 2025-10-23
+Empréstimo: 4696 - Livro: As Aventuras de Clara - Volume 238 - Autor: Helena Martins
+Data do empréstimo: 2023-02-13 - Data de devolução: 2023-02-23
+Empréstimo: 5123 - Livro: O Caminho das Aguas - Volume 58 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-11-27 - Data de devolução: 2025-12-07
+Empréstimo: 5864 - Livro: A Casa das Janelas Azuis - Volume 86 - Autor: Marina Duarte
+Data do empréstimo: 2025-11-05 - Data de devolução: 2025-11-15
+Empréstimo: 7079 - Livro: A Ilha Distante - Volume 124 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-08-28 - Data de devolução: 2025-09-07
+Empréstimo: 7905 - Livro: O Castelo na Colina - Volume 95 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-01-30 - Data de devolução: 2026-02-09
+TOTAL: 9 empréstimos
+
+NOME: Letícia Cerqueira
+Nenhum empréstimo encontrado.
+
+NOME: Rodrigo Ferreira
+Empréstimo: 3498 - Livro: Viagem ao Norte - Volume 115 - Autor: Eduardo Lima
+Data do empréstimo: 2023-08-06 - Data de devolução: 2023-08-16
+Empréstimo: 4903 - Livro: O Castelo na Colina - Volume 153 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-09-26 - Data de devolução: 2025-10-06
+TOTAL: 2 empréstimos
+
+NOME: Lucas Mendes
+Empréstimo: 2004 - Livro: Viagem ao Norte - Volume 146 - Autor: Eduardo Lima
+Data do empréstimo: 2025-06-01 - Data de devolução: 2025-06-11
+Empréstimo: 3919 - Livro: Cartas para o Amanhã - Volume 183 - Autor: Beatriz Souza
+Data do empréstimo: 2024-03-16 - Data de devolução: 2024-03-26
+TOTAL: 2 empréstimos
+
+NOME: Laura Alves
+Empréstimo: 5174 - Livro: Viagem ao Norte - Volume 198 - Autor: Eduardo Lima
+Data do empréstimo: 2024-04-28 - Data de devolução: 2024-05-08
+Empréstimo: 7953 - Livro: Viagem ao Norte - Volume 197 - Autor: Eduardo Lima
+Data do empréstimo: 2026-07-31 - Data de devolução: 2026-08-10
+TOTAL: 2 empréstimos
+
+NOME: Rafaela Goncalves
+Empréstimo: 2401 - Livro: O Ultimo Farol - Volume 221 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-04-06 - Data de devolução: 2026-04-16
+Empréstimo: 3272 - Livro: O Vale dos Sonhos - Volume 36 - Autor: Ana Carvalho
+Data do empréstimo: 2022-11-18 - Data de devolução: 2022-11-28
+Empréstimo: 5931 - Livro: O Castelo na Colina - Volume 146 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-09-19 - Data de devolução: 2026-09-29
+Empréstimo: 8706 - Livro: O Mapa Perdido - Volume 171 - Autor: Juliana Mendes
+Data do empréstimo: 2024-03-21 - Data de devolução: 2024-03-31
+Empréstimo: 9818 - Livro: A Ponte de Pedra - Volume 90 - Autor: Marcelo Torres
+Data do empréstimo: 2023-06-02 - Data de devolução: 2023-06-12
+TOTAL: 5 empréstimos
+
+NOME: Diego Beltrão
+Nenhum empréstimo encontrado.
+
+NOME: Maurício Aragão
+Nenhum empréstimo encontrado.
+
+NOME: Gustavo Xavier
+Empréstimo: 952 - Livro: Viagem ao Norte - Volume 175 - Autor: Eduardo Lima
+Data do empréstimo: 2026-01-13 - Data de devolução: 2026-01-23
+Empréstimo: 1814 - Livro: O Vale dos Sonhos - Volume 64 - Autor: Ana Carvalho
+Data do empréstimo: 2026-07-01 - Data de devolução: 2026-07-11
+Empréstimo: 3147 - Livro: O Misterio da Montanha - Volume 97 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-02-13 - Data de devolução: 2026-02-23
+Empréstimo: 4421 - Livro: O Segredo do Jardim - Volume 32 - Autor: Carlos Almeida
+Data do empréstimo: 2025-07-23 - Data de devolução: 2025-08-02
+TOTAL: 4 empréstimos
+
+NOME: Rafael Ramos
+Empréstimo: 1157 - Livro: A Floresta Silenciosa - Volume 45 - Autor: Camila Santos
+Data do empréstimo: 2024-07-29 - Data de devolução: 2024-08-08
+Empréstimo: 1589 - Livro: A Floresta Silenciosa - Volume 64 - Autor: Camila Santos
+Data do empréstimo: 2026-08-09 - Data de devolução: 2026-08-19
+Empréstimo: 1936 - Livro: O Mapa Perdido - Volume 120 - Autor: Juliana Mendes
+Data do empréstimo: 2023-05-18 - Data de devolução: 2023-05-28
+Empréstimo: 7192 - Livro: O Castelo na Colina - Volume 191 - Autor: Clara Rodrigues
+Data do empréstimo: 2026-07-24 - Data de devolução: 2026-08-03
+TOTAL: 4 empréstimos
+
+NOME: Bruna Ferreira
+Empréstimo: 8307 - Livro: As Cores do Vento - Volume 16 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-06-21 - Data de devolução: 2024-07-01
+Empréstimo: 8346 - Livro: A Floresta Silenciosa - Volume 118 - Autor: Camila Santos
+Data do empréstimo: 2025-07-18 - Data de devolução: 2025-07-28
+TOTAL: 2 empréstimos
+
+NOME: Isadora Rios
+Nenhum empréstimo encontrado.
+
+NOME: Clara Barros
+Empréstimo: 1035 - Livro: O Diario de Helena - Volume 130 - Autor: Laura Barbosa
+Data do empréstimo: 2024-12-25 - Data de devolução: 2025-01-04
+Empréstimo: 3767 - Livro: A Ilha Distante - Volume 211 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-09-19 - Data de devolução: 2026-09-29
+Empréstimo: 4208 - Livro: O Mapa Perdido - Volume 22 - Autor: Juliana Mendes
+Data do empréstimo: 2025-01-04 - Data de devolução: 2025-01-14
+Empréstimo: 6228 - Livro: O Misterio da Montanha - Volume 89 - Autor: Fernando Ribeiro
+Data do empréstimo: 2026-08-03 - Data de devolução: 2026-08-13
+Empréstimo: 9337 - Livro: Viagem ao Norte - Volume 156 - Autor: Eduardo Lima
+Data do empréstimo: 2025-02-12 - Data de devolução: 2025-02-22
+TOTAL: 5 empréstimos
+
+NOME: Nicolas Monteiro
+Empréstimo: 3849 - Livro: A Casa das Janelas Azuis - Volume 219 - Autor: Marina Duarte
+Data do empréstimo: 2024-08-14 - Data de devolução: 2024-08-24
+Empréstimo: 4356 - Livro: Viagem ao Norte - Volume 81 - Autor: Eduardo Lima
+Data do empréstimo: 2022-10-08 - Data de devolução: 2022-10-18
+Empréstimo: 5870 - Livro: O Castelo na Colina - Volume 36 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-11-13 - Data de devolução: 2025-11-23
+Empréstimo: 7711 - Livro: O Segredo do Jardim - Volume 100 - Autor: Carlos Almeida
+Data do empréstimo: 2026-05-31 - Data de devolução: 2026-06-10
+TOTAL: 4 empréstimos
+
+NOME: Samuel Peixoto
+Nenhum empréstimo encontrado.
+
+NOME: Pedro Barbosa
+Empréstimo: 4950 - Livro: O Relogio Esquecido - Volume 82 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-09-03 - Data de devolução: 2026-09-13
+Empréstimo: 8954 - Livro: As Cores do Vento - Volume 90 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-06-04 - Data de devolução: 2025-06-14
+Empréstimo: 9645 - Livro: A Cidade das Estrelas - Volume 119 - Autor: Luciana Castro
+Data do empréstimo: 2024-10-01 - Data de devolução: 2024-10-11
+TOTAL: 3 empréstimos
+
+NOME: Laura Barbosa
+Empréstimo: 4433 - Livro: As Cores do Vento - Volume 17 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-03-13 - Data de devolução: 2023-03-23
+Empréstimo: 8650 - Livro: O Ultimo Farol - Volume 97 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-09-15 - Data de devolução: 2025-09-25
+Empréstimo: 9378 - Livro: A Floresta Silenciosa - Volume 133 - Autor: Camila Santos
+Data do empréstimo: 2023-10-07 - Data de devolução: 2023-10-17
+TOTAL: 3 empréstimos
+
+NOME: Daniel Soares
+Empréstimo: 4510 - Livro: Noites de Inverno - Volume 181 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-12-29 - Data de devolução: 2026-01-08
+Empréstimo: 7823 - Livro: Noites de Inverno - Volume 220 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-01-21 - Data de devolução: 2025-01-31
+TOTAL: 2 empréstimos
+
+NOME: Caio Castro
+Empréstimo: 2192 - Livro: A Floresta Silenciosa - Volume 178 - Autor: Camila Santos
+Data do empréstimo: 2026-05-19 - Data de devolução: 2026-05-29
+TOTAL: 1 empréstimos
+
+NOME: Marcos Martins
+Empréstimo: 231 - Livro: O Relogio Esquecido - Volume 6 - Autor: Daniel Ferreira
+Data do empréstimo: 2024-08-31 - Data de devolução: 2024-09-10
+Empréstimo: 2324 - Livro: O Vale dos Sonhos - Volume 102 - Autor: Ana Carvalho
+Data do empréstimo: 2025-06-25 - Data de devolução: 2025-07-05
+Empréstimo: 6671 - Livro: O Ultimo Farol - Volume 44 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-09-15 - Data de devolução: 2023-09-25
+Empréstimo: 8335 - Livro: O Relogio Esquecido - Volume 63 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-02-23 - Data de devolução: 2023-03-05
+Empréstimo: 8975 - Livro: A Casa das Janelas Azuis - Volume 91 - Autor: Marina Duarte
+Data do empréstimo: 2024-11-11 - Data de devolução: 2024-11-21
+Empréstimo: 9235 - Livro: A Luz da Manhã - Volume 63 - Autor: Bruno Machado
+Data do empréstimo: 2024-01-31 - Data de devolução: 2024-02-10
+TOTAL: 6 empréstimos
+
+NOME: Larissa Pereira
+Empréstimo: 3180 - Livro: A Ponte de Pedra - Volume 155 - Autor: Marcelo Torres
+Data do empréstimo: 2026-03-26 - Data de devolução: 2026-04-05
+Empréstimo: 6716 - Livro: O Mapa Perdido - Volume 209 - Autor: Juliana Mendes
+Data do empréstimo: 2023-01-26 - Data de devolução: 2023-02-05
+TOTAL: 2 empréstimos
+
+NOME: Alice Ramos
+Empréstimo: 2684 - Livro: As Aventuras de Clara - Volume 114 - Autor: Helena Martins
+Data do empréstimo: 2026-01-08 - Data de devolução: 2026-01-18
+Empréstimo: 4077 - Livro: Cartas para o Amanhã - Volume 61 - Autor: Beatriz Souza
+Data do empréstimo: 2023-11-15 - Data de devolução: 2023-11-25
+Empréstimo: 4479 - Livro: A Casa das Janelas Azuis - Volume 31 - Autor: Marina Duarte
+Data do empréstimo: 2025-11-09 - Data de devolução: 2025-11-19
+Empréstimo: 4826 - Livro: Viagem ao Norte - Volume 179 - Autor: Eduardo Lima
+Data do empréstimo: 2023-11-02 - Data de devolução: 2023-11-12
+Empréstimo: 7664 - Livro: A Floresta Silenciosa - Volume 106 - Autor: Camila Santos
+Data do empréstimo: 2026-07-16 - Data de devolução: 2026-07-26
+Empréstimo: 9495 - Livro: Noites de Inverno - Volume 213 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-02-09 - Data de devolução: 2026-02-19
+TOTAL: 6 empréstimos
+
+NOME: Carolina Goncalves
+Empréstimo: 2594 - Livro: O Mapa Perdido - Volume 249 - Autor: Juliana Mendes
+Data do empréstimo: 2022-12-09 - Data de devolução: 2022-12-19
+TOTAL: 1 empréstimos
+
+NOME: Carlos Cardoso
+Empréstimo: 438 - Livro: A Ponte de Pedra - Volume 226 - Autor: Marcelo Torres
+Data do empréstimo: 2026-02-15 - Data de devolução: 2026-02-25
+Empréstimo: 2294 - Livro: Cartas para o Amanhã - Volume 58 - Autor: Beatriz Souza
+Data do empréstimo: 2026-08-03 - Data de devolução: 2026-08-13
+Empréstimo: 3250 - Livro: Noites de Inverno - Volume 225 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-02-19 - Data de devolução: 2024-02-29
+Empréstimo: 3996 - Livro: O Caminho das Aguas - Volume 237 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-08-20 - Data de devolução: 2026-08-30
+Empréstimo: 6442 - Livro: A Casa das Janelas Azuis - Volume 100 - Autor: Marina Duarte
+Data do empréstimo: 2025-11-28 - Data de devolução: 2025-12-08
+Empréstimo: 6626 - Livro: As Cores do Vento - Volume 146 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-11-28 - Data de devolução: 2025-12-08
+TOTAL: 6 empréstimos
+
+NOME: Eduardo Reis
+Empréstimo: 426 - Livro: O Castelo na Colina - Volume 152 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-08-01 - Data de devolução: 2024-08-11
+Empréstimo: 1703 - Livro: O Relogio Esquecido - Volume 11 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-09-08 - Data de devolução: 2023-09-18
+Empréstimo: 2853 - Livro: A Floresta Silenciosa - Volume 139 - Autor: Camila Santos
+Data do empréstimo: 2023-02-24 - Data de devolução: 2023-03-06
+Empréstimo: 5751 - Livro: O Caminho das Aguas - Volume 236 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-05-02 - Data de devolução: 2023-05-12
+Empréstimo: 7024 - Livro: O Mapa Perdido - Volume 193 - Autor: Juliana Mendes
+Data do empréstimo: 2024-05-14 - Data de devolução: 2024-05-24
+Empréstimo: 7523 - Livro: A Cidade das Estrelas - Volume 71 - Autor: Luciana Castro
+Data do empréstimo: 2026-03-27 - Data de devolução: 2026-04-06
+Empréstimo: 9562 - Livro: O Relogio Esquecido - Volume 179 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-01-19 - Data de devolução: 2026-01-29
+TOTAL: 7 empréstimos
+
+NOME: Marcos Torres
+Empréstimo: 8697 - Livro: O Segredo do Jardim - Volume 217 - Autor: Carlos Almeida
+Data do empréstimo: 2026-08-28 - Data de devolução: 2026-09-07
+Empréstimo: 9512 - Livro: A Floresta Silenciosa - Volume 208 - Autor: Camila Santos
+Data do empréstimo: 2025-08-04 - Data de devolução: 2025-08-14
+TOTAL: 2 empréstimos
+
+NOME: Sofia Batista
+Empréstimo: 415 - Livro: A Ilha Distante - Volume 141 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-01-22 - Data de devolução: 2026-02-01
+Empréstimo: 1409 - Livro: O Ultimo Farol - Volume 245 - Autor: Rafael Oliveira
+Data do empréstimo: 2025-02-20 - Data de devolução: 2025-03-02
+Empréstimo: 2663 - Livro: O Caminho das Aguas - Volume 60 - Autor: Sofia Monteiro
+Data do empréstimo: 2022-11-24 - Data de devolução: 2022-12-04
+Empréstimo: 4875 - Livro: A Floresta Silenciosa - Volume 81 - Autor: Camila Santos
+Data do empréstimo: 2025-07-12 - Data de devolução: 2025-07-22
+Empréstimo: 5004 - Livro: A Casa das Janelas Azuis - Volume 161 - Autor: Marina Duarte
+Data do empréstimo: 2024-06-08 - Data de devolução: 2024-06-18
+Empréstimo: 6067 - Livro: A Ilha Distante - Volume 210 - Autor: Gabriel Vieira
+Data do empréstimo: 2026-09-14 - Data de devolução: 2026-09-24
+Empréstimo: 6142 - Livro: As Cores do Vento - Volume 180 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-04-19 - Data de devolução: 2024-04-29
+TOTAL: 7 empréstimos
+
+NOME: Igor Rodrigues
+Empréstimo: 175 - Livro: A Luz da Manhã - Volume 214 - Autor: Bruno Machado
+Data do empréstimo: 2026-03-27 - Data de devolução: 2026-04-06
+Empréstimo: 6445 - Livro: Noites de Inverno - Volume 121 - Autor: Pedro Nogueira
+Data do empréstimo: 2022-12-08 - Data de devolução: 2022-12-18
+Empréstimo: 6829 - Livro: A Luz da Manhã - Volume 247 - Autor: Bruno Machado
+Data do empréstimo: 2025-04-14 - Data de devolução: 2025-04-24
+Empréstimo: 7670 - Livro: Viagem ao Norte - Volume 81 - Autor: Eduardo Lima
+Data do empréstimo: 2024-05-16 - Data de devolução: 2024-05-26
+Empréstimo: 8320 - Livro: As Cores do Vento - Volume 204 - Autor: Ricardo Teixeira
+Data do empréstimo: 2025-01-20 - Data de devolução: 2025-01-30
+TOTAL: 5 empréstimos
+
+NOME: Yasmin Ramos
+Nenhum empréstimo encontrado.
+
+NOME: Leonardo Soares
+Empréstimo: 4660 - Livro: O Ultimo Farol - Volume 160 - Autor: Rafael Oliveira
+Data do empréstimo: 2022-10-24 - Data de devolução: 2022-11-03
+Empréstimo: 7331 - Livro: O Relogio Esquecido - Volume 218 - Autor: Daniel Ferreira
+Data do empréstimo: 2026-01-08 - Data de devolução: 2026-01-18
+TOTAL: 2 empréstimos
+
+NOME: Mariana Lima
+Empréstimo: 4560 - Livro: A Ponte de Pedra - Volume 238 - Autor: Marcelo Torres
+Data do empréstimo: 2023-08-25 - Data de devolução: 2023-09-04
+Empréstimo: 7263 - Livro: A Casa das Janelas Azuis - Volume 151 - Autor: Marina Duarte
+Data do empréstimo: 2023-11-07 - Data de devolução: 2023-11-17
+Empréstimo: 8673 - Livro: O Castelo na Colina - Volume 70 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-11-17 - Data de devolução: 2025-11-27
+Empréstimo: 9514 - Livro: O Vale dos Sonhos - Volume 27 - Autor: Ana Carvalho
+Data do empréstimo: 2023-08-03 - Data de devolução: 2023-08-13
+TOTAL: 4 empréstimos
+
+NOME: Valentina Almeida
+Empréstimo: 1343 - Livro: O Diario de Helena - Volume 169 - Autor: Laura Barbosa
+Data do empréstimo: 2026-05-25 - Data de devolução: 2026-06-04
+Empréstimo: 1621 - Livro: As Cores do Vento - Volume 57 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-08-27 - Data de devolução: 2024-09-06
+Empréstimo: 8183 - Livro: Viagem ao Norte - Volume 212 - Autor: Eduardo Lima
+Data do empréstimo: 2023-01-06 - Data de devolução: 2023-01-16
+TOTAL: 3 empréstimos
+
+NOME: Bruna Lima
+Empréstimo: 1934 - Livro: A Ilha Distante - Volume 4 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-05-23 - Data de devolução: 2025-06-02
+Empréstimo: 2200 - Livro: A Floresta Silenciosa - Volume 2 - Autor: Camila Santos
+Data do empréstimo: 2024-05-19 - Data de devolução: 2024-05-29
+Empréstimo: 5258 - Livro: Cartas para o Amanhã - Volume 130 - Autor: Beatriz Souza
+Data do empréstimo: 2022-12-08 - Data de devolução: 2022-12-18
+TOTAL: 3 empréstimos
+
+NOME: Marina Cardoso
+Empréstimo: 5233 - Livro: O Caminho das Aguas - Volume 88 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-01-25 - Data de devolução: 2023-02-04
+Empréstimo: 6157 - Livro: A Casa das Janelas Azuis - Volume 189 - Autor: Marina Duarte
+Data do empréstimo: 2023-02-20 - Data de devolução: 2023-03-02
+TOTAL: 2 empréstimos
+
+NOME: Eduardo Vieira
+Empréstimo: 6605 - Livro: O Vale dos Sonhos - Volume 216 - Autor: Ana Carvalho
+Data do empréstimo: 2025-10-12 - Data de devolução: 2025-10-22
+Empréstimo: 7615 - Livro: O Misterio da Montanha - Volume 164 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-11-13 - Data de devolução: 2023-11-23
+Empréstimo: 8210 - Livro: As Aventuras de Clara - Volume 31 - Autor: Helena Martins
+Data do empréstimo: 2025-11-02 - Data de devolução: 2025-11-12
+TOTAL: 3 empréstimos
+
+NOME: Mariana Ribeiro
+Empréstimo: 1143 - Livro: O Caminho das Aguas - Volume 71 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-02-23 - Data de devolução: 2026-03-05
+Empréstimo: 1815 - Livro: O Segredo do Jardim - Volume 227 - Autor: Carlos Almeida
+Data do empréstimo: 2026-06-21 - Data de devolução: 2026-07-01
+Empréstimo: 2394 - Livro: O Relogio Esquecido - Volume 243 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-09-23 - Data de devolução: 2025-10-03
+Empréstimo: 2676 - Livro: O Diario de Helena - Volume 110 - Autor: Laura Barbosa
+Data do empréstimo: 2023-07-13 - Data de devolução: 2023-07-23
+Empréstimo: 3565 - Livro: Viagem ao Norte - Volume 170 - Autor: Eduardo Lima
+Data do empréstimo: 2023-03-28 - Data de devolução: 2023-04-07
+TOTAL: 5 empréstimos
+
+NOME: Murilo Torres
+Empréstimo: 4289 - Livro: O Diario de Helena - Volume 227 - Autor: Laura Barbosa
+Data do empréstimo: 2026-03-14 - Data de devolução: 2026-03-24
+Empréstimo: 6319 - Livro: As Cores do Vento - Volume 8 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-11-04 - Data de devolução: 2024-11-14
+Empréstimo: 7321 - Livro: O Relogio Esquecido - Volume 182 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-06-01 - Data de devolução: 2023-06-11
+Empréstimo: 7471 - Livro: A Floresta Silenciosa - Volume 37 - Autor: Camila Santos
+Data do empréstimo: 2023-10-22 - Data de devolução: 2023-11-01
+TOTAL: 4 empréstimos
+
+NOME: Beatriz Goncalves
+Empréstimo: 7468 - Livro: A Ilha Distante - Volume 187 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-10-22 - Data de devolução: 2023-11-01
+Empréstimo: 9293 - Livro: O Caminho das Aguas - Volume 133 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-11-20 - Data de devolução: 2024-11-30
+Empréstimo: 9768 - Livro: O Misterio da Montanha - Volume 172 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-08-10 - Data de devolução: 2024-08-20
+TOTAL: 3 empréstimos
+
+NOME: Elisa Barbosa
+Empréstimo: 1262 - Livro: A Casa das Janelas Azuis - Volume 42 - Autor: Marina Duarte
+Data do empréstimo: 2022-10-23 - Data de devolução: 2022-11-02
+Empréstimo: 5050 - Livro: O Caminho das Aguas - Volume 102 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-12-28 - Data de devolução: 2026-01-07
+TOTAL: 2 empréstimos
+
+NOME: Felipe Duarte
+Empréstimo: 4545 - Livro: As Aventuras de Clara - Volume 141 - Autor: Helena Martins
+Data do empréstimo: 2024-08-30 - Data de devolução: 2024-09-09
+Empréstimo: 9877 - Livro: O Relogio Esquecido - Volume 207 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-12-10 - Data de devolução: 2023-12-20
+TOTAL: 2 empréstimos
+
+NOME: Natalia Costa
+Empréstimo: 6079 - Livro: A Luz da Manhã - Volume 163 - Autor: Bruno Machado
+Data do empréstimo: 2025-03-28 - Data de devolução: 2025-04-07
+TOTAL: 1 empréstimos
+
+NOME: Victor Martins
+Empréstimo: 5692 - Livro: O Segredo do Jardim - Volume 108 - Autor: Carlos Almeida
+Data do empréstimo: 2025-08-23 - Data de devolução: 2025-09-02
+Empréstimo: 6444 - Livro: Viagem ao Norte - Volume 243 - Autor: Eduardo Lima
+Data do empréstimo: 2024-01-29 - Data de devolução: 2024-02-08
+TOTAL: 2 empréstimos
+
+NOME: Leonardo Barreto
+Nenhum empréstimo encontrado.
+
+NOME: Samuel Martins
+Empréstimo: 3891 - Livro: A Ilha Distante - Volume 21 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-01-16 - Data de devolução: 2025-01-26
+Empréstimo: 6828 - Livro: A Ponte de Pedra - Volume 163 - Autor: Marcelo Torres
+Data do empréstimo: 2026-05-10 - Data de devolução: 2026-05-20
+TOTAL: 2 empréstimos
+
+NOME: Mateus Ferreira
+Nenhum empréstimo encontrado.
+
+NOME: Arthur Pereira
+Empréstimo: 4310 - Livro: Noites de Inverno - Volume 142 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-01-02 - Data de devolução: 2023-01-12
+Empréstimo: 7732 - Livro: A Floresta Silenciosa - Volume 140 - Autor: Camila Santos
+Data do empréstimo: 2023-06-28 - Data de devolução: 2023-07-08
+TOTAL: 2 empréstimos
+
+NOME: Diego Machado
+Nenhum empréstimo encontrado.
+
+NOME: Diego Ferreira
+Empréstimo: 1979 - Livro: O Segredo do Jardim - Volume 14 - Autor: Carlos Almeida
+Data do empréstimo: 2026-06-02 - Data de devolução: 2026-06-12
+Empréstimo: 6009 - Livro: A Casa das Janelas Azuis - Volume 22 - Autor: Marina Duarte
+Data do empréstimo: 2024-06-23 - Data de devolução: 2024-07-03
+TOTAL: 2 empréstimos
+
+NOME: Enzo Gomes
+Empréstimo: 74 - Livro: A Floresta Silenciosa - Volume 153 - Autor: Camila Santos
+Data do empréstimo: 2024-07-14 - Data de devolução: 2024-07-24
+Empréstimo: 103 - Livro: O Ultimo Farol - Volume 27 - Autor: Rafael Oliveira
+Data do empréstimo: 2022-12-15 - Data de devolução: 2022-12-25
+Empréstimo: 8299 - Livro: A Cidade das Estrelas - Volume 227 - Autor: Luciana Castro
+Data do empréstimo: 2026-06-06 - Data de devolução: 2026-06-16
+Empréstimo: 9748 - Livro: A Floresta Silenciosa - Volume 55 - Autor: Camila Santos
+Data do empréstimo: 2026-07-27 - Data de devolução: 2026-08-06
+TOTAL: 4 empréstimos
+
+NOME: Bernardo Oliveira
+Empréstimo: 393 - Livro: O Misterio da Montanha - Volume 174 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-03-06 - Data de devolução: 2023-03-16
+Empréstimo: 3477 - Livro: O Ultimo Farol - Volume 230 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-01-28 - Data de devolução: 2026-02-07
+Empréstimo: 3696 - Livro: A Luz da Manhã - Volume 69 - Autor: Bruno Machado
+Data do empréstimo: 2024-12-08 - Data de devolução: 2024-12-18
+Empréstimo: 3817 - Livro: O Mapa Perdido - Volume 112 - Autor: Juliana Mendes
+Data do empréstimo: 2022-12-18 - Data de devolução: 2022-12-28
+Empréstimo: 8081 - Livro: A Floresta Silenciosa - Volume 246 - Autor: Camila Santos
+Data do empréstimo: 2024-04-03 - Data de devolução: 2024-04-13
+TOTAL: 5 empréstimos
+
+NOME: Alice Mendes
+Empréstimo: 1378 - Livro: A Ilha Distante - Volume 18 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-11-02 - Data de devolução: 2023-11-12
+Empréstimo: 3086 - Livro: Noites de Inverno - Volume 117 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-07-14 - Data de devolução: 2025-07-24
+Empréstimo: 3148 - Livro: O Diario de Helena - Volume 241 - Autor: Laura Barbosa
+Data do empréstimo: 2024-06-14 - Data de devolução: 2024-06-24
+Empréstimo: 3215 - Livro: A Casa das Janelas Azuis - Volume 106 - Autor: Marina Duarte
+Data do empréstimo: 2026-06-11 - Data de devolução: 2026-06-21
+Empréstimo: 3823 - Livro: Cartas para o Amanhã - Volume 222 - Autor: Beatriz Souza
+Data do empréstimo: 2026-02-28 - Data de devolução: 2026-03-10
+TOTAL: 5 empréstimos
+
+NOME: Gustavo Teixeira
+Empréstimo: 3342 - Livro: As Aventuras de Clara - Volume 42 - Autor: Helena Martins
+Data do empréstimo: 2024-01-08 - Data de devolução: 2024-01-18
+Empréstimo: 5315 - Livro: O Ultimo Farol - Volume 111 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-07-13 - Data de devolução: 2026-07-23
+Empréstimo: 6972 - Livro: O Vale dos Sonhos - Volume 80 - Autor: Ana Carvalho
+Data do empréstimo: 2024-08-30 - Data de devolução: 2024-09-09
+TOTAL: 3 empréstimos
+
+NOME: Lorena Freire
+Nenhum empréstimo encontrado.
+
+NOME: Fernanda Carvalho
+Nenhum empréstimo encontrado.
+
+NOME: Caio Lima
+Empréstimo: 657 - Livro: O Ultimo Farol - Volume 22 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-03-25 - Data de devolução: 2026-04-04
+Empréstimo: 6398 - Livro: O Castelo na Colina - Volume 166 - Autor: Clara Rodrigues
+Data do empréstimo: 2025-09-06 - Data de devolução: 2025-09-16
+Empréstimo: 7358 - Livro: O Castelo na Colina - Volume 35 - Autor: Clara Rodrigues
+Data do empréstimo: 2024-08-21 - Data de devolução: 2024-08-31
+TOTAL: 3 empréstimos
+
+NOME: Renata Barbosa
+Empréstimo: 124 - Livro: O Misterio da Montanha - Volume 133 - Autor: Fernando Ribeiro
+Data do empréstimo: 2024-10-08 - Data de devolução: 2024-10-18
+Empréstimo: 2025 - Livro: O Ultimo Farol - Volume 118 - Autor: Rafael Oliveira
+Data do empréstimo: 2026-04-06 - Data de devolução: 2026-04-16
+Empréstimo: 2328 - Livro: O Diario de Helena - Volume 66 - Autor: Laura Barbosa
+Data do empréstimo: 2024-03-29 - Data de devolução: 2024-04-08
+Empréstimo: 7236 - Livro: O Misterio da Montanha - Volume 150 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-12-16 - Data de devolução: 2023-12-26
+TOTAL: 4 empréstimos
+
+NOME: Karen Albuquerque
+Nenhum empréstimo encontrado.
+
+NOME: Camila Albuquerque
+Nenhum empréstimo encontrado.
+
+NOME: Bernardo Pereira
+Empréstimo: 3340 - Livro: A Ilha Distante - Volume 171 - Autor: Gabriel Vieira
+Data do empréstimo: 2025-03-31 - Data de devolução: 2025-04-10
+Empréstimo: 3556 - Livro: O Caminho das Aguas - Volume 121 - Autor: Sofia Monteiro
+Data do empréstimo: 2026-04-19 - Data de devolução: 2026-04-29
+Empréstimo: 5096 - Livro: O Mapa Perdido - Volume 41 - Autor: Juliana Mendes
+Data do empréstimo: 2023-08-23 - Data de devolução: 2023-09-02
+Empréstimo: 6533 - Livro: A Casa das Janelas Azuis - Volume 2 - Autor: Marina Duarte
+Data do empréstimo: 2025-02-23 - Data de devolução: 2025-03-05
+Empréstimo: 9989 - Livro: A Cidade das Estrelas - Volume 193 - Autor: Luciana Castro
+Data do empréstimo: 2023-01-20 - Data de devolução: 2023-01-30
+TOTAL: 5 empréstimos
+
+NOME: Emanuel Brandão
+Nenhum empréstimo encontrado.
+
+NOME: Rodrigo Rodrigues
+Empréstimo: 37 - Livro: O Relogio Esquecido - Volume 148 - Autor: Daniel Ferreira
+Data do empréstimo: 2023-02-02 - Data de devolução: 2023-02-12
+Empréstimo: 2823 - Livro: Viagem ao Norte - Volume 148 - Autor: Eduardo Lima
+Data do empréstimo: 2024-11-06 - Data de devolução: 2024-11-16
+Empréstimo: 4595 - Livro: A Casa das Janelas Azuis - Volume 65 - Autor: Marina Duarte
+Data do empréstimo: 2026-07-14 - Data de devolução: 2026-07-24
+Empréstimo: 5760 - Livro: O Diario de Helena - Volume 77 - Autor: Laura Barbosa
+Data do empréstimo: 2023-09-01 - Data de devolução: 2023-09-11
+TOTAL: 4 empréstimos
+
+NOME: Mariana Dias
+Empréstimo: 562 - Livro: Noites de Inverno - Volume 202 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-01-01 - Data de devolução: 2025-01-11
+Empréstimo: 6027 - Livro: O Vale dos Sonhos - Volume 51 - Autor: Ana Carvalho
+Data do empréstimo: 2023-09-06 - Data de devolução: 2023-09-16
+Empréstimo: 6594 - Livro: A Cidade das Estrelas - Volume 148 - Autor: Luciana Castro
+Data do empréstimo: 2022-12-15 - Data de devolução: 2022-12-25
+Empréstimo: 8696 - Livro: A Floresta Silenciosa - Volume 206 - Autor: Camila Santos
+Data do empréstimo: 2025-09-27 - Data de devolução: 2025-10-07
+Empréstimo: 9057 - Livro: O Mapa Perdido - Volume 149 - Autor: Juliana Mendes
+Data do empréstimo: 2026-09-03 - Data de devolução: 2026-09-13
+TOTAL: 5 empréstimos
+
+NOME: Mateus Freitas
+Empréstimo: 2270 - Livro: O Mapa Perdido - Volume 90 - Autor: Juliana Mendes
+Data do empréstimo: 2022-10-12 - Data de devolução: 2022-10-22
+Empréstimo: 2377 - Livro: A Casa das Janelas Azuis - Volume 247 - Autor: Marina Duarte
+Data do empréstimo: 2024-10-06 - Data de devolução: 2024-10-16
+Empréstimo: 9559 - Livro: A Floresta Silenciosa - Volume 21 - Autor: Camila Santos
+Data do empréstimo: 2026-04-05 - Data de devolução: 2026-04-15
+TOTAL: 3 empréstimos
+
+NOME: Daniel Almeida
+Empréstimo: 4080 - Livro: O Vale dos Sonhos - Volume 158 - Autor: Ana Carvalho
+Data do empréstimo: 2025-07-29 - Data de devolução: 2025-08-08
+Empréstimo: 6872 - Livro: As Aventuras de Clara - Volume 206 - Autor: Helena Martins
+Data do empréstimo: 2024-03-02 - Data de devolução: 2024-03-12
+Empréstimo: 8137 - Livro: O Mapa Perdido - Volume 28 - Autor: Juliana Mendes
+Data do empréstimo: 2024-02-17 - Data de devolução: 2024-02-27
+TOTAL: 3 empréstimos
+
+NOME: Rafaela Neves
+Nenhum empréstimo encontrado.
+
+NOME: Rafael Soares
+Empréstimo: 2575 - Livro: O Mapa Perdido - Volume 124 - Autor: Juliana Mendes
+Data do empréstimo: 2025-04-19 - Data de devolução: 2025-04-29
+Empréstimo: 8646 - Livro: A Casa das Janelas Azuis - Volume 51 - Autor: Marina Duarte
+Data do empréstimo: 2026-08-29 - Data de devolução: 2026-09-08
+Empréstimo: 9814 - Livro: A Ponte de Pedra - Volume 142 - Autor: Marcelo Torres
+Data do empréstimo: 2024-11-06 - Data de devolução: 2024-11-16
+TOTAL: 3 empréstimos
+
+NOME: Marcelo Ribeiro
+Empréstimo: 6465 - Livro: Viagem ao Norte - Volume 113 - Autor: Eduardo Lima
+Data do empréstimo: 2024-03-20 - Data de devolução: 2024-03-30
+Empréstimo: 6919 - Livro: O Caminho das Aguas - Volume 134 - Autor: Sofia Monteiro
+Data do empréstimo: 2023-03-13 - Data de devolução: 2023-03-23
+Empréstimo: 7046 - Livro: As Aventuras de Clara - Volume 173 - Autor: Helena Martins
+Data do empréstimo: 2023-06-09 - Data de devolução: 2023-06-19
+TOTAL: 3 empréstimos
+
+NOME: Larissa Alves
+Empréstimo: 3169 - Livro: A Cidade das Estrelas - Volume 191 - Autor: Luciana Castro
+Data do empréstimo: 2026-09-17 - Data de devolução: 2026-09-27
+Empréstimo: 6642 - Livro: Noites de Inverno - Volume 3 - Autor: Pedro Nogueira
+Data do empréstimo: 2024-03-05 - Data de devolução: 2024-03-15
+TOTAL: 2 empréstimos
+
+NOME: Joaquim Borges
+Empréstimo: 445 - Livro: Noites de Inverno - Volume 185 - Autor: Pedro Nogueira
+Data do empréstimo: 2025-06-13 - Data de devolução: 2025-06-23
+Empréstimo: 2984 - Livro: As Cores do Vento - Volume 169 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-03-07 - Data de devolução: 2026-03-17
+Empréstimo: 4931 - Livro: A Luz da Manhã - Volume 139 - Autor: Bruno Machado
+Data do empréstimo: 2025-12-05 - Data de devolução: 2025-12-15
+Empréstimo: 7158 - Livro: O Caminho das Aguas - Volume 88 - Autor: Sofia Monteiro
+Data do empréstimo: 2025-08-23 - Data de devolução: 2025-09-02
+Empréstimo: 7799 - Livro: O Segredo do Jardim - Volume 168 - Autor: Carlos Almeida
+Data do empréstimo: 2025-09-20 - Data de devolução: 2025-09-30
+Empréstimo: 9176 - Livro: A Floresta Silenciosa - Volume 87 - Autor: Camila Santos
+Data do empréstimo: 2023-11-30 - Data de devolução: 2023-12-10
+TOTAL: 6 empréstimos
+
+NOME: Vinicius Borges
+Empréstimo: 584 - Livro: As Cores do Vento - Volume 128 - Autor: Ricardo Teixeira
+Data do empréstimo: 2023-04-25 - Data de devolução: 2023-05-05
+Empréstimo: 7373 - Livro: O Segredo do Jardim - Volume 195 - Autor: Carlos Almeida
+Data do empréstimo: 2024-10-06 - Data de devolução: 2024-10-16
+TOTAL: 2 empréstimos
+
+NOME: Mariana Monteiro
+Empréstimo: 6652 - Livro: O Misterio da Montanha - Volume 167 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-03-09 - Data de devolução: 2023-03-19
+Empréstimo: 7333 - Livro: A Luz da Manhã - Volume 186 - Autor: Bruno Machado
+Data do empréstimo: 2025-10-17 - Data de devolução: 2025-10-27
+Empréstimo: 7788 - Livro: O Relogio Esquecido - Volume 106 - Autor: Daniel Ferreira
+Data do empréstimo: 2025-07-16 - Data de devolução: 2025-07-26
+Empréstimo: 8236 - Livro: As Cores do Vento - Volume 33 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-02-24 - Data de devolução: 2024-03-05
+Empréstimo: 9184 - Livro: A Cidade das Estrelas - Volume 165 - Autor: Luciana Castro
+Data do empréstimo: 2025-12-15 - Data de devolução: 2025-12-25
+Empréstimo: 9212 - Livro: O Diario de Helena - Volume 25 - Autor: Laura Barbosa
+Data do empréstimo: 2025-12-22 - Data de devolução: 2026-01-01
+TOTAL: 6 empréstimos
+
+NOME: Miguel Costa
+Empréstimo: 4829 - Livro: O Ultimo Farol - Volume 82 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-12-02 - Data de devolução: 2023-12-12
+Empréstimo: 6008 - Livro: As Cores do Vento - Volume 149 - Autor: Ricardo Teixeira
+Data do empréstimo: 2024-03-15 - Data de devolução: 2024-03-25
+Empréstimo: 7666 - Livro: A Ponte de Pedra - Volume 53 - Autor: Marcelo Torres
+Data do empréstimo: 2024-08-15 - Data de devolução: 2024-08-25
+Empréstimo: 9569 - Livro: A Ponte de Pedra - Volume 42 - Autor: Marcelo Torres
+Data do empréstimo: 2023-12-13 - Data de devolução: 2023-12-23
+TOTAL: 4 empréstimos
+
+NOME: Bento Macedo
+Nenhum empréstimo encontrado.
+
+NOME: Luiz Silva
+Empréstimo: 498 - Livro: A Ilha Distante - Volume 119 - Autor: Gabriel Vieira
+Data do empréstimo: 2023-08-17 - Data de devolução: 2023-08-27
+Empréstimo: 2959 - Livro: Cartas para o Amanhã - Volume 20 - Autor: Beatriz Souza
+Data do empréstimo: 2024-08-26 - Data de devolução: 2024-09-05
+Empréstimo: 4512 - Livro: Cartas para o Amanhã - Volume 219 - Autor: Beatriz Souza
+Data do empréstimo: 2025-10-19 - Data de devolução: 2025-10-29
+Empréstimo: 4759 - Livro: O Diario de Helena - Volume 229 - Autor: Laura Barbosa
+Data do empréstimo: 2024-09-05 - Data de devolução: 2024-09-15
+Empréstimo: 4956 - Livro: A Casa das Janelas Azuis - Volume 141 - Autor: Marina Duarte
+Data do empréstimo: 2024-07-31 - Data de devolução: 2024-08-10
+Empréstimo: 7048 - Livro: O Ultimo Farol - Volume 169 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-06-16 - Data de devolução: 2023-06-26
+Empréstimo: 8179 - Livro: O Segredo do Jardim - Volume 171 - Autor: Carlos Almeida
+Data do empréstimo: 2026-04-22 - Data de devolução: 2026-05-02
+TOTAL: 7 empréstimos
+
+NOME: Felipe Dias
+Empréstimo: 1104 - Livro: A Floresta Silenciosa - Volume 140 - Autor: Camila Santos
+Data do empréstimo: 2022-11-26 - Data de devolução: 2022-12-06
+Empréstimo: 3686 - Livro: Noites de Inverno - Volume 246 - Autor: Pedro Nogueira
+Data do empréstimo: 2023-11-27 - Data de devolução: 2023-12-07
+Empréstimo: 6317 - Livro: A Casa das Janelas Azuis - Volume 10 - Autor: Marina Duarte
+Data do empréstimo: 2022-11-15 - Data de devolução: 2022-11-25
+Empréstimo: 9195 - Livro: O Diario de Helena - Volume 239 - Autor: Laura Barbosa
+Data do empréstimo: 2023-09-08 - Data de devolução: 2023-09-18
+TOTAL: 4 empréstimos
+
+NOME: Nicolas Guimarães
+Nenhum empréstimo encontrado.
+
+NOME: Enzo Mello
+Nenhum empréstimo encontrado.
+
+NOME: Amanda Fernandes
+Empréstimo: 1650 - Livro: O Diario de Helena - Volume 94 - Autor: Laura Barbosa
+Data do empréstimo: 2026-03-29 - Data de devolução: 2026-04-08
+Empréstimo: 7347 - Livro: A Cidade das Estrelas - Volume 153 - Autor: Luciana Castro
+Data do empréstimo: 2025-11-17 - Data de devolução: 2025-11-27
+TOTAL: 2 empréstimos
+
+NOME: Gustavo Goncalves
+Empréstimo: 1464 - Livro: O Ultimo Farol - Volume 76 - Autor: Rafael Oliveira
+Data do empréstimo: 2023-09-14 - Data de devolução: 2023-09-24
+Empréstimo: 9572 - Livro: O Misterio da Montanha - Volume 181 - Autor: Fernando Ribeiro
+Data do empréstimo: 2023-05-18 - Data de devolução: 2023-05-28
+TOTAL: 2 empréstimos
+
+NOME: Camila Castro
+Empréstimo: 1850 - Livro: As Cores do Vento - Volume 157 - Autor: Ricardo Teixeira
+Data do empréstimo: 2026-03-04 - Data de devolução: 2026-03-14
+Empréstimo: 3681 - Livro: O Caminho das Aguas - Volume 90 - Autor: Sofia Monteiro
+Data do empréstimo: 2024-01-06 - Data de devolução: 2024-01-16
+Empréstimo: 5288 - Livro: Viagem ao Norte - Volume 45 - Autor: Eduardo Lima
+Data do empréstimo: 2024-02-19 - Data de devolução: 2024-02-29
+TOTAL: 3 empréstimos
+
+NOME: Arthur Carvalho
+Empréstimo: 1583 - Livro: A Cidade das Estrelas - Volume 5 - Autor: Luciana Castro
+Data do empréstimo: 2026-04-05 - Data de devolução: 2026-04-15
+TOTAL: 1 empréstimos
+
+NOME: Rafaela Lima
+Empréstimo: 5468 - Livro: A Luz da Manhã - Volume 85 - Autor: Bruno Machado
+Data do empréstimo: 2023-10-09 - Data de devolução: 2023-10-19
+TOTAL: 1 empréstimos
+
+NOME: Gabriel Castro
+Empréstimo: 9633 - Livro: As Aventuras de Clara - Volume 134 - Autor: Helena Martins
+Data do empréstimo: 2025-11-30 - Data de devolução: 2025-12-10
+TOTAL: 1 empréstimos
+
+NOME: Pedro Rodrigues
+Empréstimo: 640 - Livro: O Vale dos Sonhos - Volume 84 - Autor: Ana Carvalho
+Data do empréstimo: 2023-01-13 - Data de devolução: 2023-01-23
+Empréstimo: 693 - Livro: Cartas para o Amanhã - Volume 23 - Autor: Beatriz Souza
+Data do empréstimo: 2024-08-11 - Data de devolução: 2024-08-21
+Empréstimo: 1566 - Livro: O Misterio da Montanha - Volume 48 - Autor: Fernando Ribeiro
+Data do empréstimo: 2025-07-22 - Data de devolução: 2025-08-01
+Empréstimo: 7027 - Livro: A Ponte de Pedra - Volume 137 - Autor: Marcelo Torres
+Data do empréstimo: 2023-02-04 - Data de devolução: 2023-02-14
+Empréstimo: 7692 - Livro: Noites de Inverno - Volume 135 - Autor: Pedro Nogueira
+Data do empréstimo: 2026-05-17 - Data de devolução: 2026-05-27
+Empréstimo: 9082 - Livro: A Ponte de Pedra - Volume 35 - Autor: Marcelo Torres
+Data do empréstimo: 2023-10-20 - Data de devolução: 2023-10-30
+TOTAL: 6 empréstimos
+
+NOME: Arthur Rocha
+Empréstimo: 867 - Livro: A Casa das Janelas Azuis - Volume 134 - Autor: Marina Duarte
+Data do empréstimo: 2024-05-28 - Data de devolução: 2024-06-07
+Empréstimo: 988 - Livro: Viagem ao Norte - Volume 179 - Autor: Eduardo Lima
+Data do empréstimo: 2023-07-04 - Data de devolução: 2023-07-14
+Empréstimo: 3228 - Livro: Cartas para o Amanhã - Volume 134 - Autor: Beatriz Souza
+Data do empréstimo: 2023-01-27 - Data de devolução: 2023-02-06
+Empréstimo: 8147 - Livro: A Luz da Manhã - Volume 152 - Autor: Bruno Machado
+Data do empréstimo: 2023-12-20 - Data de devolução: 2023-12-30
+TOTAL: 4 empréstimos
+

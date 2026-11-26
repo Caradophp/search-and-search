@@ -1,0 +1,1000 @@
+1;Bruna Ferreira;O Diario de Helena - Volume 166;Laura Barbosa;06/11/2023;16/11/2023
+2;Diego Gomes;O Caminho das Aguas - Volume 149;Sofia Monteiro;22/08/2026;01/09/2026
+3;Amanda Fernandes;A Casa das Janelas Azuis - Volume 205;Marina Duarte;31/01/2026;10/02/2026
+4;Bruno Xavier;A Ilha Distante - Volume 155;Gabriel Vieira;07/10/2023;17/10/2023
+5;Marcelo Nascimento;As Aventuras de Clara - Volume 227;Helena Martins;30/04/2025;10/05/2025
+6;Rafael Moreira;Cartas para o Amanhã - Volume 84;Beatriz Souza;27/08/2026;06/09/2026
+7;Henrique Dias;O Diario de Helena - Volume 40;Laura Barbosa;25/04/2024;05/05/2024
+8;Joaquim Carvalho;O Castelo na Colina - Volume 98;Clara Rodrigues;10/06/2026;20/06/2026
+9;Elisa Gomes;A Ilha Distante - Volume 141;Gabriel Vieira;07/06/2023;17/06/2023
+10;Helena Xavier;As Cores do Vento - Volume 62;Ricardo Teixeira;06/10/2022;16/10/2022
+11;Nicolas Machado;A Casa das Janelas Azuis - Volume 149;Marina Duarte;14/07/2023;24/07/2023
+12;Rafael Freitas;O Relogio Esquecido - Volume 106;Daniel Ferreira;20/10/2024;30/10/2024
+13;Renata Dias;O Diario de Helena - Volume 217;Laura Barbosa;18/07/2024;28/07/2024
+14;Eduardo Nascimento;A Floresta Silenciosa - Volume 185;Camila Santos;21/08/2026;31/08/2026
+15;Joao Soares;A Floresta Silenciosa - Volume 157;Camila Santos;15/01/2024;25/01/2024
+16;Sofia Duarte;As Cores do Vento - Volume 239;Ricardo Teixeira;12/10/2025;22/10/2025
+17;Bruno Martins;O Diario de Helena - Volume 110;Laura Barbosa;18/02/2024;28/02/2024
+18;Diego Ribeiro;O Vale dos Sonhos - Volume 214;Ana Carvalho;26/04/2023;06/05/2023
+19;Larissa Soares;O Ultimo Farol - Volume 219;Rafael Oliveira;31/01/2023;10/02/2023
+20;Caio Nascimento;A Ilha Distante - Volume 24;Gabriel Vieira;30/04/2026;10/05/2026
+21;Diego Batista;As Cores do Vento - Volume 198;Ricardo Teixeira;07/05/2025;17/05/2025
+22;Elisa Silva;A Casa das Janelas Azuis - Volume 149;Marina Duarte;27/06/2023;07/07/2023
+23;Daniela Xavier;A Casa das Janelas Azuis - Volume 63;Marina Duarte;18/01/2026;28/01/2026
+24;Sofia Lopes;A Luz da Manhã - Volume 236;Bruno Machado;30/06/2025;10/07/2025
+25;Elisa Batista;O Diario de Helena - Volume 121;Laura Barbosa;18/09/2023;28/09/2023
+26;Diego Ferreira;A Luz da Manhã - Volume 11;Bruno Machado;13/02/2026;23/02/2026
+27;Carlos Machado;Noites de Inverno - Volume 13;Pedro Nogueira;23/04/2025;03/05/2025
+28;Bruno Vieira;A Ilha Distante - Volume 117;Gabriel Vieira;22/05/2025;01/06/2025
+29;Cauã Moreira;Viagem ao Norte - Volume 56;Eduardo Lima;09/07/2026;19/07/2026
+30;Isabela Almeida;A Ponte de Pedra - Volume 2;Marcelo Torres;05/10/2023;15/10/2023
+31;Miguel Freitas;Cartas para o Amanhã - Volume 105;Beatriz Souza;14/04/2025;24/04/2025
+32;Ricardo Nogueira;A Casa das Janelas Azuis - Volume 40;Marina Duarte;22/04/2023;02/05/2023
+33;Carlos Freitas;O Misterio da Montanha - Volume 197;Fernando Ribeiro;04/10/2025;14/10/2025
+34;Victor Martins;O Vale dos Sonhos - Volume 167;Ana Carvalho;31/08/2023;10/09/2023
+35;Juliana Cardoso;As Aventuras de Clara - Volume 249;Helena Martins;07/08/2023;17/08/2023
+36;Camila Dias;O Mapa Perdido - Volume 10;Juliana Mendes;08/12/2025;18/12/2025
+37;Pedro Alves;Cartas para o Amanhã - Volume 241;Beatriz Souza;08/10/2022;18/10/2022
+38;Laura Ramos;O Castelo na Colina - Volume 93;Clara Rodrigues;25/10/2024;04/11/2024
+39;Camila Vieira;A Cidade das Estrelas - Volume 74;Luciana Castro;24/07/2023;03/08/2023
+40;Leonardo Costa;A Ilha Distante - Volume 149;Gabriel Vieira;20/12/2025;30/12/2025
+41;Isabela Monteiro;A Ponte de Pedra - Volume 59;Marcelo Torres;26/02/2023;08/03/2023
+42;Daniel Borges;A Cidade das Estrelas - Volume 83;Luciana Castro;20/04/2023;30/04/2023
+43;Luiz Medeiros;Noites de Inverno - Volume 189;Pedro Nogueira;18/05/2024;28/05/2024
+44;Valentina Teixeira;O Relogio Esquecido - Volume 173;Daniel Ferreira;19/02/2024;29/02/2024
+45;Mateus Rodrigues;Noites de Inverno - Volume 58;Pedro Nogueira;05/04/2023;15/04/2023
+46;Natalia Medeiros;O Castelo na Colina - Volume 18;Clara Rodrigues;19/05/2024;29/05/2024
+47;Joao Martins;O Ultimo Farol - Volume 179;Rafael Oliveira;12/10/2022;22/10/2022
+48;Igor Monteiro;O Castelo na Colina - Volume 131;Clara Rodrigues;17/09/2025;27/09/2025
+49;Rafael Machado;As Cores do Vento - Volume 67;Ricardo Teixeira;21/05/2024;31/05/2024
+50;Raul Gomes;Cartas para o Amanhã - Volume 38;Beatriz Souza;03/07/2023;13/07/2023
+51;Rafael Nogueira;O Misterio da Montanha - Volume 185;Fernando Ribeiro;22/02/2026;04/03/2026
+52;Bruna Lopes;A Cidade das Estrelas - Volume 235;Luciana Castro;13/07/2025;23/07/2025
+53;Carlos Machado;O Diario de Helena - Volume 108;Laura Barbosa;08/04/2025;18/04/2025
+54;Thiago Machado;O Relogio Esquecido - Volume 17;Daniel Ferreira;23/02/2026;05/03/2026
+55;Daniela Nogueira;O Segredo do Jardim - Volume 249;Carlos Almeida;06/02/2026;16/02/2026
+56;Mariana Alves;As Aventuras de Clara - Volume 26;Helena Martins;30/04/2023;10/05/2023
+57;Natalia Rodrigues;As Cores do Vento - Volume 111;Ricardo Teixeira;11/12/2024;21/12/2024
+58;Renata Machado;A Floresta Silenciosa - Volume 75;Camila Santos;12/10/2025;22/10/2025
+59;Joaquim Freitas;O Castelo na Colina - Volume 76;Clara Rodrigues;08/04/2023;18/04/2023
+60;Carolina Monteiro;O Vale dos Sonhos - Volume 211;Ana Carvalho;23/07/2023;02/08/2023
+61;Fernanda Nascimento;O Relogio Esquecido - Volume 43;Daniel Ferreira;03/03/2025;13/03/2025
+62;Raul Barbosa;A Ponte de Pedra - Volume 199;Marcelo Torres;18/07/2023;28/07/2023
+63;Elisa Carvalho;As Cores do Vento - Volume 163;Ricardo Teixeira;09/03/2023;19/03/2023
+64;Mariana Fernandes;A Luz da Manhã - Volume 81;Bruno Machado;25/11/2023;05/12/2023
+65;Raul Santos;Cartas para o Amanhã - Volume 163;Beatriz Souza;08/10/2023;18/10/2023
+66;Ana Moraes;O Castelo na Colina - Volume 130;Clara Rodrigues;17/09/2023;27/09/2023
+67;Vinicius Soares;Cartas para o Amanhã - Volume 4;Beatriz Souza;20/11/2022;30/11/2022
+68;Felipe Souza;A Floresta Silenciosa - Volume 202;Camila Santos;26/03/2025;05/04/2025
+69;Patricia Ramos;O Vale dos Sonhos - Volume 107;Ana Carvalho;17/01/2023;27/01/2023
+70;Joaquim Rocha;O Segredo do Jardim - Volume 172;Carlos Almeida;31/08/2026;10/09/2026
+71;Sabrina Monteiro;As Aventuras de Clara - Volume 212;Helena Martins;16/01/2023;26/01/2023
+72;Marina Goncalves;O Relogio Esquecido - Volume 85;Daniel Ferreira;12/02/2024;22/02/2024
+73;Vitor Rodrigues;A Ilha Distante - Volume 248;Gabriel Vieira;24/03/2024;03/04/2024
+74;Igor Carvalho;As Aventuras de Clara - Volume 238;Helena Martins;26/07/2024;05/08/2024
+75;Alice Monteiro;A Ilha Distante - Volume 97;Gabriel Vieira;28/01/2023;07/02/2023
+76;Samuel Torres;A Luz da Manhã - Volume 54;Bruno Machado;23/01/2025;02/02/2025
+77;Clara Dias;Viagem ao Norte - Volume 228;Eduardo Lima;11/09/2023;21/09/2023
+78;Patricia Souza;A Casa das Janelas Azuis - Volume 199;Marina Duarte;03/08/2024;13/08/2024
+79;Bernardo Rodrigues;Cartas para o Amanhã - Volume 184;Beatriz Souza;23/12/2022;02/01/2023
+80;Bernardo Vieira;A Floresta Silenciosa - Volume 70;Camila Santos;06/04/2024;16/04/2024
+81;Rafael Carvalho;A Ponte de Pedra - Volume 68;Marcelo Torres;18/10/2024;28/10/2024
+82;Daniela Teixeira;A Ilha Distante - Volume 132;Gabriel Vieira;09/05/2024;19/05/2024
+83;Isabela Moreira;A Floresta Silenciosa - Volume 119;Camila Santos;05/04/2023;15/04/2023
+84;Igor Pereira;As Cores do Vento - Volume 178;Ricardo Teixeira;09/06/2024;19/06/2024
+85;Igor Vieira;O Caminho das Aguas - Volume 119;Sofia Monteiro;15/09/2025;25/09/2025
+86;Nicolas Barbosa;O Mapa Perdido - Volume 75;Juliana Mendes;21/01/2026;31/01/2026
+87;Victor Nascimento;A Luz da Manhã - Volume 121;Bruno Machado;08/09/2026;18/09/2026
+88;Bruna Machado;A Floresta Silenciosa - Volume 100;Camila Santos;25/11/2025;05/12/2025
+89;Luiz Ramos;As Cores do Vento - Volume 101;Ricardo Teixeira;24/11/2023;04/12/2023
+90;Vanessa Costa;A Luz da Manhã - Volume 113;Bruno Machado;25/04/2023;05/05/2023
+91;Sofia Lima;O Misterio da Montanha - Volume 246;Fernando Ribeiro;21/11/2024;01/12/2024
+92;Joaquim Carvalho;Noites de Inverno - Volume 36;Pedro Nogueira;18/04/2026;28/04/2026
+93;Elisa Duarte;A Cidade das Estrelas - Volume 29;Luciana Castro;12/07/2023;22/07/2023
+94;Rafael Torres;A Casa das Janelas Azuis - Volume 102;Marina Duarte;04/01/2025;14/01/2025
+95;Pedro Barros;O Vale dos Sonhos - Volume 96;Ana Carvalho;03/09/2024;13/09/2024
+96;Enzo Mendes;As Aventuras de Clara - Volume 130;Helena Martins;31/07/2026;10/08/2026
+97;Raul Reis;O Mapa Perdido - Volume 178;Juliana Mendes;23/03/2026;02/04/2026
+98;Caio Castro;As Cores do Vento - Volume 21;Ricardo Teixeira;03/05/2025;13/05/2025
+99;Eduarda Torres;O Segredo do Jardim - Volume 198;Carlos Almeida;02/03/2024;12/03/2024
+100;Patricia Barros;Viagem ao Norte - Volume 211;Eduardo Lima;15/04/2025;25/04/2025
+101;Gabriel Gomes;Viagem ao Norte - Volume 115;Eduardo Lima;25/11/2025;05/12/2025
+102;Cauã Goncalves;Viagem ao Norte - Volume 23;Eduardo Lima;14/06/2024;24/06/2024
+103;Patricia Goncalves;O Castelo na Colina - Volume 243;Clara Rodrigues;15/05/2023;25/05/2023
+104;Raul Goncalves;O Castelo na Colina - Volume 174;Clara Rodrigues;31/01/2025;10/02/2025
+105;Beatriz Mendes;O Caminho das Aguas - Volume 44;Sofia Monteiro;24/10/2023;03/11/2023
+106;Bruna Marques;A Floresta Silenciosa - Volume 64;Camila Santos;29/07/2024;08/08/2024
+107;Vinicius Nascimento;O Segredo do Jardim - Volume 241;Carlos Almeida;06/06/2026;16/06/2026
+108;Cauã Medeiros;O Segredo do Jardim - Volume 234;Carlos Almeida;28/07/2025;07/08/2025
+109;Marcelo Ferreira;O Castelo na Colina - Volume 28;Clara Rodrigues;06/11/2023;16/11/2023
+110;Sabrina Xavier;Cartas para o Amanhã - Volume 41;Beatriz Souza;24/02/2024;05/03/2024
+111;Sofia Nascimento;A Floresta Silenciosa - Volume 176;Camila Santos;21/08/2025;31/08/2025
+112;Camila Ramos;O Caminho das Aguas - Volume 165;Sofia Monteiro;24/02/2023;06/03/2023
+113;Patricia Carvalho;Viagem ao Norte - Volume 211;Eduardo Lima;04/07/2025;14/07/2025
+114;Arthur Machado;O Segredo do Jardim - Volume 153;Carlos Almeida;12/05/2025;22/05/2025
+115;Lucas Medeiros;As Cores do Vento - Volume 166;Ricardo Teixeira;19/08/2026;29/08/2026
+116;Sabrina Lima;O Segredo do Jardim - Volume 11;Carlos Almeida;11/12/2022;21/12/2022
+117;Caio Ramos;As Cores do Vento - Volume 114;Ricardo Teixeira;20/06/2026;30/06/2026
+118;Henrique Rodrigues;A Ilha Distante - Volume 55;Gabriel Vieira;22/10/2025;01/11/2025
+119;Felipe Mendes;A Ponte de Pedra - Volume 178;Marcelo Torres;10/05/2026;20/05/2026
+120;Marina Dias;Viagem ao Norte - Volume 18;Eduardo Lima;05/09/2026;15/09/2026
+121;Carlos Barros;Noites de Inverno - Volume 147;Pedro Nogueira;24/07/2026;03/08/2026
+122;Gabriel Xavier;O Castelo na Colina - Volume 220;Clara Rodrigues;30/11/2023;10/12/2023
+123;Mateus Xavier;Noites de Inverno - Volume 54;Pedro Nogueira;21/07/2023;31/07/2023
+124;Eduarda Barbosa;A Floresta Silenciosa - Volume 250;Camila Santos;23/10/2023;02/11/2023
+125;Gabriela Soares;Cartas para o Amanhã - Volume 132;Beatriz Souza;04/06/2026;14/06/2026
+126;Valentina Freitas;O Relogio Esquecido - Volume 118;Daniel Ferreira;23/05/2026;02/06/2026
+127;Victor Medeiros;A Ponte de Pedra - Volume 34;Marcelo Torres;29/05/2026;08/06/2026
+128;Fernanda Duarte;A Luz da Manhã - Volume 198;Bruno Machado;04/12/2025;14/12/2025
+129;Raul Lima;As Cores do Vento - Volume 79;Ricardo Teixeira;21/12/2023;31/12/2023
+130;Marina Santos;A Casa das Janelas Azuis - Volume 173;Marina Duarte;25/09/2024;05/10/2024
+131;Leticia Barros;O Caminho das Aguas - Volume 35;Sofia Monteiro;24/11/2025;04/12/2025
+132;Carlos Machado;O Mapa Perdido - Volume 81;Juliana Mendes;15/05/2026;25/05/2026
+133;Helena Gomes;O Diario de Helena - Volume 176;Laura Barbosa;24/09/2024;04/10/2024
+134;Eduarda Lopes;A Luz da Manhã - Volume 199;Bruno Machado;24/04/2024;04/05/2024
+135;Diego Goncalves;O Relogio Esquecido - Volume 226;Daniel Ferreira;02/02/2024;12/02/2024
+136;Joaquim Alves;Viagem ao Norte - Volume 211;Eduardo Lima;06/10/2023;16/10/2023
+137;Daniela Ferreira;A Ponte de Pedra - Volume 95;Marcelo Torres;17/03/2024;27/03/2024
+138;Mariana Moreira;A Ponte de Pedra - Volume 166;Marcelo Torres;02/10/2022;12/10/2022
+139;Felipe Monteiro;Cartas para o Amanhã - Volume 193;Beatriz Souza;05/07/2026;15/07/2026
+140;Bruno Borges;O Vale dos Sonhos - Volume 189;Ana Carvalho;23/08/2025;02/09/2025
+141;Gabriela Moraes;Noites de Inverno - Volume 53;Pedro Nogueira;24/08/2024;03/09/2024
+142;Eduarda Carvalho;Noites de Inverno - Volume 174;Pedro Nogueira;03/01/2023;13/01/2023
+143;Thiago Machado;A Casa das Janelas Azuis - Volume 157;Marina Duarte;18/05/2023;28/05/2023
+144;Murilo Carvalho;Noites de Inverno - Volume 156;Pedro Nogueira;04/04/2025;14/04/2025
+145;Arthur Marques;O Castelo na Colina - Volume 21;Clara Rodrigues;17/09/2023;27/09/2023
+146;Sofia Ribeiro;Noites de Inverno - Volume 20;Pedro Nogueira;02/12/2024;12/12/2024
+147;Enzo Martins;O Caminho das Aguas - Volume 181;Sofia Monteiro;18/05/2026;28/05/2026
+148;Gabriela Soares;O Segredo do Jardim - Volume 144;Carlos Almeida;08/10/2023;18/10/2023
+149;Igor Xavier;Noites de Inverno - Volume 190;Pedro Nogueira;22/11/2024;02/12/2024
+150;Alice Ramos;A Casa das Janelas Azuis - Volume 202;Marina Duarte;17/01/2023;27/01/2023
+151;Fernando Oliveira;A Luz da Manhã - Volume 21;Bruno Machado;09/04/2025;19/04/2025
+152;Eduarda Ribeiro;O Castelo na Colina - Volume 24;Clara Rodrigues;21/07/2023;31/07/2023
+153;Joaquim Santos;Noites de Inverno - Volume 118;Pedro Nogueira;15/09/2026;25/09/2026
+154;Juliana Torres;O Misterio da Montanha - Volume 180;Fernando Ribeiro;05/03/2025;15/03/2025
+155;Sofia Rodrigues;O Segredo do Jardim - Volume 205;Carlos Almeida;28/03/2025;07/04/2025
+156;Helena Santos;Cartas para o Amanhã - Volume 223;Beatriz Souza;17/11/2024;27/11/2024
+157;Caio Moreira;O Diario de Helena - Volume 150;Laura Barbosa;18/11/2025;28/11/2025
+158;Larissa Xavier;O Vale dos Sonhos - Volume 179;Ana Carvalho;03/05/2025;13/05/2025
+159;Eduardo Batista;O Segredo do Jardim - Volume 163;Carlos Almeida;06/09/2024;16/09/2024
+160;Camila Silva;A Casa das Janelas Azuis - Volume 26;Marina Duarte;09/08/2026;19/08/2026
+161;Igor Machado;Viagem ao Norte - Volume 61;Eduardo Lima;21/04/2025;01/05/2025
+162;Bruna Castro;O Misterio da Montanha - Volume 69;Fernando Ribeiro;12/09/2024;22/09/2024
+163;Vitor Duarte;O Castelo na Colina - Volume 240;Clara Rodrigues;16/07/2025;26/07/2025
+164;Samuel Gomes;O Castelo na Colina - Volume 80;Clara Rodrigues;27/05/2023;06/06/2023
+165;Valentina Vieira;O Ultimo Farol - Volume 207;Rafael Oliveira;11/03/2023;21/03/2023
+166;Henrique Rodrigues;Cartas para o Amanhã - Volume 46;Beatriz Souza;23/03/2024;02/04/2024
+167;Clara Medeiros;A Floresta Silenciosa - Volume 2;Camila Santos;26/08/2024;05/09/2024
+168;Nicolas Fernandes;O Castelo na Colina - Volume 65;Clara Rodrigues;06/12/2022;16/12/2022
+169;Renata Soares;A Ponte de Pedra - Volume 205;Marcelo Torres;28/11/2022;08/12/2022
+170;Fernando Vieira;Cartas para o Amanhã - Volume 216;Beatriz Souza;04/02/2025;14/02/2025
+171;Cauã Dias;A Ponte de Pedra - Volume 186;Marcelo Torres;19/06/2024;29/06/2024
+172;Thiago Lopes;A Floresta Silenciosa - Volume 249;Camila Santos;13/11/2025;23/11/2025
+173;Enzo Gomes;O Caminho das Aguas - Volume 47;Sofia Monteiro;23/02/2026;05/03/2026
+174;Camila Rocha;A Casa das Janelas Azuis - Volume 187;Marina Duarte;24/12/2025;03/01/2026
+175;Murilo Medeiros;A Luz da Manhã - Volume 113;Bruno Machado;29/03/2024;08/04/2024
+176;Victor Moraes;A Luz da Manhã - Volume 19;Bruno Machado;24/09/2025;04/10/2025
+177;Luiz Teixeira;A Ponte de Pedra - Volume 107;Marcelo Torres;25/06/2024;05/07/2024
+178;Eduardo Freitas;As Aventuras de Clara - Volume 149;Helena Martins;13/02/2024;23/02/2024
+179;Sofia Costa;Viagem ao Norte - Volume 171;Eduardo Lima;03/04/2024;13/04/2024
+180;Bernardo Duarte;A Floresta Silenciosa - Volume 45;Camila Santos;19/01/2026;29/01/2026
+181;Fernando Goncalves;O Mapa Perdido - Volume 161;Juliana Mendes;06/04/2024;16/04/2024
+182;Rafaela Barbosa;Noites de Inverno - Volume 13;Pedro Nogueira;01/06/2026;11/06/2026
+183;Eduarda Fernandes;O Misterio da Montanha - Volume 34;Fernando Ribeiro;24/02/2023;06/03/2023
+184;Thiago Martins;Noites de Inverno - Volume 126;Pedro Nogueira;23/03/2023;02/04/2023
+185;Raul Almeida;Noites de Inverno - Volume 144;Pedro Nogueira;01/09/2024;11/09/2024
+186;Isabela Ribeiro;A Luz da Manhã - Volume 164;Bruno Machado;11/04/2026;21/04/2026
+187;Beatriz Borges;O Caminho das Aguas - Volume 199;Sofia Monteiro;30/04/2025;10/05/2025
+188;Miguel Soares;Viagem ao Norte - Volume 222;Eduardo Lima;10/09/2023;20/09/2023
+189;Alice Barbosa;O Segredo do Jardim - Volume 172;Carlos Almeida;13/10/2025;23/10/2025
+190;Raul Torres;A Ilha Distante - Volume 133;Gabriel Vieira;20/11/2024;30/11/2024
+191;Mariana Pereira;O Diario de Helena - Volume 99;Laura Barbosa;05/08/2024;15/08/2024
+192;Laura Torres;A Cidade das Estrelas - Volume 90;Luciana Castro;11/01/2023;21/01/2023
+193;Laura Costa;A Ilha Distante - Volume 100;Gabriel Vieira;23/08/2025;02/09/2025
+194;Vanessa Moreira;Viagem ao Norte - Volume 202;Eduardo Lima;15/04/2026;25/04/2026
+195;Daniel Nogueira;A Ponte de Pedra - Volume 214;Marcelo Torres;23/03/2024;02/04/2024
+196;Daniel Teixeira;O Segredo do Jardim - Volume 192;Carlos Almeida;11/10/2022;21/10/2022
+197;Larissa Batista;As Aventuras de Clara - Volume 153;Helena Martins;20/10/2023;30/10/2023
+198;Gustavo Torres;Viagem ao Norte - Volume 171;Eduardo Lima;10/04/2023;20/04/2023
+199;Miguel Silva;O Ultimo Farol - Volume 227;Rafael Oliveira;18/05/2023;28/05/2023
+200;Bruna Cardoso;As Cores do Vento - Volume 237;Ricardo Teixeira;09/02/2026;19/02/2026
+201;Bruno Xavier;As Cores do Vento - Volume 146;Ricardo Teixeira;12/09/2024;22/09/2024
+202;Gustavo Almeida;O Mapa Perdido - Volume 42;Juliana Mendes;25/10/2023;04/11/2023
+203;Vitor Marques;A Luz da Manhã - Volume 68;Bruno Machado;07/08/2025;17/08/2025
+204;Raul Teixeira;A Luz da Manhã - Volume 200;Bruno Machado;24/05/2026;03/06/2026
+205;Renata Marques;O Caminho das Aguas - Volume 218;Sofia Monteiro;24/01/2024;03/02/2024
+206;Fernanda Nascimento;As Aventuras de Clara - Volume 22;Helena Martins;23/08/2023;02/09/2023
+207;Rafael Lopes;Viagem ao Norte - Volume 220;Eduardo Lima;01/07/2026;11/07/2026
+208;Juliana Teixeira;Viagem ao Norte - Volume 202;Eduardo Lima;09/04/2026;19/04/2026
+209;Gustavo Ferreira;A Luz da Manhã - Volume 212;Bruno Machado;12/01/2026;22/01/2026
+210;Gabriel Oliveira;Viagem ao Norte - Volume 10;Eduardo Lima;29/07/2024;08/08/2024
+211;Victor Santos;O Misterio da Montanha - Volume 191;Fernando Ribeiro;09/11/2025;19/11/2025
+212;Juliana Barbosa;As Cores do Vento - Volume 106;Ricardo Teixeira;28/07/2026;07/08/2026
+213;Fernanda Souza;A Luz da Manhã - Volume 248;Bruno Machado;22/12/2025;01/01/2026
+214;Daniel Alves;O Castelo na Colina - Volume 130;Clara Rodrigues;23/03/2025;02/04/2025
+215;Mateus Gomes;O Caminho das Aguas - Volume 165;Sofia Monteiro;16/07/2024;26/07/2024
+216;Enzo Gomes;As Cores do Vento - Volume 13;Ricardo Teixeira;17/10/2022;27/10/2022
+217;Laura Souza;O Mapa Perdido - Volume 145;Juliana Mendes;15/05/2026;25/05/2026
+218;Vitor Ferreira;O Castelo na Colina - Volume 87;Clara Rodrigues;23/12/2023;02/01/2024
+219;Helena Silva;Cartas para o Amanhã - Volume 179;Beatriz Souza;02/09/2024;12/09/2024
+220;Lucas Moraes;O Segredo do Jardim - Volume 195;Carlos Almeida;18/12/2022;28/12/2022
+221;Elisa Teixeira;Noites de Inverno - Volume 155;Pedro Nogueira;27/04/2025;07/05/2025
+222;Vinicius Lima;O Segredo do Jardim - Volume 179;Carlos Almeida;24/11/2023;04/12/2023
+223;Ana Marques;A Ponte de Pedra - Volume 25;Marcelo Torres;12/09/2024;22/09/2024
+224;Igor Castro;O Vale dos Sonhos - Volume 120;Ana Carvalho;04/03/2023;14/03/2023
+225;Fernando Goncalves;A Ilha Distante - Volume 55;Gabriel Vieira;26/07/2024;05/08/2024
+226;Marcos Oliveira;A Luz da Manhã - Volume 78;Bruno Machado;13/05/2023;23/05/2023
+227;Cauã Goncalves;O Misterio da Montanha - Volume 30;Fernando Ribeiro;18/11/2023;28/11/2023
+228;Carlos Medeiros;O Castelo na Colina - Volume 70;Clara Rodrigues;10/08/2023;20/08/2023
+229;Vitor Almeida;O Caminho das Aguas - Volume 237;Sofia Monteiro;26/10/2025;05/11/2025
+230;Bernardo Costa;As Cores do Vento - Volume 99;Ricardo Teixeira;13/02/2024;23/02/2024
+231;Juliana Freitas;A Ilha Distante - Volume 217;Gabriel Vieira;02/06/2023;12/06/2023
+232;Thiago Xavier;O Misterio da Montanha - Volume 229;Fernando Ribeiro;13/02/2023;23/02/2023
+233;Fernanda Oliveira;O Mapa Perdido - Volume 14;Juliana Mendes;09/09/2024;19/09/2024
+234;Daniel Machado;O Relogio Esquecido - Volume 167;Daniel Ferreira;28/09/2024;08/10/2024
+235;Igor Borges;Noites de Inverno - Volume 68;Pedro Nogueira;19/02/2026;01/03/2026
+236;Rodrigo Lopes;O Segredo do Jardim - Volume 223;Carlos Almeida;21/12/2024;31/12/2024
+237;Sofia Ferreira;O Segredo do Jardim - Volume 244;Carlos Almeida;06/11/2023;16/11/2023
+238;Rafaela Borges;O Castelo na Colina - Volume 51;Clara Rodrigues;11/12/2024;21/12/2024
+239;Igor Xavier;A Ponte de Pedra - Volume 33;Marcelo Torres;25/04/2023;05/05/2023
+240;Sofia Dias;A Ilha Distante - Volume 101;Gabriel Vieira;18/04/2026;28/04/2026
+241;Ricardo Soares;A Ponte de Pedra - Volume 26;Marcelo Torres;04/02/2023;14/02/2023
+242;Marcelo Pereira;As Aventuras de Clara - Volume 171;Helena Martins;11/01/2026;21/01/2026
+243;Diego Torres;O Misterio da Montanha - Volume 77;Fernando Ribeiro;18/08/2026;28/08/2026
+244;Lucas Santos;A Cidade das Estrelas - Volume 105;Luciana Castro;24/03/2026;03/04/2026
+245;Bruno Ribeiro;O Vale dos Sonhos - Volume 52;Ana Carvalho;10/09/2026;20/09/2026
+246;Igor Rocha;O Mapa Perdido - Volume 106;Juliana Mendes;25/03/2025;04/04/2025
+247;Clara Rocha;Noites de Inverno - Volume 221;Pedro Nogueira;18/03/2023;28/03/2023
+248;Vinicius Borges;A Casa das Janelas Azuis - Volume 73;Marina Duarte;16/04/2025;26/04/2025
+249;Natalia Ferreira;Viagem ao Norte - Volume 31;Eduardo Lima;22/03/2024;01/04/2024
+250;Raul Nogueira;O Ultimo Farol - Volume 88;Rafael Oliveira;23/04/2026;03/05/2026
+251;Henrique Batista;A Floresta Silenciosa - Volume 20;Camila Santos;07/01/2026;17/01/2026
+252;Gabriela Vieira;O Castelo na Colina - Volume 124;Clara Rodrigues;02/08/2023;12/08/2023
+253;Valentina Borges;Cartas para o Amanhã - Volume 83;Beatriz Souza;28/03/2026;07/04/2026
+254;Carolina Torres;Noites de Inverno - Volume 91;Pedro Nogueira;29/09/2023;09/10/2023
+255;Carlos Soares;Viagem ao Norte - Volume 14;Eduardo Lima;21/01/2024;31/01/2024
+256;Clara Fernandes;O Ultimo Farol - Volume 44;Rafael Oliveira;27/02/2023;09/03/2023
+257;Leonardo Soares;A Cidade das Estrelas - Volume 199;Luciana Castro;14/08/2026;24/08/2026
+258;Carlos Moraes;Cartas para o Amanhã - Volume 247;Beatriz Souza;12/01/2026;22/01/2026
+259;Joao Gomes;O Vale dos Sonhos - Volume 232;Ana Carvalho;16/11/2023;26/11/2023
+260;Otavio Cardoso;A Ponte de Pedra - Volume 136;Marcelo Torres;05/09/2026;15/09/2026
+261;Ricardo Fernandes;O Mapa Perdido - Volume 6;Juliana Mendes;13/12/2023;23/12/2023
+262;Ana Castro;O Castelo na Colina - Volume 148;Clara Rodrigues;30/06/2026;10/07/2026
+263;Rafael Borges;O Relogio Esquecido - Volume 156;Daniel Ferreira;20/01/2023;30/01/2023
+264;Carolina Almeida;A Casa das Janelas Azuis - Volume 58;Marina Duarte;18/07/2025;28/07/2025
+265;Juliana Medeiros;Cartas para o Amanhã - Volume 48;Beatriz Souza;15/11/2025;25/11/2025
+266;Beatriz Vieira;O Caminho das Aguas - Volume 121;Sofia Monteiro;23/05/2025;02/06/2025
+267;Otavio Xavier;A Luz da Manhã - Volume 47;Bruno Machado;23/07/2025;02/08/2025
+268;Leonardo Reis;A Luz da Manhã - Volume 148;Bruno Machado;05/01/2025;15/01/2025
+269;Eduardo Almeida;A Cidade das Estrelas - Volume 144;Luciana Castro;10/03/2026;20/03/2026
+270;Beatriz Lima;A Ilha Distante - Volume 236;Gabriel Vieira;30/07/2023;09/08/2023
+271;Marina Alves;O Mapa Perdido - Volume 62;Juliana Mendes;20/12/2025;30/12/2025
+272;Rafael Castro;As Aventuras de Clara - Volume 105;Helena Martins;20/12/2025;30/12/2025
+273;Rafael Pereira;A Cidade das Estrelas - Volume 203;Luciana Castro;29/07/2025;08/08/2025
+274;Helena Fernandes;O Caminho das Aguas - Volume 225;Sofia Monteiro;13/09/2024;23/09/2024
+275;Daniel Freitas;A Floresta Silenciosa - Volume 110;Camila Santos;06/02/2024;16/02/2024
+276;Daniel Reis;As Cores do Vento - Volume 50;Ricardo Teixeira;27/05/2026;06/06/2026
+277;Fernanda Castro;A Cidade das Estrelas - Volume 213;Luciana Castro;25/04/2024;05/05/2024
+278;Joaquim Ferreira;O Caminho das Aguas - Volume 138;Sofia Monteiro;27/07/2024;06/08/2024
+279;Bruno Machado;A Cidade das Estrelas - Volume 71;Luciana Castro;23/01/2025;02/02/2025
+280;Cauã Ribeiro;A Luz da Manhã - Volume 206;Bruno Machado;27/01/2023;06/02/2023
+281;Diego Ribeiro;O Castelo na Colina - Volume 142;Clara Rodrigues;25/02/2026;07/03/2026
+282;Nicolas Medeiros;A Luz da Manhã - Volume 54;Bruno Machado;09/10/2025;19/10/2025
+283;Bruno Silva;As Cores do Vento - Volume 215;Ricardo Teixeira;10/12/2023;20/12/2023
+284;Diego Reis;O Ultimo Farol - Volume 71;Rafael Oliveira;17/06/2023;27/06/2023
+285;Mariana Xavier;As Aventuras de Clara - Volume 186;Helena Martins;02/08/2025;12/08/2025
+286;Carolina Nascimento;A Casa das Janelas Azuis - Volume 219;Marina Duarte;24/04/2024;04/05/2024
+287;Gustavo Dias;A Ponte de Pedra - Volume 180;Marcelo Torres;02/12/2022;12/12/2022
+288;Camila Lima;O Vale dos Sonhos - Volume 169;Ana Carvalho;05/08/2025;15/08/2025
+289;Bernardo Moreira;O Relogio Esquecido - Volume 24;Daniel Ferreira;16/07/2025;26/07/2025
+290;Camila Borges;O Relogio Esquecido - Volume 168;Daniel Ferreira;27/09/2023;07/10/2023
+291;Mariana Costa;A Cidade das Estrelas - Volume 10;Luciana Castro;01/09/2025;11/09/2025
+292;Marcelo Cardoso;O Misterio da Montanha - Volume 61;Fernando Ribeiro;13/07/2026;23/07/2026
+293;Sabrina Medeiros;O Castelo na Colina - Volume 111;Clara Rodrigues;12/05/2025;22/05/2025
+294;Gabriel Xavier;As Aventuras de Clara - Volume 155;Helena Martins;16/03/2025;26/03/2025
+295;Thiago Borges;O Ultimo Farol - Volume 126;Rafael Oliveira;27/06/2024;07/07/2024
+296;Murilo Teixeira;O Relogio Esquecido - Volume 104;Daniel Ferreira;28/06/2023;08/07/2023
+297;Fernando Machado;A Ponte de Pedra - Volume 138;Marcelo Torres;06/02/2026;16/02/2026
+298;Igor Machado;Noites de Inverno - Volume 240;Pedro Nogueira;17/02/2024;27/02/2024
+299;Ana Barros;O Vale dos Sonhos - Volume 155;Ana Carvalho;04/09/2024;14/09/2024
+300;Natalia Soares;A Casa das Janelas Azuis - Volume 229;Marina Duarte;23/10/2025;02/11/2025
+301;Bruno Torres;Cartas para o Amanhã - Volume 41;Beatriz Souza;08/12/2024;18/12/2024
+302;Caio Lopes;O Relogio Esquecido - Volume 192;Daniel Ferreira;01/11/2022;11/11/2022
+303;Lucas Barbosa;A Cidade das Estrelas - Volume 126;Luciana Castro;01/07/2025;11/07/2025
+304;Gabriel Silva;A Casa das Janelas Azuis - Volume 34;Marina Duarte;13/03/2023;23/03/2023
+305;Henrique Monteiro;Noites de Inverno - Volume 202;Pedro Nogueira;12/07/2023;22/07/2023
+306;Helena Duarte;O Caminho das Aguas - Volume 31;Sofia Monteiro;03/11/2023;13/11/2023
+307;Arthur Ramos;O Ultimo Farol - Volume 156;Rafael Oliveira;15/02/2023;25/02/2023
+308;Felipe Freitas;O Caminho das Aguas - Volume 246;Sofia Monteiro;16/11/2022;26/11/2022
+309;Isabela Ribeiro;O Mapa Perdido - Volume 220;Juliana Mendes;30/03/2025;09/04/2025
+310;Leonardo Borges;A Luz da Manhã - Volume 37;Bruno Machado;15/07/2025;25/07/2025
+311;Vinicius Xavier;Viagem ao Norte - Volume 186;Eduardo Lima;09/08/2025;19/08/2025
+312;Bruno Pereira;As Aventuras de Clara - Volume 86;Helena Martins;21/05/2023;31/05/2023
+313;Luana Martins;As Cores do Vento - Volume 15;Ricardo Teixeira;02/06/2025;12/06/2025
+314;Vinicius Mendes;As Aventuras de Clara - Volume 109;Helena Martins;13/06/2023;23/06/2023
+315;Diego Duarte;O Castelo na Colina - Volume 44;Clara Rodrigues;30/03/2026;09/04/2026
+316;Murilo Ramos;Cartas para o Amanhã - Volume 22;Beatriz Souza;12/05/2023;22/05/2023
+317;Nicolas Marques;O Segredo do Jardim - Volume 97;Carlos Almeida;06/04/2025;16/04/2025
+318;Clara Pereira;O Vale dos Sonhos - Volume 75;Ana Carvalho;13/03/2025;23/03/2025
+319;Murilo Machado;O Caminho das Aguas - Volume 6;Sofia Monteiro;08/03/2025;18/03/2025
+320;Arthur Cardoso;Noites de Inverno - Volume 42;Pedro Nogueira;28/01/2026;07/02/2026
+321;Victor Rodrigues;O Caminho das Aguas - Volume 156;Sofia Monteiro;11/10/2022;21/10/2022
+322;Clara Xavier;O Caminho das Aguas - Volume 152;Sofia Monteiro;04/11/2023;14/11/2023
+323;Caio Ribeiro;A Casa das Janelas Azuis - Volume 216;Marina Duarte;22/04/2024;02/05/2024
+324;Bernardo Martins;O Castelo na Colina - Volume 111;Clara Rodrigues;19/02/2023;01/03/2023
+325;Gabriel Marques;As Cores do Vento - Volume 100;Ricardo Teixeira;29/12/2022;08/01/2023
+326;Vinicius Pereira;O Ultimo Farol - Volume 241;Rafael Oliveira;20/06/2026;30/06/2026
+327;Vitor Castro;O Relogio Esquecido - Volume 133;Daniel Ferreira;12/06/2025;22/06/2025
+328;Bruna Vieira;Noites de Inverno - Volume 29;Pedro Nogueira;17/02/2024;27/02/2024
+329;Carolina Lopes;A Floresta Silenciosa - Volume 16;Camila Santos;03/01/2023;13/01/2023
+330;Clara Nogueira;A Ponte de Pedra - Volume 250;Marcelo Torres;01/11/2024;11/11/2024
+331;Enzo Rocha;O Relogio Esquecido - Volume 187;Daniel Ferreira;13/10/2023;23/10/2023
+332;Samuel Carvalho;O Mapa Perdido - Volume 15;Juliana Mendes;15/10/2023;25/10/2023
+333;Rafael Santos;O Segredo do Jardim - Volume 46;Carlos Almeida;20/11/2024;30/11/2024
+334;Leticia Ramos;O Diario de Helena - Volume 30;Laura Barbosa;21/01/2024;31/01/2024
+335;Mariana Teixeira;O Ultimo Farol - Volume 57;Rafael Oliveira;19/12/2025;29/12/2025
+336;Bruno Dias;A Casa das Janelas Azuis - Volume 59;Marina Duarte;10/11/2025;20/11/2025
+337;Rodrigo Reis;O Caminho das Aguas - Volume 231;Sofia Monteiro;28/10/2022;07/11/2022
+338;Bruno Moreira;A Cidade das Estrelas - Volume 36;Luciana Castro;16/01/2023;26/01/2023
+339;Cauã Rodrigues;A Luz da Manhã - Volume 78;Bruno Machado;05/10/2025;15/10/2025
+340;Eduarda Fernandes;A Casa das Janelas Azuis - Volume 76;Marina Duarte;21/09/2024;01/10/2024
+341;Joaquim Dias;O Caminho das Aguas - Volume 227;Sofia Monteiro;08/06/2025;18/06/2025
+342;Victor Barbosa;Viagem ao Norte - Volume 71;Eduardo Lima;09/06/2024;19/06/2024
+343;Amanda Rodrigues;O Misterio da Montanha - Volume 83;Fernando Ribeiro;17/09/2025;27/09/2025
+344;Samuel Nascimento;O Diario de Helena - Volume 209;Laura Barbosa;25/06/2025;05/07/2025
+345;Victor Teixeira;O Mapa Perdido - Volume 24;Juliana Mendes;29/03/2026;08/04/2026
+346;Patricia Moraes;As Cores do Vento - Volume 197;Ricardo Teixeira;13/04/2025;23/04/2025
+347;Ana Ferreira;A Ponte de Pedra - Volume 84;Marcelo Torres;09/06/2024;19/06/2024
+348;Thiago Fernandes;Viagem ao Norte - Volume 186;Eduardo Lima;27/11/2023;07/12/2023
+349;Otavio Carvalho;As Aventuras de Clara - Volume 62;Helena Martins;02/12/2025;12/12/2025
+350;Gustavo Cardoso;O Relogio Esquecido - Volume 48;Daniel Ferreira;06/05/2025;16/05/2025
+351;Victor Lopes;O Segredo do Jardim - Volume 98;Carlos Almeida;15/04/2023;25/04/2023
+352;Luana Lima;O Vale dos Sonhos - Volume 205;Ana Carvalho;19/04/2025;29/04/2025
+353;Bruno Duarte;A Ilha Distante - Volume 21;Gabriel Vieira;23/06/2025;03/07/2025
+354;Ricardo Rocha;O Vale dos Sonhos - Volume 107;Ana Carvalho;06/07/2026;16/07/2026
+355;Otavio Almeida;O Castelo na Colina - Volume 189;Clara Rodrigues;10/09/2024;20/09/2024
+356;Larissa Moraes;A Cidade das Estrelas - Volume 162;Luciana Castro;26/04/2026;06/05/2026
+357;Gabriel Souza;As Cores do Vento - Volume 12;Ricardo Teixeira;08/10/2023;18/10/2023
+358;Eduardo Reis;A Cidade das Estrelas - Volume 60;Luciana Castro;21/12/2023;31/12/2023
+359;Renata Ramos;O Segredo do Jardim - Volume 6;Carlos Almeida;07/11/2024;17/11/2024
+360;Daniela Vieira;Noites de Inverno - Volume 150;Pedro Nogueira;17/05/2025;27/05/2025
+361;Cauã Borges;O Segredo do Jardim - Volume 77;Carlos Almeida;10/09/2025;20/09/2025
+362;Carlos Ramos;Viagem ao Norte - Volume 66;Eduardo Lima;13/12/2024;23/12/2024
+363;Pedro Rodrigues;Viagem ao Norte - Volume 47;Eduardo Lima;06/04/2026;16/04/2026
+364;Bernardo Ribeiro;A Casa das Janelas Azuis - Volume 137;Marina Duarte;04/11/2022;14/11/2022
+365;Samuel Xavier;O Castelo na Colina - Volume 72;Clara Rodrigues;22/02/2026;04/03/2026
+366;Renata Nogueira;O Segredo do Jardim - Volume 72;Carlos Almeida;26/06/2025;06/07/2025
+367;Renata Mendes;O Misterio da Montanha - Volume 70;Fernando Ribeiro;02/11/2025;12/11/2025
+368;Igor Gomes;O Diario de Helena - Volume 222;Laura Barbosa;21/11/2022;01/12/2022
+369;Rafael Torres;O Vale dos Sonhos - Volume 11;Ana Carvalho;22/04/2026;02/05/2026
+370;Victor Marques;O Ultimo Farol - Volume 190;Rafael Oliveira;18/12/2024;28/12/2024
+371;Daniel Reis;O Ultimo Farol - Volume 246;Rafael Oliveira;27/05/2026;06/06/2026
+372;Luana Castro;A Luz da Manhã - Volume 101;Bruno Machado;26/02/2024;07/03/2024
+373;Samuel Monteiro;O Vale dos Sonhos - Volume 40;Ana Carvalho;08/11/2024;18/11/2024
+374;Raul Ribeiro;O Caminho das Aguas - Volume 126;Sofia Monteiro;15/01/2025;25/01/2025
+375;Nicolas Alves;O Ultimo Farol - Volume 180;Rafael Oliveira;15/11/2024;25/11/2024
+376;Rafael Souza;O Caminho das Aguas - Volume 168;Sofia Monteiro;01/06/2025;11/06/2025
+377;Miguel Santos;As Aventuras de Clara - Volume 37;Helena Martins;12/01/2024;22/01/2024
+378;Felipe Barbosa;O Misterio da Montanha - Volume 213;Fernando Ribeiro;12/07/2023;22/07/2023
+379;Camila Lima;A Ponte de Pedra - Volume 12;Marcelo Torres;13/05/2026;23/05/2026
+380;Diego Ribeiro;A Ilha Distante - Volume 102;Gabriel Vieira;04/12/2025;14/12/2025
+381;Victor Reis;O Misterio da Montanha - Volume 117;Fernando Ribeiro;03/12/2023;13/12/2023
+382;Bruno Lima;O Segredo do Jardim - Volume 250;Carlos Almeida;16/07/2024;26/07/2024
+383;Caio Souza;A Ilha Distante - Volume 225;Gabriel Vieira;03/07/2023;13/07/2023
+384;Samuel Teixeira;A Ilha Distante - Volume 54;Gabriel Vieira;04/11/2024;14/11/2024
+385;Eduarda Rodrigues;Cartas para o Amanhã - Volume 213;Beatriz Souza;18/12/2022;28/12/2022
+386;Murilo Nascimento;O Caminho das Aguas - Volume 93;Sofia Monteiro;16/10/2024;26/10/2024
+387;Isabela Oliveira;A Ponte de Pedra - Volume 206;Marcelo Torres;25/09/2024;05/10/2024
+388;Bernardo Teixeira;Cartas para o Amanhã - Volume 178;Beatriz Souza;30/08/2024;09/09/2024
+389;Vinicius Nogueira;O Segredo do Jardim - Volume 70;Carlos Almeida;24/10/2023;03/11/2023
+390;Fernanda Freitas;O Mapa Perdido;Juliana Mendes;22/04/2026;02/05/2026
+391;Mateus Mendes;A Ponte de Pedra - Volume 95;Marcelo Torres;07/12/2024;17/12/2024
+392;Otavio Gomes;Cartas para o Amanhã - Volume 60;Beatriz Souza;18/07/2024;28/07/2024
+393;Victor Ribeiro;A Ilha Distante - Volume 127;Gabriel Vieira;14/09/2026;24/09/2026
+394;Daniel Lima;O Misterio da Montanha - Volume 154;Fernando Ribeiro;25/06/2023;05/07/2023
+395;Joao Moraes;A Ponte de Pedra - Volume 223;Marcelo Torres;31/01/2025;10/02/2025
+396;Mariana Barros;A Ponte de Pedra - Volume 174;Marcelo Torres;27/07/2024;06/08/2024
+397;Larissa Vieira;O Relogio Esquecido - Volume 87;Daniel Ferreira;25/01/2026;04/02/2026
+398;Miguel Ferreira;O Ultimo Farol - Volume 19;Rafael Oliveira;23/10/2025;02/11/2025
+399;Elisa Lopes;A Ponte de Pedra - Volume 234;Marcelo Torres;05/12/2025;15/12/2025
+400;Valentina Machado;O Caminho das Aguas - Volume 19;Sofia Monteiro;28/09/2025;08/10/2025
+401;Pedro Medeiros;O Caminho das Aguas - Volume 216;Sofia Monteiro;04/05/2026;14/05/2026
+402;Mateus Gomes;A Luz da Manhã - Volume 103;Bruno Machado;30/11/2022;10/12/2022
+403;Pedro Machado;O Vale dos Sonhos - Volume 32;Ana Carvalho;02/12/2022;12/12/2022
+404;Joaquim Teixeira;Noites de Inverno - Volume 51;Pedro Nogueira;27/01/2026;06/02/2026
+405;Sofia Lima;As Cores do Vento - Volume 144;Ricardo Teixeira;23/11/2024;03/12/2024
+406;Gabriel Reis;A Floresta Silenciosa - Volume 243;Camila Santos;19/12/2025;29/12/2025
+407;Murilo Costa;As Aventuras de Clara - Volume 210;Helena Martins;26/12/2025;05/01/2026
+408;Rafaela Gomes;O Castelo na Colina - Volume 15;Clara Rodrigues;14/09/2023;24/09/2023
+409;Mateus Souza;O Castelo na Colina - Volume 6;Clara Rodrigues;16/05/2023;26/05/2023
+410;Joaquim Souza;O Relogio Esquecido - Volume 13;Daniel Ferreira;22/05/2025;01/06/2025
+411;Sabrina Teixeira;Viagem ao Norte - Volume 38;Eduardo Lima;19/12/2023;29/12/2023
+412;Larissa Souza;O Relogio Esquecido - Volume 100;Daniel Ferreira;10/11/2025;20/11/2025
+413;Gabriela Batista;O Segredo do Jardim - Volume 159;Carlos Almeida;14/09/2025;24/09/2025
+414;Henrique Nascimento;A Floresta Silenciosa - Volume 45;Camila Santos;01/07/2023;11/07/2023
+415;Luiz Rocha;O Ultimo Farol - Volume 50;Rafael Oliveira;17/01/2023;27/01/2023
+416;Victor Ribeiro;Cartas para o Amanhã - Volume 79;Beatriz Souza;16/01/2025;26/01/2025
+417;Arthur Freitas;O Mapa Perdido - Volume 241;Juliana Mendes;12/12/2023;22/12/2023
+418;Igor Rocha;A Floresta Silenciosa - Volume 60;Camila Santos;03/02/2026;13/02/2026
+419;Sofia Cardoso;A Cidade das Estrelas - Volume 7;Luciana Castro;25/02/2024;06/03/2024
+420;Diego Dias;As Cores do Vento - Volume 75;Ricardo Teixeira;13/04/2023;23/04/2023
+421;Mateus Silva;Cartas para o Amanhã - Volume 111;Beatriz Souza;05/07/2023;15/07/2023
+422;Juliana Xavier;Noites de Inverno - Volume 75;Pedro Nogueira;22/10/2024;01/11/2024
+423;Felipe Alves;Viagem ao Norte - Volume 31;Eduardo Lima;14/08/2024;24/08/2024
+424;Otavio Almeida;O Diario de Helena - Volume 8;Laura Barbosa;01/02/2026;11/02/2026
+425;Samuel Rocha;A Ilha Distante - Volume 187;Gabriel Vieira;31/12/2023;10/01/2024
+426;Victor Barros;O Mapa Perdido - Volume 115;Juliana Mendes;08/05/2023;18/05/2023
+427;Natalia Rodrigues;Cartas para o Amanhã - Volume 33;Beatriz Souza;04/11/2023;14/11/2023
+428;Valentina Freitas;O Vale dos Sonhos - Volume 88;Ana Carvalho;02/11/2025;12/11/2025
+429;Juliana Rodrigues;A Ilha Distante - Volume 95;Gabriel Vieira;29/12/2025;08/01/2026
+430;Eduarda Duarte;A Casa das Janelas Azuis - Volume 82;Marina Duarte;16/10/2022;26/10/2022
+431;Renata Fernandes;O Mapa Perdido - Volume 121;Juliana Mendes;15/12/2024;25/12/2024
+432;Leticia Vieira;O Ultimo Farol - Volume 24;Rafael Oliveira;25/06/2023;05/07/2023
+433;Rodrigo Nogueira;O Relogio Esquecido - Volume 230;Daniel Ferreira;07/05/2025;17/05/2025
+434;Arthur Lima;O Mapa Perdido - Volume 133;Juliana Mendes;12/06/2025;22/06/2025
+435;Victor Santos;Noites de Inverno - Volume 91;Pedro Nogueira;02/03/2024;12/03/2024
+436;Helena Freitas;A Luz da Manhã - Volume 96;Bruno Machado;30/08/2023;09/09/2023
+437;Pedro Soares;As Cores do Vento - Volume 125;Ricardo Teixeira;03/07/2023;13/07/2023
+438;Thiago Machado;O Mapa Perdido - Volume 83;Juliana Mendes;09/01/2024;19/01/2024
+439;Victor Machado;As Cores do Vento - Volume 236;Ricardo Teixeira;08/12/2025;18/12/2025
+440;Eduarda Ferreira;O Caminho das Aguas - Volume 104;Sofia Monteiro;11/01/2025;21/01/2025
+441;Larissa Reis;As Cores do Vento - Volume 190;Ricardo Teixeira;30/08/2025;09/09/2025
+442;Mariana Carvalho;O Ultimo Farol - Volume 81;Rafael Oliveira;07/01/2024;17/01/2024
+443;Elisa Dias;Noites de Inverno - Volume 28;Pedro Nogueira;28/03/2025;07/04/2025
+444;Marcelo Reis;O Vale dos Sonhos - Volume 98;Ana Carvalho;31/07/2026;10/08/2026
+445;Pedro Almeida;Cartas para o Amanhã - Volume 141;Beatriz Souza;23/04/2025;03/05/2025
+446;Felipe Reis;As Aventuras de Clara - Volume 228;Helena Martins;26/07/2025;05/08/2025
+447;Rafaela Torres;Viagem ao Norte - Volume 28;Eduardo Lima;17/01/2026;27/01/2026
+448;Lucas Teixeira;As Aventuras de Clara - Volume 205;Helena Martins;19/05/2025;29/05/2025
+449;Rodrigo Cardoso;O Caminho das Aguas - Volume 3;Sofia Monteiro;14/09/2026;24/09/2026
+450;Pedro Batista;Noites de Inverno - Volume 176;Pedro Nogueira;28/04/2025;08/05/2025
+451;Leticia Medeiros;O Segredo do Jardim - Volume 164;Carlos Almeida;28/11/2024;08/12/2024
+452;Marcelo Torres;As Cores do Vento - Volume 188;Ricardo Teixeira;18/03/2023;28/03/2023
+453;Raul Freitas;A Floresta Silenciosa - Volume 64;Camila Santos;08/03/2023;18/03/2023
+454;Felipe Goncalves;O Mapa Perdido - Volume 174;Juliana Mendes;12/01/2026;22/01/2026
+455;Enzo Oliveira;A Casa das Janelas Azuis - Volume 233;Marina Duarte;09/11/2024;19/11/2024
+456;Natalia Martins;As Cores do Vento - Volume 131;Ricardo Teixeira;15/03/2023;25/03/2023
+457;Juliana Oliveira;A Casa das Janelas Azuis - Volume 61;Marina Duarte;10/09/2026;20/09/2026
+458;Rafael Moreira;As Cores do Vento - Volume 60;Ricardo Teixeira;20/06/2024;30/06/2024
+459;Patricia Freitas;O Diario de Helena - Volume 248;Laura Barbosa;17/08/2024;27/08/2024
+460;Helena Mendes;O Misterio da Montanha - Volume 41;Fernando Ribeiro;06/06/2025;16/06/2025
+461;Henrique Gomes;O Vale dos Sonhos - Volume 168;Ana Carvalho;18/12/2024;28/12/2024
+462;Gabriel Vieira;O Castelo na Colina - Volume 191;Clara Rodrigues;05/09/2025;15/09/2025
+463;Helena Oliveira;A Casa das Janelas Azuis - Volume 41;Marina Duarte;25/06/2024;05/07/2024
+464;Thiago Souza;A Ilha Distante - Volume 151;Gabriel Vieira;12/12/2023;22/12/2023
+465;Luiz Silva;A Floresta Silenciosa - Volume 122;Camila Santos;15/06/2023;25/06/2023
+466;Luiz Rocha;O Segredo do Jardim - Volume 224;Carlos Almeida;08/03/2025;18/03/2025
+467;Eduardo Dias;O Segredo do Jardim;Carlos Almeida;03/07/2026;13/07/2026
+468;Helena Castro;A Cidade das Estrelas - Volume 167;Luciana Castro;20/11/2022;30/11/2022
+469;Vitor Moreira;O Castelo na Colina - Volume 38;Clara Rodrigues;05/11/2022;15/11/2022
+470;Larissa Moreira;O Ultimo Farol - Volume 229;Rafael Oliveira;25/11/2025;05/12/2025
+471;Clara Mendes;As Aventuras de Clara - Volume 155;Helena Martins;27/03/2023;06/04/2023
+472;Cauã Ferreira;A Ponte de Pedra - Volume 124;Marcelo Torres;27/08/2025;06/09/2025
+473;Enzo Batista;A Cidade das Estrelas - Volume 6;Luciana Castro;29/01/2024;08/02/2024
+474;Valentina Santos;Viagem ao Norte - Volume 245;Eduardo Lima;15/03/2023;25/03/2023
+475;Bruno Santos;A Casa das Janelas Azuis - Volume 41;Marina Duarte;17/01/2024;27/01/2024
+476;Laura Costa;A Floresta Silenciosa - Volume 190;Camila Santos;17/09/2025;27/09/2025
+477;Amanda Ferreira;A Luz da Manhã - Volume 248;Bruno Machado;10/06/2026;20/06/2026
+478;Ricardo Teixeira;A Casa das Janelas Azuis - Volume 217;Marina Duarte;08/06/2026;18/06/2026
+479;Marina Teixeira;O Ultimo Farol - Volume 102;Rafael Oliveira;04/12/2024;14/12/2024
+480;Luana Ferreira;O Mapa Perdido - Volume 165;Juliana Mendes;23/01/2024;02/02/2024
+481;Gustavo Nogueira;O Segredo do Jardim - Volume 234;Carlos Almeida;01/08/2026;11/08/2026
+482;Lucas Mendes;As Aventuras de Clara - Volume 222;Helena Martins;20/01/2025;30/01/2025
+483;Sabrina Nascimento;A Luz da Manhã - Volume 5;Bruno Machado;17/11/2025;27/11/2025
+484;Fernando Mendes;A Ponte de Pedra - Volume 219;Marcelo Torres;16/03/2025;26/03/2025
+485;Natalia Martins;O Mapa Perdido - Volume 45;Juliana Mendes;19/04/2025;29/04/2025
+486;Eduarda Moraes;O Ultimo Farol - Volume 8;Rafael Oliveira;04/02/2025;14/02/2025
+487;Helena Ribeiro;A Cidade das Estrelas - Volume 28;Luciana Castro;11/09/2026;21/09/2026
+488;Nicolas Torres;Cartas para o Amanhã - Volume 156;Beatriz Souza;03/12/2022;13/12/2022
+489;Daniela Santos;A Casa das Janelas Azuis - Volume 107;Marina Duarte;06/11/2025;16/11/2025
+490;Gustavo Gomes;O Caminho das Aguas - Volume 18;Sofia Monteiro;14/03/2025;24/03/2025
+491;Daniela Lopes;As Aventuras de Clara - Volume 65;Helena Martins;16/11/2025;26/11/2025
+492;Camila Barros;A Floresta Silenciosa - Volume 84;Camila Santos;09/07/2024;19/07/2024
+493;Gabriela Lima;As Cores do Vento - Volume 200;Ricardo Teixeira;16/10/2025;26/10/2025
+494;Felipe Silva;Viagem ao Norte - Volume 198;Eduardo Lima;04/05/2025;14/05/2025
+495;Gabriel Marques;O Segredo do Jardim - Volume 36;Carlos Almeida;19/08/2026;29/08/2026
+496;Ana Martins;O Caminho das Aguas - Volume 74;Sofia Monteiro;03/12/2022;13/12/2022
+497;Joao Gomes;As Aventuras de Clara - Volume 118;Helena Martins;18/05/2025;28/05/2025
+498;Gabriel Lopes;O Segredo do Jardim - Volume 26;Carlos Almeida;16/02/2026;26/02/2026
+499;Renata Costa;O Mapa Perdido - Volume 129;Juliana Mendes;04/04/2023;14/04/2023
+500;Otavio Pereira;A Luz da Manhã - Volume 3;Bruno Machado;08/09/2026;18/09/2026
+501;Joaquim Cardoso;O Vale dos Sonhos - Volume 198;Ana Carvalho;11/05/2024;21/05/2024
+502;Rafaela Batista;O Mapa Perdido - Volume 241;Juliana Mendes;25/04/2023;05/05/2023
+503;Henrique Barbosa;A Ilha Distante - Volume 158;Gabriel Vieira;29/01/2024;08/02/2024
+504;Henrique Pereira;O Vale dos Sonhos - Volume 120;Ana Carvalho;03/07/2025;13/07/2025
+505;Fernando Mendes;A Cidade das Estrelas - Volume 185;Luciana Castro;21/08/2025;31/08/2025
+506;Leticia Barros;O Mapa Perdido - Volume 117;Juliana Mendes;17/11/2024;27/11/2024
+507;Clara Souza;O Segredo do Jardim - Volume 200;Carlos Almeida;23/01/2025;02/02/2025
+508;Daniel Moreira;O Relogio Esquecido - Volume 126;Daniel Ferreira;08/09/2023;18/09/2023
+509;Daniel Soares;Viagem ao Norte - Volume 103;Eduardo Lima;11/09/2026;21/09/2026
+510;Vitor Teixeira;O Castelo na Colina - Volume 237;Clara Rodrigues;13/05/2024;23/05/2024
+511;Rafael Santos;A Luz da Manhã - Volume 32;Bruno Machado;10/06/2025;20/06/2025
+512;Mateus Martins;A Ponte de Pedra - Volume 190;Marcelo Torres;16/11/2023;26/11/2023
+513;Joao Alves;As Aventuras de Clara - Volume 23;Helena Martins;17/10/2024;27/10/2024
+514;Miguel Rodrigues;O Mapa Perdido - Volume 3;Juliana Mendes;01/07/2023;11/07/2023
+515;Eduarda Nascimento;As Cores do Vento - Volume 50;Ricardo Teixeira;22/04/2023;02/05/2023
+516;Camila Ferreira;A Cidade das Estrelas - Volume 180;Luciana Castro;01/11/2023;11/11/2023
+517;Juliana Rocha;O Vale dos Sonhos - Volume 101;Ana Carvalho;16/10/2025;26/10/2025
+518;Joaquim Ribeiro;O Diario de Helena - Volume 44;Laura Barbosa;06/09/2024;16/09/2024
+519;Vanessa Lima;O Relogio Esquecido - Volume 39;Daniel Ferreira;14/06/2025;24/06/2025
+520;Caio Ferreira;A Cidade das Estrelas - Volume 8;Luciana Castro;25/12/2024;04/01/2025
+521;Vitor Soares;As Aventuras de Clara - Volume 85;Helena Martins;20/05/2024;30/05/2024
+522;Gabriel Costa;A Ilha Distante - Volume 236;Gabriel Vieira;08/10/2024;18/10/2024
+523;Igor Cardoso;O Segredo do Jardim - Volume 27;Carlos Almeida;12/09/2024;22/09/2024
+524;Mateus Monteiro;Cartas para o Amanhã - Volume 170;Beatriz Souza;30/04/2023;10/05/2023
+525;Murilo Rodrigues;O Vale dos Sonhos - Volume 85;Ana Carvalho;23/10/2022;02/11/2022
+526;Sabrina Lopes;A Casa das Janelas Azuis - Volume 106;Marina Duarte;17/05/2026;27/05/2026
+527;Bruno Rodrigues;A Ilha Distante - Volume 187;Gabriel Vieira;06/09/2025;16/09/2025
+528;Laura Souza;O Caminho das Aguas - Volume 236;Sofia Monteiro;31/07/2026;10/08/2026
+529;Thiago Martins;O Ultimo Farol - Volume 199;Rafael Oliveira;25/05/2023;04/06/2023
+530;Vitor Ferreira;Cartas para o Amanhã - Volume 4;Beatriz Souza;07/06/2026;17/06/2026
+531;Cauã Moraes;A Floresta Silenciosa - Volume 184;Camila Santos;06/06/2026;16/06/2026
+532;Joaquim Rocha;A Floresta Silenciosa - Volume 177;Camila Santos;25/08/2024;04/09/2024
+533;Vitor Goncalves;O Relogio Esquecido - Volume 232;Daniel Ferreira;08/03/2025;18/03/2025
+534;Joaquim Castro;Viagem ao Norte - Volume 184;Eduardo Lima;23/01/2025;02/02/2025
+535;Luana Santos;O Mapa Perdido - Volume 89;Juliana Mendes;24/01/2023;03/02/2023
+536;Otavio Carvalho;A Cidade das Estrelas - Volume 35;Luciana Castro;19/05/2025;29/05/2025
+537;Sofia Souza;As Cores do Vento - Volume 169;Ricardo Teixeira;28/10/2025;07/11/2025
+538;Rodrigo Goncalves;O Vale dos Sonhos - Volume 12;Ana Carvalho;17/03/2024;27/03/2024
+539;Bruno Ramos;Viagem ao Norte - Volume 50;Eduardo Lima;03/04/2024;13/04/2024
+540;Fernanda Medeiros;A Floresta Silenciosa - Volume 197;Camila Santos;22/03/2024;01/04/2024
+541;Vinicius Santos;A Floresta Silenciosa - Volume 202;Camila Santos;21/10/2025;31/10/2025
+542;Marcelo Goncalves;O Relogio Esquecido - Volume 12;Daniel Ferreira;09/01/2024;19/01/2024
+543;Beatriz Oliveira;O Castelo na Colina - Volume 41;Clara Rodrigues;23/08/2023;02/09/2023
+544;Lucas Barbosa;A Luz da Manhã - Volume 206;Bruno Machado;13/11/2023;23/11/2023
+545;Valentina Reis;O Caminho das Aguas - Volume 42;Sofia Monteiro;17/01/2026;27/01/2026
+546;Ricardo Monteiro;A Floresta Silenciosa - Volume 54;Camila Santos;30/12/2025;09/01/2026
+547;Amanda Castro;O Vale dos Sonhos - Volume 105;Ana Carvalho;12/06/2025;22/06/2025
+548;Daniel Reis;O Segredo do Jardim - Volume 250;Carlos Almeida;08/10/2024;18/10/2024
+549;Laura Barros;O Caminho das Aguas - Volume 145;Sofia Monteiro;11/09/2026;21/09/2026
+550;Luiz Rocha;O Diario de Helena - Volume 39;Laura Barbosa;16/05/2023;26/05/2023
+551;Valentina Marques;O Misterio da Montanha - Volume 17;Fernando Ribeiro;02/07/2023;12/07/2023
+552;Bruno Ribeiro;As Cores do Vento - Volume 90;Ricardo Teixeira;02/06/2026;12/06/2026
+553;Beatriz Cardoso;A Luz da Manhã - Volume 86;Bruno Machado;27/04/2026;07/05/2026
+554;Rafaela Carvalho;Cartas para o Amanhã - Volume 212;Beatriz Souza;13/01/2025;23/01/2025
+555;Rafaela Rodrigues;A Ponte de Pedra - Volume 58;Marcelo Torres;11/11/2023;21/11/2023
+556;Cauã Reis;A Casa das Janelas Azuis - Volume 61;Marina Duarte;23/02/2025;05/03/2025
+557;Bruno Almeida;O Vale dos Sonhos - Volume 17;Ana Carvalho;24/01/2025;03/02/2025
+558;Daniel Medeiros;As Cores do Vento - Volume 16;Ricardo Teixeira;15/02/2026;25/02/2026
+559;Gustavo Moraes;O Relogio Esquecido - Volume 93;Daniel Ferreira;07/05/2025;17/05/2025
+560;Sofia Oliveira;As Aventuras de Clara - Volume 33;Helena Martins;16/10/2024;26/10/2024
+561;Bruno Teixeira;A Casa das Janelas Azuis - Volume 79;Marina Duarte;31/03/2024;10/04/2024
+562;Rodrigo Oliveira;A Floresta Silenciosa - Volume 117;Camila Santos;25/12/2023;04/01/2024
+563;Felipe Ferreira;O Relogio Esquecido - Volume 162;Daniel Ferreira;05/10/2025;15/10/2025
+564;Ana Duarte;A Cidade das Estrelas - Volume 107;Luciana Castro;26/10/2022;05/11/2022
+565;Larissa Pereira;O Diario de Helena - Volume 168;Laura Barbosa;14/07/2023;24/07/2023
+566;Arthur Santos;Viagem ao Norte - Volume 236;Eduardo Lima;21/01/2024;31/01/2024
+567;Valentina Costa;Cartas para o Amanhã - Volume 68;Beatriz Souza;05/07/2023;15/07/2023
+568;Rafael Gomes;A Casa das Janelas Azuis - Volume 59;Marina Duarte;22/06/2025;02/07/2025
+569;Leonardo Lopes;As Aventuras de Clara - Volume 41;Helena Martins;02/10/2023;12/10/2023
+570;Gabriela Pereira;O Ultimo Farol - Volume 244;Rafael Oliveira;31/08/2024;10/09/2024
+571;Diego Carvalho;O Misterio da Montanha - Volume 198;Fernando Ribeiro;10/03/2026;20/03/2026
+572;Gabriel Xavier;Noites de Inverno - Volume 238;Pedro Nogueira;19/11/2024;29/11/2024
+573;Bruno Cardoso;O Ultimo Farol - Volume 163;Rafael Oliveira;16/07/2024;26/07/2024
+574;Ricardo Monteiro;O Diario de Helena - Volume 229;Laura Barbosa;25/04/2026;05/05/2026
+575;Mariana Barbosa;A Ponte de Pedra - Volume 163;Marcelo Torres;21/12/2025;31/12/2025
+576;Isabela Reis;As Cores do Vento;Ricardo Teixeira;08/12/2025;18/12/2025
+577;Daniel Santos;O Castelo na Colina - Volume 107;Clara Rodrigues;23/11/2025;03/12/2025
+578;Caio Goncalves;O Mapa Perdido - Volume 146;Juliana Mendes;21/04/2023;01/05/2023
+579;Leonardo Alves;O Caminho das Aguas - Volume 20;Sofia Monteiro;17/12/2023;27/12/2023
+580;Raul Castro;O Vale dos Sonhos - Volume 25;Ana Carvalho;06/12/2024;16/12/2024
+581;Miguel Goncalves;Noites de Inverno - Volume 231;Pedro Nogueira;15/07/2025;25/07/2025
+582;Vitor Carvalho;Cartas para o Amanhã - Volume 82;Beatriz Souza;29/06/2024;09/07/2024
+583;Juliana Ferreira;O Mapa Perdido - Volume 159;Juliana Mendes;31/01/2023;10/02/2023
+584;Rafaela Nascimento;O Vale dos Sonhos - Volume 76;Ana Carvalho;19/08/2025;29/08/2025
+585;Enzo Barbosa;Cartas para o Amanhã - Volume 137;Beatriz Souza;04/03/2026;14/03/2026
+586;Raul Nogueira;O Relogio Esquecido - Volume 161;Daniel Ferreira;11/02/2026;21/02/2026
+587;Leticia Carvalho;As Aventuras de Clara - Volume 9;Helena Martins;24/06/2025;04/07/2025
+588;Pedro Alves;O Relogio Esquecido - Volume 93;Daniel Ferreira;06/04/2025;16/04/2025
+589;Eduardo Souza;Viagem ao Norte - Volume 142;Eduardo Lima;11/09/2025;21/09/2025
+590;Samuel Freitas;A Casa das Janelas Azuis - Volume 36;Marina Duarte;17/06/2026;27/06/2026
+591;Juliana Lima;O Castelo na Colina - Volume 4;Clara Rodrigues;18/01/2024;28/01/2024
+592;Eduarda Ferreira;Cartas para o Amanhã - Volume 204;Beatriz Souza;24/08/2024;03/09/2024
+593;Fernanda Martins;O Misterio da Montanha - Volume 89;Fernando Ribeiro;26/05/2024;05/06/2024
+594;Rodrigo Mendes;A Casa das Janelas Azuis - Volume 45;Marina Duarte;04/09/2025;14/09/2025
+595;Valentina Silva;Viagem ao Norte - Volume 162;Eduardo Lima;19/05/2025;29/05/2025
+596;Enzo Rocha;O Segredo do Jardim - Volume 176;Carlos Almeida;11/10/2023;21/10/2023
+597;Diego Castro;O Relogio Esquecido - Volume 211;Daniel Ferreira;04/04/2025;14/04/2025
+598;Vanessa Reis;Cartas para o Amanhã - Volume 234;Beatriz Souza;22/12/2025;01/01/2026
+599;Fernanda Reis;Noites de Inverno - Volume 11;Pedro Nogueira;29/10/2024;08/11/2024
+600;Natalia Teixeira;O Relogio Esquecido - Volume 46;Daniel Ferreira;25/12/2023;04/01/2024
+601;Alice Duarte;Noites de Inverno - Volume 33;Pedro Nogueira;23/10/2022;02/11/2022
+602;Gabriel Rocha;O Relogio Esquecido - Volume 122;Daniel Ferreira;14/03/2025;24/03/2025
+603;Rodrigo Xavier;A Cidade das Estrelas - Volume 124;Luciana Castro;25/11/2022;05/12/2022
+604;Pedro Alves;O Caminho das Aguas - Volume 52;Sofia Monteiro;05/01/2026;15/01/2026
+605;Fernanda Fernandes;A Casa das Janelas Azuis - Volume 205;Marina Duarte;29/08/2026;08/09/2026
+606;Otavio Xavier;Noites de Inverno - Volume 181;Pedro Nogueira;09/09/2023;19/09/2023
+607;Caio Alves;A Ponte de Pedra - Volume 205;Marcelo Torres;21/08/2025;31/08/2025
+608;Daniela Oliveira;O Diario de Helena - Volume 173;Laura Barbosa;05/11/2025;15/11/2025
+609;Eduarda Barbosa;O Misterio da Montanha - Volume 23;Fernando Ribeiro;11/12/2024;21/12/2024
+610;Carolina Goncalves;Noites de Inverno - Volume 220;Pedro Nogueira;29/06/2026;09/07/2026
+611;Beatriz Rocha;A Casa das Janelas Azuis - Volume 195;Marina Duarte;21/07/2024;31/07/2024
+612;Pedro Ferreira;O Segredo do Jardim - Volume 116;Carlos Almeida;25/11/2025;05/12/2025
+613;Diego Moreira;Noites de Inverno - Volume 207;Pedro Nogueira;29/11/2022;09/12/2022
+614;Sofia Duarte;Viagem ao Norte - Volume 22;Eduardo Lima;29/03/2026;08/04/2026
+615;Elisa Moreira;O Caminho das Aguas - Volume 144;Sofia Monteiro;03/11/2025;13/11/2025
+616;Natalia Costa;A Ponte de Pedra - Volume 245;Marcelo Torres;16/03/2025;26/03/2025
+617;Joao Freitas;O Relogio Esquecido - Volume 221;Daniel Ferreira;15/08/2024;25/08/2024
+618;Isabela Xavier;Viagem ao Norte - Volume 210;Eduardo Lima;20/12/2023;30/12/2023
+619;Samuel Moreira;O Vale dos Sonhos - Volume 243;Ana Carvalho;21/12/2023;31/12/2023
+620;Carolina Teixeira;O Vale dos Sonhos - Volume 243;Ana Carvalho;02/10/2024;12/10/2024
+621;Otavio Ribeiro;As Cores do Vento - Volume 184;Ricardo Teixeira;11/01/2023;21/01/2023
+622;Daniel Machado;Noites de Inverno - Volume 171;Pedro Nogueira;22/11/2024;02/12/2024
+623;Rafael Ramos;Cartas para o Amanhã - Volume 246;Beatriz Souza;05/07/2023;15/07/2023
+624;Daniela Teixeira;A Floresta Silenciosa - Volume 81;Camila Santos;04/03/2025;14/03/2025
+625;Rodrigo Ferreira;O Caminho das Aguas - Volume 89;Sofia Monteiro;06/10/2022;16/10/2022
+626;Isabela Ramos;O Vale dos Sonhos - Volume 116;Ana Carvalho;16/04/2025;26/04/2025
+627;Daniel Santos;As Aventuras de Clara - Volume 54;Helena Martins;30/11/2022;10/12/2022
+628;Vinicius Silva;O Castelo na Colina - Volume 227;Clara Rodrigues;27/08/2026;06/09/2026
+629;Beatriz Vieira;Viagem ao Norte - Volume 212;Eduardo Lima;07/03/2026;17/03/2026
+630;Marcelo Borges;O Diario de Helena - Volume 88;Laura Barbosa;25/03/2025;04/04/2025
+631;Lucas Santos;Noites de Inverno - Volume 58;Pedro Nogueira;22/07/2025;01/08/2025
+632;Bruno Vieira;O Diario de Helena - Volume 125;Laura Barbosa;20/11/2024;30/11/2024
+633;Diego Goncalves;A Ponte de Pedra - Volume 52;Marcelo Torres;10/03/2023;20/03/2023
+634;Gabriel Souza;Noites de Inverno - Volume 42;Pedro Nogueira;06/01/2024;16/01/2024
+635;Ricardo Martins;O Relogio Esquecido - Volume 172;Daniel Ferreira;21/12/2023;31/12/2023
+636;Larissa Nascimento;A Cidade das Estrelas - Volume 143;Luciana Castro;18/05/2024;28/05/2024
+637;Sofia Soares;A Cidade das Estrelas - Volume 105;Luciana Castro;24/07/2023;03/08/2023
+638;Sabrina Moraes;O Diario de Helena - Volume 35;Laura Barbosa;28/09/2024;08/10/2024
+639;Marcos Batista;O Misterio da Montanha - Volume 13;Fernando Ribeiro;14/04/2024;24/04/2024
+640;Larissa Pereira;As Aventuras de Clara - Volume 243;Helena Martins;09/06/2024;19/06/2024
+641;Otavio Alves;O Segredo do Jardim - Volume 175;Carlos Almeida;13/04/2025;23/04/2025
+642;Laura Alves;A Ilha Distante - Volume 130;Gabriel Vieira;25/12/2023;04/01/2024
+643;Vitor Rodrigues;Cartas para o Amanhã - Volume 241;Beatriz Souza;20/11/2024;30/11/2024
+644;Gabriela Borges;O Caminho das Aguas - Volume 11;Sofia Monteiro;16/05/2026;26/05/2026
+645;Gabriel Xavier;Noites de Inverno - Volume 24;Pedro Nogueira;24/07/2023;03/08/2023
+646;Cauã Almeida;As Cores do Vento - Volume 234;Ricardo Teixeira;26/10/2024;05/11/2024
+647;Marcos Teixeira;O Misterio da Montanha - Volume 198;Fernando Ribeiro;06/03/2024;16/03/2024
+648;Bruna Reis;O Caminho das Aguas - Volume 237;Sofia Monteiro;31/08/2024;10/09/2024
+649;Helena Marques;A Floresta Silenciosa - Volume 216;Camila Santos;18/10/2024;28/10/2024
+650;Valentina Marques;O Castelo na Colina - Volume 98;Clara Rodrigues;28/04/2026;08/05/2026
+651;Leticia Gomes;O Segredo do Jardim - Volume 221;Carlos Almeida;26/10/2025;05/11/2025
+652;Diego Santos;As Cores do Vento - Volume 168;Ricardo Teixeira;08/08/2025;18/08/2025
+653;Fernando Lopes;O Ultimo Farol - Volume 228;Rafael Oliveira;22/11/2024;02/12/2024
+654;Thiago Barbosa;A Ponte de Pedra - Volume 20;Marcelo Torres;04/03/2026;14/03/2026
+655;Arthur Borges;A Floresta Silenciosa - Volume 21;Camila Santos;03/12/2023;13/12/2023
+656;Rodrigo Reis;Cartas para o Amanhã - Volume 160;Beatriz Souza;18/07/2025;28/07/2025
+657;Cauã Alves;Cartas para o Amanhã - Volume 201;Beatriz Souza;03/04/2025;13/04/2025
+658;Ricardo Ribeiro;Cartas para o Amanhã - Volume 65;Beatriz Souza;28/06/2024;08/07/2024
+659;Rodrigo Teixeira;A Floresta Silenciosa - Volume 148;Camila Santos;12/12/2023;22/12/2023
+660;Luana Dias;A Ilha Distante - Volume 50;Gabriel Vieira;17/05/2026;27/05/2026
+661;Leticia Xavier;O Mapa Perdido - Volume 177;Juliana Mendes;29/08/2024;08/09/2024
+662;Raul Borges;Viagem ao Norte - Volume 196;Eduardo Lima;07/07/2025;17/07/2025
+663;Samuel Torres;A Casa das Janelas Azuis - Volume 95;Marina Duarte;19/06/2024;29/06/2024
+664;Natalia Freitas;A Floresta Silenciosa - Volume 108;Camila Santos;05/01/2026;15/01/2026
+665;Otavio Freitas;As Cores do Vento - Volume 54;Ricardo Teixeira;13/03/2023;23/03/2023
+666;Rodrigo Barros;A Ilha Distante - Volume 202;Gabriel Vieira;30/01/2024;09/02/2024
+667;Bruno Monteiro;A Cidade das Estrelas - Volume 88;Luciana Castro;10/03/2024;20/03/2024
+668;Renata Rocha;O Misterio da Montanha - Volume 162;Fernando Ribeiro;31/12/2024;10/01/2025
+669;Murilo Ferreira;O Misterio da Montanha - Volume 41;Fernando Ribeiro;27/06/2023;07/07/2023
+670;Fernando Castro;As Aventuras de Clara - Volume 129;Helena Martins;28/07/2026;07/08/2026
+671;Victor Rodrigues;As Aventuras de Clara - Volume 34;Helena Martins;05/09/2024;15/09/2024
+672;Mateus Santos;O Vale dos Sonhos - Volume 33;Ana Carvalho;09/10/2023;19/10/2023
+673;Bruna Vieira;A Ilha Distante - Volume 11;Gabriel Vieira;19/02/2026;01/03/2026
+674;Sofia Freitas;O Mapa Perdido - Volume 149;Juliana Mendes;12/12/2024;22/12/2024
+675;Gabriela Rodrigues;O Relogio Esquecido - Volume 9;Daniel Ferreira;19/03/2025;29/03/2025
+676;Gabriela Borges;O Diario de Helena - Volume 62;Laura Barbosa;04/11/2023;14/11/2023
+677;Fernanda Oliveira;A Casa das Janelas Azuis - Volume 152;Marina Duarte;21/09/2025;01/10/2025
+678;Helena Torres;O Diario de Helena - Volume 224;Laura Barbosa;02/05/2023;12/05/2023
+679;Ana Oliveira;O Relogio Esquecido - Volume 199;Daniel Ferreira;15/09/2026;25/09/2026
+680;Leonardo Ramos;O Ultimo Farol - Volume 83;Rafael Oliveira;15/12/2024;25/12/2024
+681;Murilo Dias;A Floresta Silenciosa - Volume 188;Camila Santos;05/06/2026;15/06/2026
+682;Clara Almeida;O Diario de Helena - Volume 48;Laura Barbosa;09/01/2026;19/01/2026
+683;Cauã Teixeira;A Cidade das Estrelas - Volume 116;Luciana Castro;14/01/2023;24/01/2023
+684;Amanda Ribeiro;Noites de Inverno - Volume 144;Pedro Nogueira;17/05/2025;27/05/2025
+685;Ana Barbosa;A Ponte de Pedra - Volume 19;Marcelo Torres;05/09/2025;15/09/2025
+686;Bruno Ramos;Cartas para o Amanhã - Volume 176;Beatriz Souza;25/10/2024;04/11/2024
+687;Vanessa Rocha;Viagem ao Norte - Volume 210;Eduardo Lima;15/01/2026;25/01/2026
+688;Igor Vieira;Noites de Inverno - Volume 178;Pedro Nogueira;01/03/2025;11/03/2025
+689;Gabriela Ferreira;A Cidade das Estrelas - Volume 153;Luciana Castro;26/02/2023;08/03/2023
+690;Marina Carvalho;O Ultimo Farol - Volume 206;Rafael Oliveira;15/03/2023;25/03/2023
+691;Fernanda Pereira;O Mapa Perdido - Volume 174;Juliana Mendes;30/01/2023;09/02/2023
+692;Vinicius Barros;Cartas para o Amanhã - Volume 181;Beatriz Souza;30/12/2024;09/01/2025
+693;Vitor Torres;A Cidade das Estrelas - Volume 108;Luciana Castro;23/05/2024;02/06/2024
+694;Igor Dias;O Relogio Esquecido - Volume 43;Daniel Ferreira;15/03/2023;25/03/2023
+695;Murilo Mendes;A Floresta Silenciosa - Volume 224;Camila Santos;14/07/2023;24/07/2023
+696;Juliana Fernandes;O Mapa Perdido - Volume 193;Juliana Mendes;17/06/2023;27/06/2023
+697;Bernardo Goncalves;O Segredo do Jardim - Volume 16;Carlos Almeida;07/11/2025;17/11/2025
+698;Valentina Silva;O Vale dos Sonhos - Volume 105;Ana Carvalho;14/12/2022;24/12/2022
+699;Isabela Costa;O Segredo do Jardim - Volume 173;Carlos Almeida;27/04/2023;07/05/2023
+700;Leonardo Reis;O Relogio Esquecido - Volume 43;Daniel Ferreira;04/07/2025;14/07/2025
+701;Alice Teixeira;O Vale dos Sonhos - Volume 37;Ana Carvalho;17/09/2023;27/09/2023
+702;Natalia Moreira;Viagem ao Norte - Volume 242;Eduardo Lima;03/10/2022;13/10/2022
+703;Eduarda Silva;A Cidade das Estrelas - Volume 91;Luciana Castro;18/09/2023;28/09/2023
+704;Fernando Almeida;O Relogio Esquecido - Volume 10;Daniel Ferreira;07/02/2025;17/02/2025
+705;Bruna Torres;Noites de Inverno - Volume 183;Pedro Nogueira;10/01/2024;20/01/2024
+706;Alice Teixeira;O Diario de Helena - Volume 163;Laura Barbosa;30/07/2026;09/08/2026
+707;Renata Batista;As Cores do Vento - Volume 10;Ricardo Teixeira;13/04/2025;23/04/2025
+708;Thiago Nascimento;A Floresta Silenciosa - Volume 167;Camila Santos;11/08/2026;21/08/2026
+709;Bruna Carvalho;O Mapa Perdido - Volume 213;Juliana Mendes;28/09/2024;08/10/2024
+710;Vinicius Soares;O Caminho das Aguas - Volume 249;Sofia Monteiro;07/01/2023;17/01/2023
+711;Bernardo Barros;O Ultimo Farol - Volume 8;Rafael Oliveira;11/05/2024;21/05/2024
+712;Marcelo Souza;O Misterio da Montanha - Volume 90;Fernando Ribeiro;24/08/2024;03/09/2024
+713;Fernando Freitas;O Ultimo Farol - Volume 208;Rafael Oliveira;21/01/2025;31/01/2025
+714;Eduardo Medeiros;O Castelo na Colina - Volume 47;Clara Rodrigues;11/09/2025;21/09/2025
+715;Murilo Medeiros;As Cores do Vento - Volume 7;Ricardo Teixeira;18/08/2023;28/08/2023
+716;Eduarda Lopes;A Ilha Distante - Volume 57;Gabriel Vieira;22/04/2024;02/05/2024
+717;Vanessa Alves;O Misterio da Montanha - Volume 214;Fernando Ribeiro;03/03/2023;13/03/2023
+718;Patricia Gomes;A Ilha Distante - Volume 159;Gabriel Vieira;04/12/2024;14/12/2024
+719;Lucas Nascimento;O Vale dos Sonhos - Volume 141;Ana Carvalho;09/08/2024;19/08/2024
+720;Vanessa Marques;O Vale dos Sonhos - Volume 37;Ana Carvalho;18/08/2026;28/08/2026
+721;Ana Teixeira;As Aventuras de Clara - Volume 218;Helena Martins;17/10/2023;27/10/2023
+722;Marina Ramos;O Relogio Esquecido - Volume 176;Daniel Ferreira;21/05/2024;31/05/2024
+723;Natalia Oliveira;O Ultimo Farol - Volume 13;Rafael Oliveira;13/05/2024;23/05/2024
+724;Camila Moreira;A Ilha Distante - Volume 171;Gabriel Vieira;06/08/2026;16/08/2026
+725;Thiago Soares;A Luz da Manhã - Volume 50;Bruno Machado;29/09/2023;09/10/2023
+726;Beatriz Goncalves;O Mapa Perdido - Volume 220;Juliana Mendes;06/06/2024;16/06/2024
+727;Patricia Batista;As Aventuras de Clara - Volume 151;Helena Martins;13/08/2023;23/08/2023
+728;Rafael Barros;A Cidade das Estrelas - Volume 62;Luciana Castro;01/07/2026;11/07/2026
+729;Bruno Ramos;O Caminho das Aguas - Volume 188;Sofia Monteiro;08/10/2024;18/10/2024
+730;Pedro Vieira;As Cores do Vento - Volume 143;Ricardo Teixeira;05/09/2024;15/09/2024
+731;Isabela Lopes;O Caminho das Aguas - Volume 67;Sofia Monteiro;22/12/2023;01/01/2024
+732;Eduardo Nogueira;O Mapa Perdido - Volume 70;Juliana Mendes;15/01/2026;25/01/2026
+733;Samuel Nascimento;O Caminho das Aguas - Volume 155;Sofia Monteiro;28/09/2024;08/10/2024
+734;Larissa Carvalho;A Ilha Distante - Volume 218;Gabriel Vieira;09/11/2024;19/11/2024
+735;Natalia Marques;O Relogio Esquecido - Volume 131;Daniel Ferreira;26/08/2023;05/09/2023
+736;Raul Cardoso;O Mapa Perdido - Volume 31;Juliana Mendes;01/12/2022;11/12/2022
+737;Joaquim Cardoso;A Luz da Manhã - Volume 108;Bruno Machado;03/07/2025;13/07/2025
+738;Vitor Goncalves;As Cores do Vento - Volume 15;Ricardo Teixeira;03/01/2026;13/01/2026
+739;Sabrina Costa;A Cidade das Estrelas - Volume 155;Luciana Castro;14/02/2025;24/02/2025
+740;Mariana Cardoso;Cartas para o Amanhã - Volume 181;Beatriz Souza;28/04/2023;08/05/2023
+741;Otavio Mendes;O Mapa Perdido - Volume 160;Juliana Mendes;09/12/2022;19/12/2022
+742;Mateus Pereira;Noites de Inverno - Volume 161;Pedro Nogueira;16/12/2023;26/12/2023
+743;Patricia Moreira;Cartas para o Amanhã - Volume 138;Beatriz Souza;20/02/2025;02/03/2025
+744;Renata Marques;A Ilha Distante - Volume 22;Gabriel Vieira;13/01/2025;23/01/2025
+745;Fernando Castro;A Luz da Manhã - Volume 150;Bruno Machado;26/07/2023;05/08/2023
+746;Valentina Duarte;Noites de Inverno - Volume 157;Pedro Nogueira;22/04/2026;02/05/2026
+747;Felipe Rodrigues;As Aventuras de Clara - Volume 106;Helena Martins;04/02/2026;14/02/2026
+748;Luiz Carvalho;Viagem ao Norte - Volume 175;Eduardo Lima;02/04/2026;12/04/2026
+749;Gabriel Reis;O Relogio Esquecido - Volume 218;Daniel Ferreira;11/10/2025;21/10/2025
+750;Helena Souza;As Aventuras de Clara - Volume 165;Helena Martins;24/11/2023;04/12/2023
+751;Camila Duarte;O Diario de Helena - Volume 204;Laura Barbosa;29/06/2026;09/07/2026
+752;Patricia Soares;A Ponte de Pedra - Volume 230;Marcelo Torres;27/11/2023;07/12/2023
+753;Joao Nascimento;A Casa das Janelas Azuis - Volume 146;Marina Duarte;02/06/2024;12/06/2024
+754;Eduardo Monteiro;O Relogio Esquecido - Volume 62;Daniel Ferreira;26/10/2024;05/11/2024
+755;Murilo Moraes;A Ponte de Pedra - Volume 26;Marcelo Torres;22/09/2024;02/10/2024
+756;Victor Barros;O Ultimo Farol - Volume 37;Rafael Oliveira;26/07/2024;05/08/2024
+757;Rodrigo Freitas;A Floresta Silenciosa - Volume 22;Camila Santos;26/08/2024;05/09/2024
+758;Vitor Freitas;A Luz da Manhã - Volume 238;Bruno Machado;24/07/2026;03/08/2026
+759;Henrique Rocha;O Relogio Esquecido - Volume 11;Daniel Ferreira;28/10/2025;07/11/2025
+760;Isabela Vieira;A Luz da Manhã - Volume 203;Bruno Machado;12/09/2024;22/09/2024
+761;Mateus Fernandes;Cartas para o Amanhã - Volume 182;Beatriz Souza;18/01/2024;28/01/2024
+762;Marina Lopes;A Luz da Manhã - Volume 181;Bruno Machado;16/02/2026;26/02/2026
+763;Otavio Souza;Cartas para o Amanhã - Volume 65;Beatriz Souza;28/10/2022;07/11/2022
+764;Larissa Lopes;O Mapa Perdido - Volume 53;Juliana Mendes;11/11/2023;21/11/2023
+765;Raul Souza;A Luz da Manhã - Volume 222;Bruno Machado;16/03/2024;26/03/2024
+766;Lucas Vieira;O Caminho das Aguas - Volume 192;Sofia Monteiro;23/07/2025;02/08/2025
+767;Vitor Martins;As Cores do Vento - Volume 68;Ricardo Teixeira;02/12/2025;12/12/2025
+768;Enzo Barbosa;A Cidade das Estrelas - Volume 104;Luciana Castro;08/05/2023;18/05/2023
+769;Caio Machado;O Caminho das Aguas - Volume 43;Sofia Monteiro;14/02/2023;24/02/2023
+770;Murilo Teixeira;O Ultimo Farol - Volume 19;Rafael Oliveira;18/05/2025;28/05/2025
+771;Gabriela Barbosa;O Segredo do Jardim - Volume 146;Carlos Almeida;28/09/2024;08/10/2024
+772;Thiago Moraes;O Misterio da Montanha - Volume 52;Fernando Ribeiro;07/06/2025;17/06/2025
+773;Victor Rocha;A Floresta Silenciosa - Volume 105;Camila Santos;16/07/2026;26/07/2026
+774;Isabela Souza;O Relogio Esquecido - Volume 62;Daniel Ferreira;26/01/2026;05/02/2026
+775;Diego Goncalves;Noites de Inverno - Volume 38;Pedro Nogueira;25/02/2024;06/03/2024
+776;Joao Barros;O Misterio da Montanha - Volume 43;Fernando Ribeiro;21/04/2023;01/05/2023
+777;Vanessa Martins;O Vale dos Sonhos - Volume 32;Ana Carvalho;27/12/2024;06/01/2025
+778;Marina Rodrigues;Viagem ao Norte - Volume 2;Eduardo Lima;08/06/2025;18/06/2025
+779;Clara Monteiro;Noites de Inverno - Volume 22;Pedro Nogueira;06/06/2025;16/06/2025
+780;Bruno Reis;As Cores do Vento - Volume 90;Ricardo Teixeira;30/10/2022;09/11/2022
+781;Marina Cardoso;As Aventuras de Clara - Volume 220;Helena Martins;24/04/2024;04/05/2024
+782;Rodrigo Moreira;A Cidade das Estrelas - Volume 113;Luciana Castro;25/04/2024;05/05/2024
+783;Eduardo Carvalho;O Castelo na Colina - Volume 239;Clara Rodrigues;10/06/2024;20/06/2024
+784;Gustavo Souza;Cartas para o Amanhã - Volume 198;Beatriz Souza;09/02/2025;19/02/2025
+785;Luana Medeiros;O Caminho das Aguas - Volume 249;Sofia Monteiro;30/09/2024;10/10/2024
+786;Leonardo Marques;A Floresta Silenciosa - Volume 129;Camila Santos;09/05/2025;19/05/2025
+787;Gabriela Vieira;Cartas para o Amanhã - Volume 232;Beatriz Souza;10/01/2026;20/01/2026
+788;Patricia Nogueira;A Ilha Distante;Gabriel Vieira;28/10/2025;07/11/2025
+789;Arthur Freitas;A Floresta Silenciosa - Volume 73;Camila Santos;09/05/2025;19/05/2025
+790;Alice Santos;O Ultimo Farol - Volume 4;Rafael Oliveira;14/05/2025;24/05/2025
+791;Otavio Almeida;O Segredo do Jardim - Volume 244;Carlos Almeida;04/08/2026;14/08/2026
+792;Eduardo Castro;O Misterio da Montanha - Volume 182;Fernando Ribeiro;18/03/2023;28/03/2023
+793;Daniel Lopes;O Relogio Esquecido - Volume 12;Daniel Ferreira;19/12/2023;29/12/2023
+794;Elisa Mendes;As Cores do Vento - Volume 31;Ricardo Teixeira;25/04/2024;05/05/2024
+795;Murilo Fernandes;Viagem ao Norte - Volume 3;Eduardo Lima;10/03/2025;20/03/2025
+796;Helena Lopes;O Segredo do Jardim - Volume 159;Carlos Almeida;26/01/2026;05/02/2026
+797;Vanessa Martins;A Ponte de Pedra - Volume 45;Marcelo Torres;03/02/2026;13/02/2026
+798;Diego Lopes;As Cores do Vento - Volume 23;Ricardo Teixeira;29/11/2024;09/12/2024
+799;Raul Almeida;Viagem ao Norte - Volume 203;Eduardo Lima;30/10/2025;09/11/2025
+800;Enzo Goncalves;A Ponte de Pedra - Volume 218;Marcelo Torres;25/12/2023;04/01/2024
+801;Camila Gomes;As Cores do Vento - Volume 160;Ricardo Teixeira;16/10/2024;26/10/2024
+802;Rodrigo Teixeira;Noites de Inverno - Volume 33;Pedro Nogueira;18/02/2026;28/02/2026
+803;Camila Moreira;O Caminho das Aguas - Volume 33;Sofia Monteiro;06/11/2024;16/11/2024
+804;Nicolas Borges;As Cores do Vento - Volume 220;Ricardo Teixeira;29/07/2025;08/08/2025
+805;Raul Barros;O Misterio da Montanha - Volume 197;Fernando Ribeiro;04/12/2022;14/12/2022
+806;Luiz Torres;O Diario de Helena - Volume 62;Laura Barbosa;05/12/2025;15/12/2025
+807;Valentina Moraes;O Misterio da Montanha - Volume 99;Fernando Ribeiro;18/03/2025;28/03/2025
+808;Nicolas Teixeira;O Caminho das Aguas - Volume 81;Sofia Monteiro;15/10/2022;25/10/2022
+809;Cauã Barbosa;Noites de Inverno - Volume 66;Pedro Nogueira;31/07/2025;10/08/2025
+810;Igor Rodrigues;Viagem ao Norte - Volume 152;Eduardo Lima;05/02/2026;15/02/2026
+811;Miguel Teixeira;O Ultimo Farol - Volume 217;Rafael Oliveira;09/09/2025;19/09/2025
+812;Camila Gomes;O Misterio da Montanha - Volume 112;Fernando Ribeiro;08/11/2025;18/11/2025
+813;Rafael Rocha;As Cores do Vento - Volume 182;Ricardo Teixeira;11/02/2026;21/02/2026
+814;Samuel Duarte;A Ponte de Pedra - Volume 165;Marcelo Torres;26/02/2023;08/03/2023
+815;Larissa Duarte;A Casa das Janelas Azuis - Volume 214;Marina Duarte;02/02/2024;12/02/2024
+816;Rodrigo Santos;O Diario de Helena - Volume 155;Laura Barbosa;24/03/2023;03/04/2023
+817;Ricardo Cardoso;A Luz da Manhã - Volume 11;Bruno Machado;25/01/2023;04/02/2023
+818;Otavio Ramos;A Ilha Distante - Volume 106;Gabriel Vieira;21/01/2026;31/01/2026
+819;Laura Dias;Viagem ao Norte - Volume 123;Eduardo Lima;10/01/2024;20/01/2024
+820;Gustavo Souza;O Vale dos Sonhos - Volume 112;Ana Carvalho;18/03/2024;28/03/2024
+821;Rafaela Oliveira;O Ultimo Farol - Volume 138;Rafael Oliveira;28/04/2024;08/05/2024
+822;Otavio Borges;O Ultimo Farol - Volume 211;Rafael Oliveira;28/05/2025;07/06/2025
+823;Carlos Nogueira;As Aventuras de Clara - Volume 174;Helena Martins;10/06/2026;20/06/2026
+824;Raul Dias;A Ilha Distante - Volume 98;Gabriel Vieira;24/01/2023;03/02/2023
+825;Alice Costa;O Segredo do Jardim - Volume 249;Carlos Almeida;20/01/2025;30/01/2025
+826;Carolina Barros;A Floresta Silenciosa - Volume 211;Camila Santos;02/07/2026;12/07/2026
+827;Miguel Freitas;A Ponte de Pedra - Volume 140;Marcelo Torres;27/06/2024;07/07/2024
+828;Ricardo Medeiros;O Segredo do Jardim - Volume 70;Carlos Almeida;13/07/2023;23/07/2023
+829;Leticia Castro;A Ponte de Pedra - Volume 13;Marcelo Torres;01/03/2025;11/03/2025
+830;Luiz Rodrigues;As Aventuras de Clara - Volume 224;Helena Martins;02/12/2025;12/12/2025
+831;Daniela Freitas;Noites de Inverno - Volume 217;Pedro Nogueira;29/11/2022;09/12/2022
+832;Gustavo Barros;As Aventuras de Clara - Volume 168;Helena Martins;25/08/2024;04/09/2024
+833;Arthur Marques;A Casa das Janelas Azuis - Volume 20;Marina Duarte;13/12/2023;23/12/2023
+834;Ana Ferreira;A Casa das Janelas Azuis - Volume 125;Marina Duarte;26/08/2024;05/09/2024
+835;Miguel Xavier;O Castelo na Colina - Volume 54;Clara Rodrigues;10/05/2026;20/05/2026
+836;Caio Medeiros;O Mapa Perdido - Volume 169;Juliana Mendes;17/08/2023;27/08/2023
+837;Joao Lopes;O Vale dos Sonhos - Volume 141;Ana Carvalho;20/11/2024;30/11/2024
+838;Vitor Borges;A Casa das Janelas Azuis - Volume 237;Marina Duarte;25/02/2026;07/03/2026
+839;Laura Gomes;O Castelo na Colina - Volume 197;Clara Rodrigues;12/01/2026;22/01/2026
+840;Mariana Duarte;A Floresta Silenciosa - Volume 103;Camila Santos;31/08/2024;10/09/2024
+841;Leonardo Moreira;O Ultimo Farol - Volume 188;Rafael Oliveira;06/03/2024;16/03/2024
+842;Nicolas Barros;As Aventuras de Clara - Volume 40;Helena Martins;03/08/2025;13/08/2025
+843;Marcos Souza;A Ilha Distante - Volume 210;Gabriel Vieira;15/12/2022;25/12/2022
+844;Lucas Reis;As Aventuras de Clara - Volume 64;Helena Martins;15/03/2023;25/03/2023
+845;Beatriz Freitas;A Ponte de Pedra - Volume 90;Marcelo Torres;15/01/2025;25/01/2025
+846;Juliana Goncalves;O Vale dos Sonhos - Volume 42;Ana Carvalho;10/09/2023;20/09/2023
+847;Eduardo Monteiro;O Relogio Esquecido - Volume 166;Daniel Ferreira;22/01/2025;01/02/2025
+848;Valentina Cardoso;A Luz da Manhã - Volume 84;Bruno Machado;15/08/2023;25/08/2023
+849;Otavio Vieira;O Misterio da Montanha - Volume 136;Fernando Ribeiro;19/05/2024;29/05/2024
+850;Sofia Medeiros;Viagem ao Norte - Volume 220;Eduardo Lima;08/10/2024;18/10/2024
+851;Marcos Almeida;O Diario de Helena - Volume 128;Laura Barbosa;03/09/2023;13/09/2023
+852;Carlos Marques;O Ultimo Farol - Volume 32;Rafael Oliveira;05/04/2026;15/04/2026
+853;Juliana Ferreira;A Casa das Janelas Azuis - Volume 68;Marina Duarte;30/04/2023;10/05/2023
+854;Sabrina Costa;O Segredo do Jardim - Volume 65;Carlos Almeida;04/02/2023;14/02/2023
+855;Miguel Rodrigues;A Floresta Silenciosa - Volume 221;Camila Santos;13/01/2023;23/01/2023
+856;Isabela Castro;A Floresta Silenciosa - Volume 215;Camila Santos;21/04/2025;01/05/2025
+857;Igor Rodrigues;A Ilha Distante - Volume 192;Gabriel Vieira;22/10/2025;01/11/2025
+858;Laura Barbosa;O Vale dos Sonhos - Volume 131;Ana Carvalho;19/01/2026;29/01/2026
+859;Rafael Vieira;A Ilha Distante - Volume 248;Gabriel Vieira;27/06/2025;07/07/2025
+860;Camila Moraes;O Castelo na Colina - Volume 100;Clara Rodrigues;27/01/2026;06/02/2026
+861;Laura Alves;A Ponte de Pedra - Volume 2;Marcelo Torres;13/09/2023;23/09/2023
+862;Sabrina Santos;Viagem ao Norte - Volume 28;Eduardo Lima;04/04/2025;14/04/2025
+863;Gustavo Machado;As Cores do Vento - Volume 242;Ricardo Teixeira;03/11/2023;13/11/2023
+864;Lucas Almeida;A Casa das Janelas Azuis - Volume 246;Marina Duarte;06/03/2024;16/03/2024
+865;Amanda Teixeira;Viagem ao Norte - Volume 71;Eduardo Lima;03/07/2025;13/07/2025
+866;Victor Silva;Cartas para o Amanhã - Volume 248;Beatriz Souza;23/03/2026;02/04/2026
+867;Vinicius Alves;A Floresta Silenciosa - Volume 53;Camila Santos;20/03/2025;30/03/2025
+868;Cauã Monteiro;Viagem ao Norte - Volume 224;Eduardo Lima;20/12/2024;30/12/2024
+869;Henrique Gomes;O Vale dos Sonhos - Volume 206;Ana Carvalho;07/11/2023;17/11/2023
+870;Helena Lopes;Viagem ao Norte - Volume 197;Eduardo Lima;08/01/2026;18/01/2026
+871;Mateus Marques;O Misterio da Montanha - Volume 244;Fernando Ribeiro;26/01/2026;05/02/2026
+872;Cauã Torres;A Floresta Silenciosa - Volume 75;Camila Santos;04/01/2024;14/01/2024
+873;Daniela Xavier;As Cores do Vento - Volume 229;Ricardo Teixeira;10/02/2024;20/02/2024
+874;Joaquim Cardoso;A Luz da Manhã - Volume 32;Bruno Machado;29/05/2023;08/06/2023
+875;Nicolas Dias;Cartas para o Amanhã - Volume 68;Beatriz Souza;10/02/2025;20/02/2025
+876;Gustavo Nascimento;O Mapa Perdido - Volume 99;Juliana Mendes;31/07/2025;10/08/2025
+877;Bruna Reis;A Casa das Janelas Azuis - Volume 41;Marina Duarte;18/09/2024;28/09/2024
+878;Larissa Carvalho;O Diario de Helena - Volume 99;Laura Barbosa;28/08/2026;07/09/2026
+879;Vinicius Machado;A Luz da Manhã - Volume 170;Bruno Machado;26/03/2026;05/04/2026
+880;Mateus Mendes;As Aventuras de Clara - Volume 206;Helena Martins;21/07/2024;31/07/2024
+881;Bruna Fernandes;Noites de Inverno - Volume 97;Pedro Nogueira;08/08/2023;18/08/2023
+882;Mariana Batista;O Vale dos Sonhos - Volume 192;Ana Carvalho;11/07/2026;21/07/2026
+883;Luiz Machado;O Segredo do Jardim - Volume 158;Carlos Almeida;23/06/2024;03/07/2024
+884;Arthur Medeiros;Cartas para o Amanhã - Volume 33;Beatriz Souza;22/12/2023;01/01/2024
+885;Marina Moraes;A Luz da Manhã - Volume 27;Bruno Machado;29/12/2022;08/01/2023
+886;Diego Duarte;O Ultimo Farol - Volume 222;Rafael Oliveira;25/10/2023;04/11/2023
+887;Patricia Barbosa;A Ilha Distante - Volume 12;Gabriel Vieira;09/10/2025;19/10/2025
+888;Isabela Almeida;Cartas para o Amanhã - Volume 181;Beatriz Souza;04/12/2023;14/12/2023
+889;Gustavo Machado;O Vale dos Sonhos - Volume 16;Ana Carvalho;26/05/2024;05/06/2024
+890;Sofia Moraes;Viagem ao Norte - Volume 246;Eduardo Lima;18/12/2024;28/12/2024
+891;Eduardo Goncalves;O Vale dos Sonhos - Volume 13;Ana Carvalho;01/07/2023;11/07/2023
+892;Eduarda Moreira;As Cores do Vento - Volume 132;Ricardo Teixeira;06/08/2024;16/08/2024
+893;Camila Alves;As Aventuras de Clara - Volume 142;Helena Martins;25/06/2025;05/07/2025
+894;Gustavo Soares;O Caminho das Aguas - Volume 213;Sofia Monteiro;12/04/2026;22/04/2026
+895;Daniela Barros;As Aventuras de Clara - Volume 43;Helena Martins;08/02/2026;18/02/2026
+896;Fernando Lima;As Cores do Vento - Volume 177;Ricardo Teixeira;05/03/2025;15/03/2025
+897;Camila Ramos;O Relogio Esquecido - Volume 183;Daniel Ferreira;16/01/2025;26/01/2025
+898;Felipe Lopes;O Misterio da Montanha - Volume 204;Fernando Ribeiro;07/09/2026;17/09/2026
+899;Miguel Rocha;O Diario de Helena - Volume 116;Laura Barbosa;19/06/2026;29/06/2026
+900;Ana Marques;O Caminho das Aguas - Volume 179;Sofia Monteiro;02/12/2022;12/12/2022
+901;Alice Souza;A Ponte de Pedra - Volume 23;Marcelo Torres;23/02/2025;05/03/2025
+902;Renata Oliveira;O Castelo na Colina - Volume 45;Clara Rodrigues;13/03/2024;23/03/2024
+903;Fernando Santos;O Caminho das Aguas - Volume 235;Sofia Monteiro;01/09/2023;11/09/2023
+904;Isabela Souza;Viagem ao Norte - Volume 225;Eduardo Lima;18/03/2024;28/03/2024
+905;Amanda Medeiros;Noites de Inverno - Volume 60;Pedro Nogueira;12/07/2024;22/07/2024
+906;Joaquim Oliveira;A Casa das Janelas Azuis - Volume 151;Marina Duarte;08/06/2025;18/06/2025
+907;Rafael Torres;A Ponte de Pedra - Volume 22;Marcelo Torres;04/01/2023;14/01/2023
+908;Joaquim Barros;O Caminho das Aguas - Volume 38;Sofia Monteiro;17/05/2025;27/05/2025
+909;Bruna Silva;A Casa das Janelas Azuis - Volume 30;Marina Duarte;20/11/2022;30/11/2022
+910;Lucas Teixeira;A Luz da Manhã - Volume 13;Bruno Machado;06/12/2022;16/12/2022
+911;Bernardo Barbosa;O Caminho das Aguas - Volume 108;Sofia Monteiro;19/12/2022;29/12/2022
+912;Daniel Freitas;A Casa das Janelas Azuis - Volume 58;Marina Duarte;10/03/2023;20/03/2023
+913;Helena Medeiros;A Casa das Janelas Azuis - Volume 156;Marina Duarte;27/06/2023;07/07/2023
+914;Alice Ramos;O Caminho das Aguas - Volume 224;Sofia Monteiro;11/11/2022;21/11/2022
+915;Mariana Medeiros;Noites de Inverno - Volume 17;Pedro Nogueira;08/04/2023;18/04/2023
+916;Rodrigo Moreira;A Floresta Silenciosa - Volume 4;Camila Santos;09/09/2023;19/09/2023
+917;Vanessa Castro;O Relogio Esquecido - Volume 43;Daniel Ferreira;12/04/2025;22/04/2025
+918;Miguel Nascimento;O Mapa Perdido - Volume 32;Juliana Mendes;11/05/2025;21/05/2025
+919;Diego Nascimento;O Misterio da Montanha - Volume 142;Fernando Ribeiro;18/09/2026;28/09/2026
+920;Vitor Lopes;O Castelo na Colina - Volume 139;Clara Rodrigues;19/02/2024;29/02/2024
+921;Sabrina Cardoso;A Ponte de Pedra - Volume 37;Marcelo Torres;14/10/2024;24/10/2024
+922;Nicolas Nascimento;O Caminho das Aguas - Volume 210;Sofia Monteiro;02/06/2025;12/06/2025
+923;Thiago Barbosa;O Diario de Helena - Volume 70;Laura Barbosa;15/10/2023;25/10/2023
+924;Natalia Almeida;Cartas para o Amanhã - Volume 113;Beatriz Souza;10/03/2026;20/03/2026
+925;Marcelo Rocha;O Castelo na Colina - Volume 67;Clara Rodrigues;29/03/2025;08/04/2025
+926;Felipe Martins;A Ilha Distante - Volume 17;Gabriel Vieira;26/01/2026;05/02/2026
+927;Marcos Lima;O Misterio da Montanha - Volume 100;Fernando Ribeiro;02/05/2024;12/05/2024
+928;Carlos Monteiro;A Casa das Janelas Azuis - Volume 86;Marina Duarte;14/12/2025;24/12/2025
+929;Vitor Cardoso;Viagem ao Norte - Volume 178;Eduardo Lima;18/01/2026;28/01/2026
+930;Bruno Ramos;O Castelo na Colina - Volume 143;Clara Rodrigues;10/09/2024;20/09/2024
+931;Natalia Lima;O Misterio da Montanha - Volume 154;Fernando Ribeiro;26/06/2024;06/07/2024
+932;Leonardo Torres;O Relogio Esquecido - Volume 22;Daniel Ferreira;13/11/2022;23/11/2022
+933;Otavio Machado;O Misterio da Montanha - Volume 42;Fernando Ribeiro;25/08/2023;04/09/2023
+934;Caio Carvalho;A Ponte de Pedra - Volume 121;Marcelo Torres;23/12/2022;02/01/2023
+935;Bruno Ribeiro;O Diario de Helena - Volume 125;Laura Barbosa;15/03/2025;25/03/2025
+936;Enzo Souza;A Casa das Janelas Azuis - Volume 230;Marina Duarte;10/02/2024;20/02/2024
+937;Cauã Ribeiro;Viagem ao Norte - Volume 67;Eduardo Lima;17/11/2022;27/11/2022
+938;Felipe Ferreira;A Casa das Janelas Azuis - Volume 11;Marina Duarte;28/05/2024;07/06/2024
+939;Isabela Mendes;O Vale dos Sonhos - Volume 24;Ana Carvalho;21/08/2026;31/08/2026
+940;Vitor Teixeira;O Relogio Esquecido - Volume 119;Daniel Ferreira;06/06/2023;16/06/2023
+941;Clara Gomes;O Caminho das Aguas - Volume 100;Sofia Monteiro;11/05/2025;21/05/2025
+942;Gabriela Cardoso;O Misterio da Montanha;Fernando Ribeiro;15/05/2023;25/05/2023
+943;Raul Silva;O Castelo na Colina - Volume 132;Clara Rodrigues;20/03/2025;30/03/2025
+944;Natalia Goncalves;A Casa das Janelas Azuis - Volume 175;Marina Duarte;11/11/2024;21/11/2024
+945;Joao Almeida;A Luz da Manhã - Volume 78;Bruno Machado;13/10/2025;23/10/2025
+946;Marcos Duarte;Cartas para o Amanhã - Volume 200;Beatriz Souza;14/07/2023;24/07/2023
+947;Daniel Ramos;O Castelo na Colina - Volume 109;Clara Rodrigues;21/04/2026;01/05/2026
+948;Amanda Lopes;O Diario de Helena - Volume 29;Laura Barbosa;07/09/2026;17/09/2026
+949;Gustavo Batista;O Mapa Perdido - Volume 155;Juliana Mendes;25/10/2022;04/11/2022
+950;Marcelo Marques;O Segredo do Jardim - Volume 113;Carlos Almeida;09/09/2023;19/09/2023
+951;Lucas Almeida;A Ilha Distante - Volume 216;Gabriel Vieira;09/11/2024;19/11/2024
+952;Daniela Torres;As Cores do Vento - Volume 38;Ricardo Teixeira;16/03/2025;26/03/2025
+953;Carolina Goncalves;Noites de Inverno - Volume 228;Pedro Nogueira;30/04/2025;10/05/2025
+954;Marcos Marques;O Segredo do Jardim - Volume 201;Carlos Almeida;14/08/2024;24/08/2024
+955;Luana Barbosa;O Castelo na Colina - Volume 102;Clara Rodrigues;05/02/2025;15/02/2025
+956;Caio Carvalho;A Ilha Distante - Volume 222;Gabriel Vieira;25/02/2026;07/03/2026
+957;Luana Reis;Noites de Inverno - Volume 67;Pedro Nogueira;18/11/2023;28/11/2023
+958;Rodrigo Martins;As Aventuras de Clara - Volume 117;Helena Martins;14/02/2023;24/02/2023
+959;Cauã Mendes;O Caminho das Aguas - Volume 54;Sofia Monteiro;02/11/2023;12/11/2023
+960;Cauã Freitas;O Segredo do Jardim - Volume 167;Carlos Almeida;16/04/2026;26/04/2026
+961;Helena Xavier;Cartas para o Amanhã - Volume 100;Beatriz Souza;24/07/2023;03/08/2023
+962;Isabela Reis;As Cores do Vento - Volume 149;Ricardo Teixeira;23/01/2025;02/02/2025
+963;Amanda Souza;O Segredo do Jardim - Volume 214;Carlos Almeida;30/01/2024;09/02/2024
+964;Samuel Freitas;A Floresta Silenciosa - Volume 47;Camila Santos;02/08/2023;12/08/2023
+965;Elisa Teixeira;A Luz da Manhã - Volume 98;Bruno Machado;03/02/2024;13/02/2024
+966;Ana Santos;O Diario de Helena - Volume 90;Laura Barbosa;04/11/2023;14/11/2023
+967;Carlos Medeiros;O Caminho das Aguas - Volume 110;Sofia Monteiro;08/03/2025;18/03/2025
+968;Renata Gomes;Viagem ao Norte - Volume 231;Eduardo Lima;13/11/2024;23/11/2024
+969;Natalia Barros;Cartas para o Amanhã - Volume 18;Beatriz Souza;29/11/2022;09/12/2022
+970;Larissa Marques;Noites de Inverno - Volume 100;Pedro Nogueira;21/09/2024;01/10/2024
+971;Beatriz Carvalho;O Castelo na Colina - Volume 102;Clara Rodrigues;14/06/2024;24/06/2024
+972;Marina Torres;A Ilha Distante - Volume 171;Gabriel Vieira;19/11/2023;29/11/2023
+973;Victor Lima;A Floresta Silenciosa - Volume 26;Camila Santos;18/07/2025;28/07/2025
+974;Vinicius Medeiros;A Ponte de Pedra - Volume 6;Marcelo Torres;02/03/2024;12/03/2024
+975;Eduardo Castro;O Relogio Esquecido - Volume 131;Daniel Ferreira;18/06/2023;28/06/2023
+976;Fernando Rocha;Cartas para o Amanhã - Volume 42;Beatriz Souza;30/07/2024;09/08/2024
+977;Pedro Carvalho;Noites de Inverno - Volume 27;Pedro Nogueira;04/08/2024;14/08/2024
+978;Vitor Moreira;A Ponte de Pedra - Volume 242;Marcelo Torres;18/12/2023;28/12/2023
+979;Rafaela Rodrigues;Viagem ao Norte - Volume 49;Eduardo Lima;01/11/2024;11/11/2024
+980;Sofia Ribeiro;O Diario de Helena - Volume 211;Laura Barbosa;27/05/2026;06/06/2026
+981;Mateus Freitas;Cartas para o Amanhã - Volume 164;Beatriz Souza;26/10/2025;05/11/2025
+982;Gabriel Cardoso;A Cidade das Estrelas - Volume 130;Luciana Castro;12/07/2025;22/07/2025
+983;Rodrigo Torres;O Segredo do Jardim - Volume 103;Carlos Almeida;13/08/2023;23/08/2023
+984;Enzo Fernandes;O Mapa Perdido - Volume 125;Juliana Mendes;06/04/2026;16/04/2026
+985;Cauã Almeida;A Floresta Silenciosa - Volume 139;Camila Santos;02/10/2022;12/10/2022
+986;Patricia Rodrigues;Cartas para o Amanhã - Volume 135;Beatriz Souza;09/11/2025;19/11/2025
+987;Mateus Castro;O Segredo do Jardim - Volume 45;Carlos Almeida;13/07/2026;23/07/2026
+988;Murilo Santos;O Mapa Perdido - Volume 213;Juliana Mendes;10/02/2024;20/02/2024
+989;Daniel Carvalho;O Relogio Esquecido - Volume 73;Daniel Ferreira;08/05/2026;18/05/2026
+990;Carlos Santos;Noites de Inverno - Volume 18;Pedro Nogueira;18/04/2023;28/04/2023
+991;Camila Cardoso;Noites de Inverno - Volume 119;Pedro Nogueira;10/03/2023;20/03/2023
+992;Carolina Costa;O Mapa Perdido - Volume 95;Juliana Mendes;01/01/2026;11/01/2026
+993;Daniela Medeiros;O Mapa Perdido - Volume 202;Juliana Mendes;20/07/2023;30/07/2023
+994;Fernando Rocha;Noites de Inverno - Volume 106;Pedro Nogueira;21/03/2025;31/03/2025
+995;Leonardo Ramos;O Vale dos Sonhos - Volume 136;Ana Carvalho;01/11/2023;11/11/2023
+996;Victor Soares;Viagem ao Norte - Volume 172;Eduardo Lima;07/09/2023;17/09/2023
+997;Fernanda Nascimento;Viagem ao Norte - Volume 214;Eduardo Lima;19/04/2026;29/04/2026
+998;Mariana Almeida;A Ponte de Pedra - Volume 37;Marcelo Torres;13/01/2025;23/01/2025
+999;Laura Rocha;O Mapa Perdido - Volume 28;Juliana Mendes;05/04/2026;15/04/2026
+1000;Eduarda Xavier;O Mapa Perdido - Volume 207;Juliana Mendes;28/05/2023;07/06/2023
