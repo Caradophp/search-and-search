@@ -1,13 +1,13 @@
 import java.io.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Util {
 
     public static List<Emprestimo> carregarEmprestimos(String nomeArrquivo) {
-        List<Emprestimo> emprestimos = new LinkedList<>();
+        List<Emprestimo> emprestimos = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(nomeArrquivo))) {
             String line;
             while ((line = reader.readLine()) != null) {
@@ -30,7 +30,7 @@ public class Util {
     }
 
     public static List<String> carregaNomesPesquisa() {
-        List<String> nomes = new LinkedList<>();
+        List<String> nomes = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader("arquivosOriginais/nomes.txt"))) {
             String line;
             while ((line = reader.readLine()) != null) {
@@ -95,7 +95,7 @@ public class Util {
                     }
                     bw.write("TOTAL: " + emprestimos.size() + " empréstimos");
                 } else {
-                    bw.write("Nenhum empréstimo encontrado.");
+                    bw.write("NÃO POSSUI EMPRÉSTIMOS.");
                 }
 
                 bw.newLine();
@@ -132,7 +132,7 @@ public class Util {
                     }
                     bw.write("TOTAL: " + emprestimos.size() + " empréstimos");
                 } else {
-                    bw.write("Nenhum empréstimo encontrado.");
+                    bw.write("NÃO POSSUI EMPRÉSTIMOS.");
                 }
 
                 bw.newLine();
@@ -151,7 +151,7 @@ public class Util {
 
                 writer.println("NOME: " + nome);
                 if (emprestimos == null || emprestimos.isEmpty()) {
-                    writer.println("Nenhum empréstimo encontrado.");
+                    writer.println("NÃO POSSUI EMPRÉSTIMOS.");
                 } else {
                     for (Emprestimo emprestimo : emprestimos) {
                         writer.println(

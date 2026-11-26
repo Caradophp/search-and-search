@@ -1,5 +1,5 @@
 NOME: Melissa Lins
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Patricia Silva
 Empréstimo: 38052 - Livro: A Floresta Silenciosa - Volume 239 - Autor: Camila Santos
@@ -158,7 +158,7 @@ Data do empréstimo: 2023-04-09 - Data de devolução: 2023-04-19
 TOTAL: 22 empréstimos
 
 NOME: Clarice Bittencourt
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Nicolas Souza
 Empréstimo: 36682 - Livro: A Casa das Janelas Azuis - Volume 109 - Autor: Marina Duarte
@@ -249,7 +249,7 @@ Data do empréstimo: 2024-07-26 - Data de devolução: 2024-08-05
 TOTAL: 23 empréstimos
 
 NOME: Isadora Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Murilo Moraes
 Empréstimo: 34911 - Livro: A Floresta Silenciosa - Volume 216 - Autor: Camila Santos
@@ -279,7 +279,7 @@ Data do empréstimo: 2026-01-27 - Data de devolução: 2026-02-06
 TOTAL: 12 empréstimos
 
 NOME: Augusto Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Felipe Martins
 Empréstimo: 15870 - Livro: A Cidade das Estrelas - Volume 225 - Autor: Luciana Castro
@@ -574,7 +574,7 @@ Data do empréstimo: 2025-03-07 - Data de devolução: 2025-03-17
 TOTAL: 10 empréstimos
 
 NOME: Isabela Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valentina Martins
 Empréstimo: 46774 - Livro: A Casa das Janelas Azuis - Volume 32 - Autor: Marina Duarte
@@ -645,7 +645,7 @@ Data do empréstimo: 2022-12-28 - Data de devolução: 2023-01-07
 TOTAL: 16 empréstimos
 
 NOME: Brenda Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leonardo Borges
 Empréstimo: 26519 - Livro: A Casa das Janelas Azuis - Volume 101 - Autor: Marina Duarte
@@ -705,13 +705,13 @@ Data do empréstimo: 2024-01-06 - Data de devolução: 2024-01-16
 TOTAL: 27 empréstimos
 
 NOME: Luana Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafaela Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Afonso Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Otavio Pereira
 Empréstimo: 37257 - Livro: A Cidade das Estrelas - Volume 68 - Autor: Luciana Castro
@@ -912,10 +912,10 @@ Data do empréstimo: 2024-11-05 - Data de devolução: 2024-11-15
 TOTAL: 17 empréstimos
 
 NOME: Rodrigo Ferraz
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Débora Coutinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduardo Nascimento
 Empréstimo: 13775 - Livro: A Casa das Janelas Azuis - Volume 51 - Autor: Marina Duarte
@@ -986,7 +986,7 @@ Data do empréstimo: 2023-01-17 - Data de devolução: 2023-01-27
 TOTAL: 16 empréstimos
 
 NOME: Rodrigo Andrade
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Carolina Nascimento
 Empréstimo: 8549 - Livro: A Casa das Janelas Azuis - Volume 106 - Autor: Marina Duarte
@@ -1026,7 +1026,7 @@ Data do empréstimo: 2025-07-31 - Data de devolução: 2025-08-10
 TOTAL: 17 empréstimos
 
 NOME: Simone Coelho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luana Oliveira
 Empréstimo: 28380 - Livro: A Casa das Janelas Azuis - Volume 51 - Autor: Marina Duarte
@@ -1241,10 +1241,10 @@ Data do empréstimo: 2023-01-10 - Data de devolução: 2023-01-20
 TOTAL: 19 empréstimos
 
 NOME: Samuel Bittencourt
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Jonathan Seabra
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Joaquim Santos
 Empréstimo: 24137 - Livro: A Floresta Silenciosa - Volume 100 - Autor: Camila Santos
@@ -1327,7 +1327,7 @@ Data do empréstimo: 2024-06-06 - Data de devolução: 2024-06-16
 TOTAL: 20 empréstimos
 
 NOME: Giovana Nunes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Thiago Gomes
 Empréstimo: 45946 - Livro: A Cidade das Estrelas - Volume 219 - Autor: Luciana Castro
@@ -1453,19 +1453,19 @@ Data do empréstimo: 2024-09-11 - Data de devolução: 2024-09-21
 TOTAL: 16 empréstimos
 
 NOME: Gabriela Azevedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Daiane Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Isadora Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leandro Gama
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Nicolas Almeida
 Empréstimo: 36011 - Livro: A Floresta Silenciosa - Volume 133 - Autor: Camila Santos
@@ -1509,7 +1509,7 @@ Data do empréstimo: 2024-11-13 - Data de devolução: 2024-11-23
 TOTAL: 19 empréstimos
 
 NOME: Daiane Seabra
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vanessa Teixeira
 Empréstimo: 47787 - Livro: A Cidade das Estrelas - Volume 134 - Autor: Luciana Castro
@@ -1574,7 +1574,7 @@ Data do empréstimo: 2022-10-28 - Data de devolução: 2022-11-07
 TOTAL: 13 empréstimos
 
 NOME: Caio Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernando Pereira
 Empréstimo: 17522 - Livro: A Casa das Janelas Azuis - Volume 216 - Autor: Marina Duarte
@@ -1900,16 +1900,16 @@ Data do empréstimo: 2026-01-06 - Data de devolução: 2026-01-16
 TOTAL: 13 empréstimos
 
 NOME: José Gama
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Francisco Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Natália Cunha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Henrique Gouveia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bruno Ferreira
 Empréstimo: 5388 - Livro: A Casa das Janelas Azuis - Volume 39 - Autor: Marina Duarte
@@ -2081,10 +2081,10 @@ Data do empréstimo: 2025-07-26 - Data de devolução: 2025-08-05
 TOTAL: 19 empréstimos
 
 NOME: Maurício Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vinícius Cavalcante
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Barbosa
 Empréstimo: 24304 - Livro: A Floresta Silenciosa - Volume 243 - Autor: Camila Santos
@@ -2204,7 +2204,7 @@ Data do empréstimo: 2023-08-13 - Data de devolução: 2023-08-23
 TOTAL: 14 empréstimos
 
 NOME: Henrique Magalhães
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Vieira
 Empréstimo: 41240 - Livro: A Casa das Janelas Azuis - Volume 27 - Autor: Marina Duarte
@@ -2259,7 +2259,7 @@ Data do empréstimo: 2024-08-09 - Data de devolução: 2024-08-19
 TOTAL: 14 empréstimos
 
 NOME: Rodrigo Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Victor Castro
 Empréstimo: 47976 - Livro: A Casa das Janelas Azuis - Volume 218 - Autor: Marina Duarte
@@ -2301,7 +2301,7 @@ Data do empréstimo: 2025-10-28 - Data de devolução: 2025-11-07
 TOTAL: 18 empréstimos
 
 NOME: Matheus Nascimento
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Elisa Soares
 Empréstimo: 14661 - Livro: A Cidade das Estrelas - Volume 87 - Autor: Luciana Castro
@@ -2386,10 +2386,10 @@ Data do empréstimo: 2025-08-02 - Data de devolução: 2025-08-12
 TOTAL: 19 empréstimos
 
 NOME: Thales Vasconcelos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valéria Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Borges
 Empréstimo: 25085 - Livro: A Cidade das Estrelas - Volume 142 - Autor: Luciana Castro
@@ -2579,7 +2579,7 @@ Data do empréstimo: 2024-06-15 - Data de devolução: 2024-06-25
 TOTAL: 13 empréstimos
 
 NOME: Raul Coutinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Souza
 Empréstimo: 25641 - Livro: A Cidade das Estrelas - Volume 60 - Autor: Luciana Castro
@@ -2623,7 +2623,7 @@ Data do empréstimo: 2025-09-15 - Data de devolução: 2025-09-25
 TOTAL: 19 empréstimos
 
 NOME: Margarida Franco
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Sabrina Moraes
 Empréstimo: 43919 - Livro: A Cidade das Estrelas - Volume 185 - Autor: Luciana Castro
@@ -2716,7 +2716,7 @@ Data do empréstimo: 2025-02-23 - Data de devolução: 2025-03-05
 TOTAL: 13 empréstimos
 
 NOME: Patrícia Beltrão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Lucas Moreira
 Empréstimo: 29120 - Livro: A Cidade das Estrelas - Autor: Luciana Castro
@@ -2906,7 +2906,7 @@ Data do empréstimo: 2024-09-06 - Data de devolução: 2024-09-16
 TOTAL: 20 empréstimos
 
 NOME: Afonso Garcia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Marques
 Empréstimo: 27518 - Livro: A Cidade das Estrelas - Volume 79 - Autor: Luciana Castro
@@ -2979,7 +2979,7 @@ Data do empréstimo: 2024-03-20 - Data de devolução: 2024-03-30
 TOTAL: 15 empréstimos
 
 NOME: Isabela Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Monteiro
 Empréstimo: 40913 - Livro: A Casa das Janelas Azuis - Volume 159 - Autor: Marina Duarte
@@ -3255,7 +3255,7 @@ Data do empréstimo: 2025-12-09 - Data de devolução: 2025-12-19
 TOTAL: 17 empréstimos
 
 NOME: Valéria Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Amanda Teixeira
 Empréstimo: 1452 - Livro: A Cidade das Estrelas - Volume 2 - Autor: Luciana Castro
@@ -3340,7 +3340,7 @@ Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
 TOTAL: 19 empréstimos
 
 NOME: Sérgio Pacheco
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gabriela Rodrigues
 Empréstimo: 18977 - Livro: A Casa das Janelas Azuis - Volume 57 - Autor: Marina Duarte
@@ -3517,7 +3517,7 @@ Data do empréstimo: 2025-03-14 - Data de devolução: 2025-03-24
 TOTAL: 23 empréstimos
 
 NOME: Manuela Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Freitas
 Empréstimo: 42938 - Livro: A Casa das Janelas Azuis - Volume 47 - Autor: Marina Duarte
@@ -3559,10 +3559,10 @@ Data do empréstimo: 2022-10-15 - Data de devolução: 2022-10-25
 TOTAL: 18 empréstimos
 
 NOME: Valentina Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Sílvia Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Xavier
 Empréstimo: 24986 - Livro: A Casa das Janelas Azuis - Volume 34 - Autor: Marina Duarte
@@ -3796,7 +3796,7 @@ Data do empréstimo: 2024-12-05 - Data de devolução: 2024-12-15
 TOTAL: 13 empréstimos
 
 NOME: Lorena Abreu
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Joaquim Monteiro
 Empréstimo: 23936 - Livro: A Casa das Janelas Azuis - Volume 22 - Autor: Marina Duarte
@@ -4305,7 +4305,7 @@ Data do empréstimo: 2026-01-18 - Data de devolução: 2026-01-28
 TOTAL: 13 empréstimos
 
 NOME: Francisco Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Ana Fernandes
 Empréstimo: 1741 - Livro: A Cidade das Estrelas - Volume 126 - Autor: Luciana Castro
@@ -4339,10 +4339,10 @@ Data do empréstimo: 2023-10-05 - Data de devolução: 2023-10-15
 TOTAL: 14 empréstimos
 
 NOME: Emanuel Nunes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Heitor Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Batista
 Empréstimo: 2374 - Livro: A Casa das Janelas Azuis - Volume 163 - Autor: Marina Duarte
@@ -4559,7 +4559,7 @@ Data do empréstimo: 2025-03-23 - Data de devolução: 2025-04-02
 TOTAL: 21 empréstimos
 
 NOME: Valéria Cunha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernando Gomes
 Empréstimo: 17279 - Livro: A Cidade das Estrelas - Volume 111 - Autor: Luciana Castro
@@ -4716,7 +4716,7 @@ Data do empréstimo: 2022-11-30 - Data de devolução: 2022-12-10
 TOTAL: 20 empréstimos
 
 NOME: Gabriela Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mariana Vieira
 Empréstimo: 32371 - Livro: A Casa das Janelas Azuis - Volume 170 - Autor: Marina Duarte
@@ -4746,7 +4746,7 @@ Data do empréstimo: 2023-09-15 - Data de devolução: 2023-09-25
 TOTAL: 12 empréstimos
 
 NOME: Thales Abreu
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Elisa Goncalves
 Empréstimo: 14315 - Livro: A Cidade das Estrelas - Volume 189 - Autor: Luciana Castro
@@ -4879,7 +4879,7 @@ Data do empréstimo: 2025-09-10 - Data de devolução: 2025-09-20
 TOTAL: 23 empréstimos
 
 NOME: Daiane Azevedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luiz Medeiros
 Empréstimo: 29816 - Livro: A Casa das Janelas Azuis - Volume 202 - Autor: Marina Duarte
@@ -5059,7 +5059,7 @@ Data do empréstimo: 2023-01-13 - Data de devolução: 2023-01-23
 TOTAL: 17 empréstimos
 
 NOME: Gustavo Paiva
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Lopes
 Empréstimo: 24577 - Livro: A Casa das Janelas Azuis - Volume 157 - Autor: Marina Duarte
@@ -5283,10 +5283,10 @@ Data do empréstimo: 2025-06-17 - Data de devolução: 2025-06-27
 TOTAL: 14 empréstimos
 
 NOME: Jonathan Moraes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bento Marinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Igor Batista
 Empréstimo: 21352 - Livro: A Casa das Janelas Azuis - Volume 70 - Autor: Marina Duarte
@@ -5466,7 +5466,7 @@ Data do empréstimo: 2025-07-02 - Data de devolução: 2025-07-12
 TOTAL: 17 empréstimos
 
 NOME: Antônia Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Miguel Oliveira
 Empréstimo: 34325 - Livro: A Casa das Janelas Azuis - Volume 127 - Autor: Marina Duarte
@@ -5662,7 +5662,7 @@ Data do empréstimo: 2024-02-13 - Data de devolução: 2024-02-23
 TOTAL: 15 empréstimos
 
 NOME: Gustavo Bandeira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduarda Alves
 Empréstimo: 12595 - Livro: A Cidade das Estrelas - Volume 94 - Autor: Luciana Castro
@@ -5729,7 +5729,7 @@ Data do empréstimo: 2024-07-16 - Data de devolução: 2024-07-26
 TOTAL: 16 empréstimos
 
 NOME: Samuel Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Natalia Rodrigues
 Empréstimo: 35841 - Livro: A Casa das Janelas Azuis - Volume 199 - Autor: Marina Duarte
@@ -5823,7 +5823,7 @@ Data do empréstimo: 2025-10-17 - Data de devolução: 2025-10-27
 TOTAL: 13 empréstimos
 
 NOME: Sérgio Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Laura Borges
 Empréstimo: 25818 - Livro: A Casa das Janelas Azuis - Volume 106 - Autor: Marina Duarte
@@ -5973,7 +5973,7 @@ Data do empréstimo: 2023-12-21 - Data de devolução: 2023-12-31
 TOTAL: 25 empréstimos
 
 NOME: Camila Amaral
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Rodrigues
 Empréstimo: 25579 - Livro: A Cidade das Estrelas - Volume 32 - Autor: Luciana Castro
@@ -6071,13 +6071,13 @@ Data do empréstimo: 2025-12-03 - Data de devolução: 2025-12-13
 TOTAL: 21 empréstimos
 
 NOME: Lívia Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafaela Assis
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Thiago Pimentel
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcos Cardoso
 Empréstimo: 31001 - Livro: A Casa das Janelas Azuis - Volume 220 - Autor: Marina Duarte
@@ -6216,10 +6216,10 @@ Data do empréstimo: 2024-07-09 - Data de devolução: 2024-07-19
 TOTAL: 11 empréstimos
 
 NOME: Talita Queiroz
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Brenda Rangel
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marina Freitas
 Empréstimo: 32633 - Livro: A Floresta Silenciosa - Volume 114 - Autor: Camila Santos
@@ -6314,10 +6314,10 @@ Data do empréstimo: 2026-08-28 - Data de devolução: 2026-09-07
 TOTAL: 26 empréstimos
 
 NOME: Fernanda Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcos Viana
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcelo Moraes
 Empréstimo: 30582 - Livro: A Casa das Janelas Azuis - Volume 6 - Autor: Marina Duarte
@@ -6419,7 +6419,7 @@ Data do empréstimo: 2025-09-12 - Data de devolução: 2025-09-22
 TOTAL: 15 empréstimos
 
 NOME: Murilo Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Costa
 Empréstimo: 27314 - Livro: A Casa das Janelas Azuis - Volume 21 - Autor: Marina Duarte
@@ -6521,7 +6521,7 @@ Data do empréstimo: 2024-02-02 - Data de devolução: 2024-02-12
 TOTAL: 14 empréstimos
 
 NOME: Enzo Marinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Diego Soares
 Empréstimo: 12469 - Livro: A Casa das Janelas Azuis - Volume 157 - Autor: Marina Duarte
@@ -6864,10 +6864,10 @@ Data do empréstimo: 2024-01-11 - Data de devolução: 2024-01-21
 TOTAL: 20 empréstimos
 
 NOME: Jéssica Neves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernanda Cavalcante
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcelo Soares
 Empréstimo: 30814 - Livro: A Casa das Janelas Azuis - Volume 10 - Autor: Marina Duarte
@@ -7059,7 +7059,7 @@ Data do empréstimo: 2023-01-07 - Data de devolução: 2023-01-17
 TOTAL: 8 empréstimos
 
 NOME: Natália Fonseca
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Ana Xavier
 Empréstimo: 2271 - Livro: A Casa das Janelas Azuis - Volume 191 - Autor: Marina Duarte
@@ -7207,10 +7207,10 @@ Data do empréstimo: 2026-09-19 - Data de devolução: 2026-09-29
 TOTAL: 19 empréstimos
 
 NOME: Leandro Bandeira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rita Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Igor Lima
 Empréstimo: 21563 - Livro: As Aventuras de Clara - Volume 103 - Autor: Helena Martins
@@ -7244,10 +7244,10 @@ Data do empréstimo: 2022-10-20 - Data de devolução: 2022-10-30
 TOTAL: 14 empréstimos
 
 NOME: Leandro Lacerda
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vinicius Almeida
 Empréstimo: 48543 - Livro: A Cidade das Estrelas - Volume 225 - Autor: Luciana Castro
@@ -7295,7 +7295,7 @@ Data do empréstimo: 2023-10-13 - Data de devolução: 2023-10-23
 TOTAL: 21 empréstimos
 
 NOME: Lívia Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Lucas Moraes
 Empréstimo: 29105 - Livro: A Casa das Janelas Azuis - Volume 197 - Autor: Marina Duarte
@@ -7560,7 +7560,7 @@ Data do empréstimo: 2024-07-21 - Data de devolução: 2024-07-31
 TOTAL: 10 empréstimos
 
 NOME: Renato Esteves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Murilo Silva
 Empréstimo: 35113 - Livro: A Cidade das Estrelas - Volume 173 - Autor: Luciana Castro
@@ -7635,7 +7635,7 @@ Data do empréstimo: 2024-12-25 - Data de devolução: 2025-01-04
 TOTAL: 15 empréstimos
 
 NOME: Emanuel Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Alice Moreira
 Empréstimo: 457 - Livro: A Casa das Janelas Azuis - Volume 177 - Autor: Marina Duarte
@@ -7867,10 +7867,10 @@ Data do empréstimo: 2025-08-21 - Data de devolução: 2025-08-31
 TOTAL: 8 empréstimos
 
 NOME: Manuela Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Manuela Rezende
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Torres
 Empréstimo: 43420 - Livro: A Cidade das Estrelas - Volume 84 - Autor: Luciana Castro
@@ -8052,7 +8052,7 @@ Data do empréstimo: 2023-12-12 - Data de devolução: 2023-12-22
 TOTAL: 19 empréstimos
 
 NOME: Nicolas Figueiredo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduarda Goncalves
 Empréstimo: 12855 - Livro: A Casa das Janelas Azuis - Volume 100 - Autor: Marina Duarte
@@ -8098,7 +8098,7 @@ Data do empréstimo: 2025-08-05 - Data de devolução: 2025-08-15
 TOTAL: 20 empréstimos
 
 NOME: Gabriela Falcão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Monteiro
 Empréstimo: 27593 - Livro: A Casa das Janelas Azuis - Volume 190 - Autor: Marina Duarte
@@ -8210,7 +8210,7 @@ Data do empréstimo: 2023-06-19 - Data de devolução: 2023-06-29
 TOTAL: 10 empréstimos
 
 NOME: Fabiana Gouveia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vanessa Barros
 Empréstimo: 47185 - Livro: A Casa das Janelas Azuis - Volume 208 - Autor: Marina Duarte
@@ -8256,7 +8256,7 @@ Data do empréstimo: 2024-01-13 - Data de devolução: 2024-01-23
 TOTAL: 20 empréstimos
 
 NOME: Francisco Vasconcelos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Camila Duarte
 Empréstimo: 6883 - Livro: A Cidade das Estrelas - Volume 35 - Autor: Luciana Castro
@@ -8611,7 +8611,7 @@ Data do empréstimo: 2025-11-23 - Data de devolução: 2025-12-03
 TOTAL: 19 empréstimos
 
 NOME: Letícia Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Ferreira
 Empréstimo: 42920 - Livro: A Casa das Janelas Azuis - Volume 21 - Autor: Marina Duarte
@@ -8756,10 +8756,10 @@ Data do empréstimo: 2025-06-17 - Data de devolução: 2025-06-27
 TOTAL: 14 empréstimos
 
 NOME: Diego Beltrão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Maurício Aragão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gustavo Xavier
 Empréstimo: 19838 - Livro: A Cidade das Estrelas - Volume 121 - Autor: Luciana Castro
@@ -8863,7 +8863,7 @@ Data do empréstimo: 2025-02-13 - Data de devolução: 2025-02-23
 TOTAL: 15 empréstimos
 
 NOME: Isadora Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Clara Barros
 Empréstimo: 9640 - Livro: A Ilha Distante - Volume 160 - Autor: Gabriel Vieira
@@ -8930,7 +8930,7 @@ Data do empréstimo: 2023-11-30 - Data de devolução: 2023-12-10
 TOTAL: 19 empréstimos
 
 NOME: Samuel Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Pedro Barbosa
 Empréstimo: 38194 - Livro: A Cidade das Estrelas - Volume 172 - Autor: Luciana Castro
@@ -9404,7 +9404,7 @@ Data do empréstimo: 2025-03-19 - Data de devolução: 2025-03-29
 TOTAL: 13 empréstimos
 
 NOME: Yasmin Ramos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leonardo Soares
 Empréstimo: 27059 - Livro: A Cidade das Estrelas - Volume 169 - Autor: Luciana Castro
@@ -9884,7 +9884,7 @@ Data do empréstimo: 2026-04-25 - Data de devolução: 2026-05-05
 TOTAL: 12 empréstimos
 
 NOME: Leonardo Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Samuel Martins
 Empréstimo: 44582 - Livro: A Casa das Janelas Azuis - Volume 147 - Autor: Marina Duarte
@@ -10244,7 +10244,7 @@ Data do empréstimo: 2023-06-08 - Data de devolução: 2023-06-18
 TOTAL: 15 empréstimos
 
 NOME: Lorena Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernanda Carvalho
 Empréstimo: 16360 - Livro: A Casa das Janelas Azuis - Volume 231 - Autor: Marina Duarte
@@ -10356,10 +10356,10 @@ Data do empréstimo: 2023-12-22 - Data de devolução: 2024-01-01
 TOTAL: 16 empréstimos
 
 NOME: Karen Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Camila Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bernardo Pereira
 Empréstimo: 4268 - Livro: A Cidade das Estrelas - Volume 227 - Autor: Luciana Castro
@@ -10399,7 +10399,7 @@ Data do empréstimo: 2022-10-28 - Data de devolução: 2022-11-07
 TOTAL: 17 empréstimos
 
 NOME: Emanuel Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Rodrigues
 Empréstimo: 43301 - Livro: A Casa das Janelas Azuis - Volume 129 - Autor: Marina Duarte
@@ -10534,7 +10534,7 @@ Data do empréstimo: 2023-03-04 - Data de devolução: 2023-03-14
 TOTAL: 15 empréstimos
 
 NOME: Rafaela Neves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafael Soares
 Empréstimo: 39599 - Livro: A Casa das Janelas Azuis - Volume 216 - Autor: Marina Duarte
@@ -10832,7 +10832,7 @@ Data do empréstimo: 2025-09-05 - Data de devolução: 2025-09-15
 TOTAL: 25 empréstimos
 
 NOME: Bento Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luiz Silva
 Empréstimo: 30058 - Livro: A Casa das Janelas Azuis - Volume 51 - Autor: Marina Duarte
@@ -10925,10 +10925,10 @@ Data do empréstimo: 2023-07-11 - Data de devolução: 2023-07-21
 TOTAL: 20 empréstimos
 
 NOME: Nicolas Guimarães
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Enzo Mello
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Amanda Fernandes
 Empréstimo: 952 - Livro: A Casa das Janelas Azuis - Volume 109 - Autor: Marina Duarte

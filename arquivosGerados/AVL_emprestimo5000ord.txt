@@ -1,5 +1,5 @@
 NOME: Melissa Lins
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Patricia Silva
 Empréstimo: 3822 - Livro: Viagem ao Norte - Volume 243 - Autor: Eduardo Lima
@@ -24,10 +24,10 @@ Data do empréstimo: 2023-10-20 - Data de devolução: 2023-10-30
 TOTAL: 1 empréstimos
 
 NOME: Clarice Bittencourt
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Nicolas Souza
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luana Santos
 Empréstimo: 2827 - Livro: O Castelo na Colina - Volume 227 - Autor: Clara Rodrigues
@@ -39,13 +39,13 @@ Data do empréstimo: 2022-10-03 - Data de devolução: 2022-10-13
 TOTAL: 3 empréstimos
 
 NOME: Isadora Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Murilo Moraes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Augusto Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Felipe Martins
 Empréstimo: 1563 - Livro: A Ponte de Pedra - Volume 164 - Autor: Marcelo Torres
@@ -102,7 +102,7 @@ Data do empréstimo: 2025-09-09 - Data de devolução: 2025-09-19
 TOTAL: 2 empréstimos
 
 NOME: Isabela Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valentina Martins
 Empréstimo: 4666 - Livro: Cartas para o Amanhã - Volume 19 - Autor: Beatriz Souza
@@ -121,7 +121,7 @@ Data do empréstimo: 2025-04-15 - Data de devolução: 2025-04-25
 TOTAL: 3 empréstimos
 
 NOME: Brenda Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leonardo Borges
 Empréstimo: 2629 - Livro: A Casa das Janelas Azuis - Volume 163 - Autor: Marina Duarte
@@ -133,13 +133,13 @@ Data do empréstimo: 2023-02-25 - Data de devolução: 2023-03-07
 TOTAL: 3 empréstimos
 
 NOME: Luana Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafaela Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Afonso Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Otavio Pereira
 Empréstimo: 3739 - Livro: O Caminho das Aguas - Volume 240 - Autor: Sofia Monteiro
@@ -180,10 +180,10 @@ Data do empréstimo: 2026-05-02 - Data de devolução: 2026-05-12
 TOTAL: 1 empréstimos
 
 NOME: Rodrigo Ferraz
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Débora Coutinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduardo Nascimento
 Empréstimo: 1371 - Livro: O Relogio Esquecido - Volume 243 - Autor: Daniel Ferreira
@@ -200,13 +200,13 @@ Data do empréstimo: 2023-09-18 - Data de devolução: 2023-09-28
 TOTAL: 2 empréstimos
 
 NOME: Rodrigo Andrade
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Carolina Nascimento
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Simone Coelho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luana Oliveira
 Empréstimo: 2820 - Livro: A Floresta Silenciosa - Volume 23 - Autor: Camila Santos
@@ -246,13 +246,13 @@ Data do empréstimo: 2023-12-10 - Data de devolução: 2023-12-20
 TOTAL: 2 empréstimos
 
 NOME: Joao Fernandes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Samuel Bittencourt
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Jonathan Seabra
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Joaquim Santos
 Empréstimo: 2408 - Livro: O Castelo na Colina - Volume 64 - Autor: Clara Rodrigues
@@ -273,7 +273,7 @@ Data do empréstimo: 2024-03-05 - Data de devolução: 2024-03-15
 TOTAL: 4 empréstimos
 
 NOME: Giovana Nunes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Thiago Gomes
 Empréstimo: 4587 - Livro: O Relogio Esquecido - Volume 15 - Autor: Daniel Ferreira
@@ -281,7 +281,7 @@ Data do empréstimo: 2024-08-03 - Data de devolução: 2024-08-13
 TOTAL: 1 empréstimos
 
 NOME: Beatriz Ferreira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Barbosa
 Empréstimo: 4260 - Livro: A Ponte de Pedra - Volume 137 - Autor: Marcelo Torres
@@ -289,19 +289,19 @@ Data do empréstimo: 2024-11-03 - Data de devolução: 2024-11-13
 TOTAL: 1 empréstimos
 
 NOME: Gabriela Azevedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Daiane Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Isadora Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leandro Gama
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Nicolas Almeida
 Empréstimo: 3611 - Livro: Noites de Inverno - Volume 116 - Autor: Pedro Nogueira
@@ -311,7 +311,7 @@ Data do empréstimo: 2025-03-20 - Data de devolução: 2025-03-30
 TOTAL: 2 empréstimos
 
 NOME: Daiane Seabra
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vanessa Teixeira
 Empréstimo: 4757 - Livro: A Ilha Distante - Volume 186 - Autor: Gabriel Vieira
@@ -326,7 +326,7 @@ Data do empréstimo: 2025-08-05 - Data de devolução: 2025-08-15
 TOTAL: 2 empréstimos
 
 NOME: Caio Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernando Pereira
 Empréstimo: 1722 - Livro: O Diario de Helena - Volume 5 - Autor: Laura Barbosa
@@ -389,19 +389,19 @@ Data do empréstimo: 2023-01-04 - Data de devolução: 2023-01-14
 TOTAL: 2 empréstimos
 
 NOME: Rafael Martins
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: José Gama
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Francisco Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Natália Cunha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Henrique Gouveia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bruno Ferreira
 Empréstimo: 532 - Livro: A Luz da Manhã - Volume 148 - Autor: Bruno Machado
@@ -439,10 +439,10 @@ Data do empréstimo: 2025-11-01 - Data de devolução: 2025-11-11
 TOTAL: 1 empréstimos
 
 NOME: Maurício Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vinícius Cavalcante
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Barbosa
 Empréstimo: 2427 - Livro: O Mapa Perdido - Volume 162 - Autor: Juliana Mendes
@@ -464,10 +464,10 @@ Data do empréstimo: 2023-12-22 - Data de devolução: 2024-01-01
 TOTAL: 3 empréstimos
 
 NOME: Henrique Magalhães
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Vieira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mateus Nascimento
 Empréstimo: 3364 - Livro: A Casa das Janelas Azuis - Volume 249 - Autor: Marina Duarte
@@ -475,7 +475,7 @@ Data do empréstimo: 2023-12-04 - Data de devolução: 2023-12-14
 TOTAL: 1 empréstimos
 
 NOME: Rodrigo Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Victor Castro
 Empréstimo: 4776 - Livro: A Floresta Silenciosa - Volume 202 - Autor: Camila Santos
@@ -487,7 +487,7 @@ Data do empréstimo: 2025-10-19 - Data de devolução: 2025-10-29
 TOTAL: 3 empréstimos
 
 NOME: Matheus Nascimento
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Elisa Soares
 Empréstimo: 1460 - Livro: O Diario de Helena - Volume 120 - Autor: Laura Barbosa
@@ -502,10 +502,10 @@ Data do empréstimo: 2023-07-02 - Data de devolução: 2023-07-12
 TOTAL: 1 empréstimos
 
 NOME: Thales Vasconcelos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valéria Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Borges
 Empréstimo: 2499 - Livro: A Floresta Silenciosa - Volume 103 - Autor: Camila Santos
@@ -529,7 +529,7 @@ Data do empréstimo: 2026-01-04 - Data de devolução: 2026-01-14
 TOTAL: 1 empréstimos
 
 NOME: Gustavo Castro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Beatriz Nogueira
 Empréstimo: 334 - Livro: A Casa das Janelas Azuis - Volume 117 - Autor: Marina Duarte
@@ -541,7 +541,7 @@ Data do empréstimo: 2023-08-03 - Data de devolução: 2023-08-13
 TOTAL: 3 empréstimos
 
 NOME: Raul Coutinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Souza
 Empréstimo: 2556 - Livro: A Ponte de Pedra - Volume 143 - Autor: Marcelo Torres
@@ -553,7 +553,7 @@ Data do empréstimo: 2025-02-26 - Data de devolução: 2025-03-08
 TOTAL: 3 empréstimos
 
 NOME: Margarida Franco
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Sabrina Moraes
 Empréstimo: 4369 - Livro: O Misterio da Montanha - Volume 19 - Autor: Fernando Ribeiro
@@ -565,10 +565,10 @@ Data do empréstimo: 2023-01-26 - Data de devolução: 2023-02-05
 TOTAL: 3 empréstimos
 
 NOME: Beatriz Vieira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Patrícia Beltrão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Lucas Moreira
 Empréstimo: 2903 - Livro: Noites de Inverno - Volume 59 - Autor: Pedro Nogueira
@@ -587,10 +587,10 @@ Data do empréstimo: 2026-08-11 - Data de devolução: 2026-08-21
 TOTAL: 3 empréstimos
 
 NOME: Fernanda Gomes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mariana Almeida
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernando Rocha
 Empréstimo: 1733 - Livro: O Diario de Helena - Volume 203 - Autor: Laura Barbosa
@@ -598,10 +598,10 @@ Data do empréstimo: 2023-09-01 - Data de devolução: 2023-09-11
 TOTAL: 1 empréstimos
 
 NOME: Afonso Garcia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Marques
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafael Monteiro
 Empréstimo: 3926 - Livro: A Floresta Silenciosa - Volume 134 - Autor: Camila Santos
@@ -611,7 +611,7 @@ Data do empréstimo: 2023-09-26 - Data de devolução: 2023-10-06
 TOTAL: 2 empréstimos
 
 NOME: Isabela Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Monteiro
 Empréstimo: 4064 - Livro: O Diario de Helena - Volume 216 - Autor: Laura Barbosa
@@ -619,7 +619,7 @@ Data do empréstimo: 2026-07-02 - Data de devolução: 2026-07-12
 TOTAL: 1 empréstimos
 
 NOME: Rodrigo Rocha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marina Xavier
 Empréstimo: 3317 - Livro: Cartas para o Amanhã - Volume 143 - Autor: Beatriz Souza
@@ -651,7 +651,7 @@ Data do empréstimo: 2025-11-10 - Data de devolução: 2025-11-20
 TOTAL: 1 empréstimos
 
 NOME: Valéria Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Amanda Teixeira
 Empréstimo: 146 - Livro: A Casa das Janelas Azuis - Volume 246 - Autor: Marina Duarte
@@ -674,7 +674,7 @@ Data do empréstimo: 2025-07-28 - Data de devolução: 2025-08-07
 TOTAL: 1 empréstimos
 
 NOME: Sérgio Pacheco
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gabriela Rodrigues
 Empréstimo: 1883 - Livro: A Ponte de Pedra - Volume 25 - Autor: Marcelo Torres
@@ -703,7 +703,7 @@ Data do empréstimo: 2024-01-29 - Data de devolução: 2024-02-08
 TOTAL: 2 empréstimos
 
 NOME: Manuela Campos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Freitas
 Empréstimo: 4278 - Livro: O Mapa Perdido - Volume 101 - Autor: Juliana Mendes
@@ -711,10 +711,10 @@ Data do empréstimo: 2026-04-24 - Data de devolução: 2026-05-04
 TOTAL: 1 empréstimos
 
 NOME: Valentina Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Sílvia Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Xavier
 Empréstimo: 2488 - Livro: O Misterio da Montanha - Volume 140 - Autor: Fernando Ribeiro
@@ -770,7 +770,7 @@ Data do empréstimo: 2024-03-07 - Data de devolução: 2024-03-17
 TOTAL: 1 empréstimos
 
 NOME: Lorena Abreu
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Joaquim Monteiro
 Empréstimo: 2384 - Livro: A Ponte de Pedra - Volume 165 - Autor: Marcelo Torres
@@ -796,7 +796,7 @@ Data do empréstimo: 2025-06-04 - Data de devolução: 2025-06-14
 TOTAL: 3 empréstimos
 
 NOME: Victor Ferreira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valentina Moreira
 Empréstimo: 4672 - Livro: A Ilha Distante - Volume 62 - Autor: Gabriel Vieira
@@ -804,7 +804,7 @@ Data do empréstimo: 2026-04-16 - Data de devolução: 2026-04-26
 TOTAL: 1 empréstimos
 
 NOME: Arthur Souza
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Moraes
 Empréstimo: 4065 - Livro: A Ilha Distante - Volume 229 - Autor: Gabriel Vieira
@@ -827,7 +827,7 @@ Data do empréstimo: 2024-11-08 - Data de devolução: 2024-11-18
 TOTAL: 5 empréstimos
 
 NOME: Enzo Medeiros
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bruna Gomes
 Empréstimo: 455 - Livro: O Misterio da Montanha - Volume 143 - Autor: Fernando Ribeiro
@@ -858,10 +858,10 @@ Data do empréstimo: 2025-02-13 - Data de devolução: 2025-02-23
 TOTAL: 1 empréstimos
 
 NOME: Victor Mendes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Francisco Porto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Ana Fernandes
 Empréstimo: 183 - Livro: As Aventuras de Clara - Volume 79 - Autor: Helena Martins
@@ -871,10 +871,10 @@ Data do empréstimo: 2026-08-19 - Data de devolução: 2026-08-29
 TOTAL: 2 empréstimos
 
 NOME: Emanuel Nunes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Heitor Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Batista
 Empréstimo: 239 - Livro: A Ponte de Pedra - Volume 2 - Autor: Marcelo Torres
@@ -912,10 +912,10 @@ Data do empréstimo: 2024-05-23 - Data de devolução: 2024-06-02
 TOTAL: 3 empréstimos
 
 NOME: Juliana Borges
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Valéria Cunha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernando Gomes
 Empréstimo: 1696 - Livro: A Casa das Janelas Azuis - Volume 35 - Autor: Marina Duarte
@@ -928,7 +928,7 @@ Data do empréstimo: 2022-11-05 - Data de devolução: 2022-11-15
 TOTAL: 1 empréstimos
 
 NOME: Bruno Ramos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduardo Castro
 Empréstimo: 1335 - Livro: A Casa das Janelas Azuis - Volume 179 - Autor: Marina Duarte
@@ -942,7 +942,7 @@ Data do empréstimo: 2024-11-01 - Data de devolução: 2024-11-11
 TOTAL: 4 empréstimos
 
 NOME: Gabriela Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mariana Vieira
 Empréstimo: 3243 - Livro: Noites de Inverno - Volume 80 - Autor: Pedro Nogueira
@@ -950,13 +950,13 @@ Data do empréstimo: 2025-06-04 - Data de devolução: 2025-06-14
 TOTAL: 1 empréstimos
 
 NOME: Thales Abreu
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Elisa Goncalves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luiz Freitas
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mateus Goncalves
 Empréstimo: 3345 - Livro: A Floresta Silenciosa - Autor: Camila Santos
@@ -971,7 +971,7 @@ Data do empréstimo: 2024-05-23 - Data de devolução: 2024-06-02
 TOTAL: 1 empréstimos
 
 NOME: Daiane Azevedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luiz Medeiros
 Empréstimo: 2971 - Livro: O Vale dos Sonhos - Volume 237 - Autor: Ana Carvalho
@@ -984,7 +984,7 @@ Data do empréstimo: 2026-04-23 - Data de devolução: 2026-05-03
 TOTAL: 1 empréstimos
 
 NOME: Gustavo Reis
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Joao Rocha
 Empréstimo: 2323 - Livro: A Casa das Janelas Azuis - Volume 21 - Autor: Marina Duarte
@@ -999,10 +999,10 @@ Data do empréstimo: 2026-03-11 - Data de devolução: 2026-03-21
 TOTAL: 1 empréstimos
 
 NOME: Gustavo Paiva
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Juliana Lopes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Natalia Mendes
 Empréstimo: 3574 - Livro: O Castelo na Colina - Volume 104 - Autor: Clara Rodrigues
@@ -1012,7 +1012,7 @@ Data do empréstimo: 2025-01-14 - Data de devolução: 2025-01-24
 TOTAL: 2 empréstimos
 
 NOME: Laura Cardoso
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Felipe Costa
 Empréstimo: 1545 - Livro: Cartas para o Amanhã - Volume 199 - Autor: Beatriz Souza
@@ -1047,13 +1047,13 @@ Data do empréstimo: 2024-05-01 - Data de devolução: 2024-05-11
 TOTAL: 5 empréstimos
 
 NOME: Jonathan Moraes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bento Marinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Igor Batista
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Enzo Marques
 Empréstimo: 1497 - Livro: A Ponte de Pedra - Volume 212 - Autor: Marcelo Torres
@@ -1066,7 +1066,7 @@ Data do empréstimo: 2024-10-24 - Data de devolução: 2024-11-03
 TOTAL: 1 empréstimos
 
 NOME: Helena Monteiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Igor Lopes
 Empréstimo: 2149 - Livro: A Cidade das Estrelas - Volume 162 - Autor: Luciana Castro
@@ -1076,7 +1076,7 @@ Data do empréstimo: 2023-08-27 - Data de devolução: 2023-09-06
 TOTAL: 2 empréstimos
 
 NOME: Antônia Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Miguel Oliveira
 Empréstimo: 3445 - Livro: A Casa das Janelas Azuis - Volume 168 - Autor: Marina Duarte
@@ -1122,7 +1122,7 @@ Data do empréstimo: 2024-07-26 - Data de devolução: 2024-08-05
 TOTAL: 4 empréstimos
 
 NOME: Gustavo Bandeira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduarda Alves
 Empréstimo: 1254 - Livro: Viagem ao Norte - Volume 186 - Autor: Eduardo Lima
@@ -1135,10 +1135,10 @@ Data do empréstimo: 2025-08-19 - Data de devolução: 2025-08-29
 TOTAL: 1 empréstimos
 
 NOME: Samuel Farias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Natalia Rodrigues
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gabriela Alves
 Empréstimo: 1817 - Livro: A Cidade das Estrelas - Volume 241 - Autor: Luciana Castro
@@ -1155,7 +1155,7 @@ Data do empréstimo: 2023-10-23 - Data de devolução: 2023-11-02
 TOTAL: 1 empréstimos
 
 NOME: Sérgio Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Laura Borges
 Empréstimo: 2569 - Livro: A Ponte de Pedra - Volume 128 - Autor: Marcelo Torres
@@ -1177,7 +1177,7 @@ Data do empréstimo: 2025-06-12 - Data de devolução: 2025-06-22
 TOTAL: 1 empréstimos
 
 NOME: Camila Amaral
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Rodrigues
 Empréstimo: 2549 - Livro: A Casa das Janelas Azuis - Volume 20 - Autor: Marina Duarte
@@ -1191,7 +1191,7 @@ Data do empréstimo: 2023-04-10 - Data de devolução: 2023-04-20
 TOTAL: 4 empréstimos
 
 NOME: Bruno Monteiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Felipe Lopes
 Empréstimo: 1558 - Livro: As Aventuras de Clara - Volume 69 - Autor: Helena Martins
@@ -1205,13 +1205,13 @@ Data do empréstimo: 2024-09-03 - Data de devolução: 2024-09-13
 TOTAL: 4 empréstimos
 
 NOME: Lívia Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafaela Assis
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Thiago Pimentel
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcos Cardoso
 Empréstimo: 3110 - Livro: A Cidade das Estrelas - Volume 241 - Autor: Luciana Castro
@@ -1242,10 +1242,10 @@ Data do empréstimo: 2025-04-06 - Data de devolução: 2025-04-16
 TOTAL: 1 empréstimos
 
 NOME: Talita Queiroz
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Brenda Rangel
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marina Freitas
 Empréstimo: 3269 - Livro: O Vale dos Sonhos - Volume 90 - Autor: Ana Carvalho
@@ -1258,10 +1258,10 @@ Data do empréstimo: 2024-08-04 - Data de devolução: 2024-08-14
 TOTAL: 1 empréstimos
 
 NOME: Fernanda Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcos Viana
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcelo Moraes
 Empréstimo: 3066 - Livro: As Cores do Vento - Volume 28 - Autor: Ricardo Teixeira
@@ -1283,7 +1283,7 @@ Data do empréstimo: 2022-11-11 - Data de devolução: 2022-11-21
 TOTAL: 2 empréstimos
 
 NOME: Murilo Sampaio
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Costa
 Empréstimo: 2717 - Livro: Noites de Inverno - Volume 77 - Autor: Pedro Nogueira
@@ -1309,7 +1309,7 @@ Data do empréstimo: 2026-09-15 - Data de devolução: 2026-09-25
 TOTAL: 3 empréstimos
 
 NOME: Enzo Marinho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Diego Soares
 Empréstimo: 1246 - Livro: Viagem ao Norte - Volume 190 - Autor: Eduardo Lima
@@ -1365,10 +1365,10 @@ Data do empréstimo: 2023-11-10 - Data de devolução: 2023-11-20
 TOTAL: 5 empréstimos
 
 NOME: Samuel Rodrigues
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bernardo Vieira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Amanda Moreira
 Empréstimo: 118 - Livro: A Casa das Janelas Azuis - Volume 30 - Autor: Marina Duarte
@@ -1378,10 +1378,10 @@ Data do empréstimo: 2026-01-01 - Data de devolução: 2026-01-11
 TOTAL: 2 empréstimos
 
 NOME: Jéssica Neves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernanda Cavalcante
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcelo Soares
 Empréstimo: 3091 - Livro: O Mapa Perdido - Volume 14 - Autor: Juliana Mendes
@@ -1389,7 +1389,7 @@ Data do empréstimo: 2023-03-08 - Data de devolução: 2023-03-18
 TOTAL: 1 empréstimos
 
 NOME: Luana Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Raul Martins
 Empréstimo: 4058 - Livro: O Mapa Perdido - Volume 45 - Autor: Juliana Mendes
@@ -1415,7 +1415,7 @@ Data do empréstimo: 2025-08-19 - Data de devolução: 2025-08-29
 TOTAL: 3 empréstimos
 
 NOME: Natália Fonseca
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Ana Xavier
 Empréstimo: 231 - Livro: O Misterio da Montanha - Volume 112 - Autor: Fernando Ribeiro
@@ -1445,10 +1445,10 @@ Data do empréstimo: 2023-11-27 - Data de devolução: 2023-12-07
 TOTAL: 2 empréstimos
 
 NOME: Leandro Bandeira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rita Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Igor Lima
 Empréstimo: 2146 - Livro: O Misterio da Montanha - Volume 185 - Autor: Fernando Ribeiro
@@ -1460,16 +1460,16 @@ Data do empréstimo: 2024-05-19 - Data de devolução: 2024-05-29
 TOTAL: 3 empréstimos
 
 NOME: Leandro Lacerda
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Arthur Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vinicius Almeida
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Lívia Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Lucas Moraes
 Empréstimo: 2899 - Livro: A Floresta Silenciosa - Volume 156 - Autor: Camila Santos
@@ -1490,7 +1490,7 @@ Data do empréstimo: 2025-08-21 - Data de devolução: 2025-08-31
 TOTAL: 2 empréstimos
 
 NOME: Clara Souza
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marcelo Borges
 Empréstimo: 3026 - Livro: A Cidade das Estrelas - Volume 21 - Autor: Luciana Castro
@@ -1524,10 +1524,10 @@ Data do empréstimo: 2025-07-09 - Data de devolução: 2025-07-19
 TOTAL: 2 empréstimos
 
 NOME: Renato Esteves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Murilo Silva
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Alice Nascimento
 Empréstimo: 47 - Livro: A Ponte de Pedra - Volume 182 - Autor: Marcelo Torres
@@ -1535,7 +1535,7 @@ Data do empréstimo: 2024-04-25 - Data de devolução: 2024-05-05
 TOTAL: 1 empréstimos
 
 NOME: Emanuel Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Alice Moreira
 Empréstimo: 45 - Livro: As Aventuras de Clara - Volume 182 - Autor: Helena Martins
@@ -1580,13 +1580,13 @@ Data do empréstimo: 2025-01-31 - Data de devolução: 2025-02-10
 TOTAL: 2 empréstimos
 
 NOME: Renata Torres
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Manuela Cordeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Manuela Rezende
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Torres
 Empréstimo: 4310 - Livro: O Caminho das Aguas - Volume 144 - Autor: Sofia Monteiro
@@ -1596,7 +1596,7 @@ Data do empréstimo: 2025-05-27 - Data de devolução: 2025-06-06
 TOTAL: 2 empréstimos
 
 NOME: Leonardo Gomes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Ricardo Carvalho
 Empréstimo: 4184 - Livro: A Luz da Manhã - Volume 102 - Autor: Bruno Machado
@@ -1608,7 +1608,7 @@ Data do empréstimo: 2025-09-04 - Data de devolução: 2025-09-14
 TOTAL: 3 empréstimos
 
 NOME: Nicolas Nogueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marina Castro
 Empréstimo: 3261 - Livro: A Ponte de Pedra - Volume 180 - Autor: Marcelo Torres
@@ -1618,13 +1618,13 @@ Data do empréstimo: 2023-12-03 - Data de devolução: 2023-12-13
 TOTAL: 2 empréstimos
 
 NOME: Nicolas Figueiredo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Eduarda Goncalves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gabriela Falcão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leticia Monteiro
 Empréstimo: 2743 - Livro: Cartas para o Amanhã - Volume 250 - Autor: Beatriz Souza
@@ -1646,7 +1646,7 @@ Data do empréstimo: 2022-12-28 - Data de devolução: 2023-01-07
 TOTAL: 3 empréstimos
 
 NOME: Fabiana Gouveia
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Vanessa Barros
 Empréstimo: 4698 - Livro: A Casa das Janelas Azuis - Volume 164 - Autor: Marina Duarte
@@ -1654,7 +1654,7 @@ Data do empréstimo: 2023-08-12 - Data de devolução: 2023-08-22
 TOTAL: 1 empréstimos
 
 NOME: Francisco Vasconcelos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Camila Duarte
 Empréstimo: 684 - Livro: O Diario de Helena - Volume 100 - Autor: Laura Barbosa
@@ -1662,7 +1662,7 @@ Data do empréstimo: 2024-09-27 - Data de devolução: 2024-10-07
 TOTAL: 1 empréstimos
 
 NOME: Gabriela Torres
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Alice Barbosa
 Empréstimo: 4 - Livro: Cartas para o Amanhã - Volume 48 - Autor: Beatriz Souza
@@ -1674,7 +1674,7 @@ Data do empréstimo: 2024-06-21 - Data de devolução: 2024-07-01
 TOTAL: 3 empréstimos
 
 NOME: Vanessa Costa
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernanda Barros
 Empréstimo: 1603 - Livro: O Vale dos Sonhos - Volume 73 - Autor: Ana Carvalho
@@ -1707,7 +1707,7 @@ Data do empréstimo: 2023-10-15 - Data de devolução: 2023-10-25
 TOTAL: 2 empréstimos
 
 NOME: Gabriel Moraes
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Patricia Costa
 Empréstimo: 3771 - Livro: Cartas para o Amanhã - Volume 26 - Autor: Beatriz Souza
@@ -1717,7 +1717,7 @@ Data do empréstimo: 2023-11-30 - Data de devolução: 2023-12-10
 TOTAL: 2 empréstimos
 
 NOME: Letícia Cerqueira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Ferreira
 Empréstimo: 4275 - Livro: Cartas para o Amanhã - Volume 123 - Autor: Beatriz Souza
@@ -1750,10 +1750,10 @@ Data do empréstimo: 2025-04-09 - Data de devolução: 2025-04-19
 TOTAL: 3 empréstimos
 
 NOME: Diego Beltrão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Maurício Aragão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gustavo Xavier
 Empréstimo: 1960 - Livro: A Luz da Manhã - Volume 133 - Autor: Bruno Machado
@@ -1779,10 +1779,10 @@ Data do empréstimo: 2026-07-16 - Data de devolução: 2026-07-26
 TOTAL: 3 empréstimos
 
 NOME: Isadora Rios
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Clara Barros
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Nicolas Monteiro
 Empréstimo: 3650 - Livro: O Castelo na Colina - Volume 233 - Autor: Clara Rodrigues
@@ -1790,10 +1790,10 @@ Data do empréstimo: 2023-01-11 - Data de devolução: 2023-01-21
 TOTAL: 1 empréstimos
 
 NOME: Samuel Peixoto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Pedro Barbosa
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Laura Barbosa
 Empréstimo: 2567 - Livro: O Caminho das Aguas - Volume 30 - Autor: Sofia Monteiro
@@ -1834,13 +1834,13 @@ Data do empréstimo: 2023-01-30 - Data de devolução: 2023-02-09
 TOTAL: 4 empréstimos
 
 NOME: Larissa Pereira
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Alice Ramos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Carolina Goncalves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Carlos Cardoso
 Empréstimo: 752 - Livro: O Ultimo Farol - Volume 59 - Autor: Rafael Oliveira
@@ -1855,7 +1855,7 @@ Data do empréstimo: 2025-01-16 - Data de devolução: 2025-01-26
 TOTAL: 2 empréstimos
 
 NOME: Marcos Torres
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Sofia Batista
 Empréstimo: 4487 - Livro: As Cores do Vento - Volume 164 - Autor: Ricardo Teixeira
@@ -1868,7 +1868,7 @@ Data do empréstimo: 2026-01-26 - Data de devolução: 2026-02-05
 TOTAL: 1 empréstimos
 
 NOME: Yasmin Ramos
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Leonardo Soares
 Empréstimo: 2691 - Livro: A Cidade das Estrelas - Volume 9 - Autor: Luciana Castro
@@ -1900,7 +1900,7 @@ Data do empréstimo: 2025-02-05 - Data de devolução: 2025-02-15
 TOTAL: 4 empréstimos
 
 NOME: Bruna Lima
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Marina Cardoso
 Empréstimo: 3257 - Livro: Cartas para o Amanhã - Volume 224 - Autor: Beatriz Souza
@@ -1926,7 +1926,7 @@ Data do empréstimo: 2022-11-17 - Data de devolução: 2022-11-27
 TOTAL: 1 empréstimos
 
 NOME: Murilo Torres
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Beatriz Goncalves
 Empréstimo: 314 - Livro: Cartas para o Amanhã - Volume 145 - Autor: Beatriz Souza
@@ -1966,7 +1966,7 @@ Data do empréstimo: 2025-06-18 - Data de devolução: 2025-06-28
 TOTAL: 1 empréstimos
 
 NOME: Leonardo Barreto
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Samuel Martins
 Empréstimo: 4444 - Livro: A Cidade das Estrelas - Volume 192 - Autor: Luciana Castro
@@ -2036,13 +2036,13 @@ Data do empréstimo: 2026-05-08 - Data de devolução: 2026-05-18
 TOTAL: 3 empréstimos
 
 NOME: Lorena Freire
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Fernanda Carvalho
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Caio Lima
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Renata Barbosa
 Empréstimo: 4093 - Livro: O Mapa Perdido - Volume 210 - Autor: Juliana Mendes
@@ -2054,10 +2054,10 @@ Data do empréstimo: 2022-10-08 - Data de devolução: 2022-10-18
 TOTAL: 3 empréstimos
 
 NOME: Karen Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Camila Albuquerque
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Bernardo Pereira
 Empréstimo: 404 - Livro: O Vale dos Sonhos - Volume 40 - Autor: Ana Carvalho
@@ -2065,7 +2065,7 @@ Data do empréstimo: 2025-05-12 - Data de devolução: 2025-05-22
 TOTAL: 1 empréstimos
 
 NOME: Emanuel Brandão
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rodrigo Rodrigues
 Empréstimo: 4302 - Livro: As Aventuras de Clara - Volume 58 - Autor: Helena Martins
@@ -2073,7 +2073,7 @@ Data do empréstimo: 2024-03-23 - Data de devolução: 2024-04-02
 TOTAL: 1 empréstimos
 
 NOME: Mariana Dias
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Mateus Freitas
 Empréstimo: 3343 - Livro: O Relogio Esquecido - Volume 67 - Autor: Daniel Ferreira
@@ -2088,7 +2088,7 @@ Data do empréstimo: 2025-01-16 - Data de devolução: 2025-01-26
 TOTAL: 2 empréstimos
 
 NOME: Rafaela Neves
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Rafael Soares
 Empréstimo: 3956 - Livro: Cartas para o Amanhã - Volume 199 - Autor: Beatriz Souza
@@ -2098,7 +2098,7 @@ Data do empréstimo: 2025-10-17 - Data de devolução: 2025-10-27
 TOTAL: 2 empréstimos
 
 NOME: Marcelo Ribeiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Larissa Alves
 Empréstimo: 2490 - Livro: A Ponte de Pedra - Volume 52 - Autor: Marcelo Torres
@@ -2126,7 +2126,7 @@ Data do empréstimo: 2025-12-05 - Data de devolução: 2025-12-15
 TOTAL: 4 empréstimos
 
 NOME: Mariana Monteiro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Miguel Costa
 Empréstimo: 3402 - Livro: A Floresta Silenciosa - Volume 160 - Autor: Camila Santos
@@ -2138,7 +2138,7 @@ Data do empréstimo: 2024-05-11 - Data de devolução: 2024-05-21
 TOTAL: 3 empréstimos
 
 NOME: Bento Macedo
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Luiz Silva
 Empréstimo: 2997 - Livro: O Castelo na Colina - Autor: Clara Rodrigues
@@ -2153,10 +2153,10 @@ Data do empréstimo: 2023-08-01 - Data de devolução: 2023-08-11
 TOTAL: 2 empréstimos
 
 NOME: Nicolas Guimarães
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Enzo Mello
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Amanda Fernandes
 Empréstimo: 99 - Livro: O Mapa Perdido - Volume 58 - Autor: Juliana Mendes
@@ -2179,10 +2179,10 @@ Data do empréstimo: 2023-03-10 - Data de devolução: 2023-03-20
 TOTAL: 1 empréstimos
 
 NOME: Rafaela Lima
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Gabriel Castro
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
 NOME: Pedro Rodrigues
 Empréstimo: 3884 - Livro: A Luz da Manhã - Volume 93 - Autor: Bruno Machado
@@ -2194,5 +2194,5 @@ Data do empréstimo: 2023-11-26 - Data de devolução: 2023-12-06
 TOTAL: 3 empréstimos
 
 NOME: Arthur Rocha
-Nenhum empréstimo encontrado.
+NÃO POSSUI EMPRÉSTIMOS.
 
