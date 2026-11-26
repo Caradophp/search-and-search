@@ -69,7 +69,7 @@ public class ProgramaPrincipal {
     // =====================================
 
     private static void executarHeapsort(String arquivo, String identificacao) {
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<Emprestimo> emprestimos = null;
 
@@ -81,13 +81,12 @@ public class ProgramaPrincipal {
             tempoTotal += (fim - inicio);
         }
 
-        double tempoMedio = tempoTotal / REPETICOES;
-
         String saida = PASTA_GERADOS + "Heap_" + identificacao + ".txt";
 
         Util.escreveArquivo(emprestimos, saida);
 
-        System.out.printf("Heapsort: %.4f ms%n", tempoMedio / 1_000_000.0);
+        System.out.printf("Heapsort: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     private static void ordenacaoHeapsort(List<Emprestimo> emprestimos) {
@@ -142,7 +141,7 @@ public class ProgramaPrincipal {
 
     private static void executarQuicksort(String arquivo, String identificacao) {
 
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<Emprestimo> emprestimos = null;
 
@@ -158,7 +157,8 @@ public class ProgramaPrincipal {
 
         Util.escreveArquivo(emprestimos, saida);
 
-        System.out.printf("Quicksort: %.4f ms%n", tempoTotal / REPETICOES / 1_000_000.0);
+        System.out.printf("Quicksort: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     private static void ordenacaoQuicksort(List<Emprestimo> emprestimos) {
@@ -170,7 +170,7 @@ public class ProgramaPrincipal {
     // =====================================
 
     private static void executarQuicksortInsercao(String arquivo, String identificacao) {
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<Emprestimo> emprestimos = null;
 
@@ -186,7 +186,8 @@ public class ProgramaPrincipal {
 
         Util.escreveArquivo(emprestimos, saida);
 
-        System.out.printf("Quicksort + Inserção: %.4f ms%n", tempoTotal / REPETICOES / 1_000_000.0);
+        System.out.printf("Quicksort + Inserção: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     private static void ordenacaoQuicksortInsercaoDireta(List<Emprestimo> emprestimos) {
@@ -259,7 +260,7 @@ public class ProgramaPrincipal {
 
     private static void executarABB(String arquivo, String identificacao) {
 
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<NoABB> resultados = null;
         List<String> nomes = null;
@@ -288,7 +289,8 @@ public class ProgramaPrincipal {
 
         Util.gerarArquivoPesquisaABB(resultados, nomes, saida);
 
-        System.out.printf("ABB: %.4f ms%n", tempoTotal / REPETICOES / 1_000_000.0);
+        System.out.printf("ABB: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     // =====================================
@@ -296,7 +298,7 @@ public class ProgramaPrincipal {
     // =====================================
 
     private static void executarAVL(String arquivo, String identificacao) {
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<NoAvl> resultados = null;
         List<String> nomes = null;
@@ -326,7 +328,8 @@ public class ProgramaPrincipal {
 
         Util.gerarArquivoPesquisaAvl(resultados, nomes, saida);
 
-        System.out.printf("AVL: %.4f ms%n", tempoTotal / REPETICOES / 1_000_000.0);
+        System.out.printf("AVL: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     // =====================================
@@ -334,7 +337,7 @@ public class ProgramaPrincipal {
     // =====================================
 
     private static void executarHashing(String arquivo, String identificacao) {
-        double tempoTotal = 0;
+        long tempoTotal = 0;
 
         List<List<Emprestimo>> resultados = null;
         List<String> nomes = null;
@@ -363,7 +366,8 @@ public class ProgramaPrincipal {
 
         Util.gerarArquivoPesquisaHashing(resultados, nomes, saida);
 
-        System.out.printf("Hashing Encadeado: %.4f ms%n", tempoTotal / REPETICOES / 1_000_000.0);
+        System.out.printf("Hashing Encadeado: %.4f ms%n",
+                tempoTotal / (REPETICOES * 1_000_000.0));
     }
 
     // =====================================
