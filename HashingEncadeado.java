@@ -17,7 +17,7 @@ public class HashingEncadeado {
     }
 
     private int funcaoHash(String nome) {
-        return Math.floorMod(nome.toLowerCase().hashCode(), tamanho);
+        return Math.floorMod(myHashCode(nome.toLowerCase()), tamanho);
     }
 
     public void inserir(Emprestimo emprestimo) {
@@ -41,5 +41,15 @@ public class HashingEncadeado {
         }
 
         return resultados;
+    }
+
+    private int myHashCode(String texto) {
+        int soma = 0;
+
+        for (int i = 0; i < texto.length(); i++) {
+            soma += texto.charAt(i);
+        }
+
+        return soma;
     }
 }
