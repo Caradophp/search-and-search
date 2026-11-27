@@ -32,6 +32,7 @@ public class ArvoreAvl {
 
             if (comparacao == 0) {
                 no.getEmprestimos().add(emprestimo);
+                this.balancear = false;
                 return no;
             }
             if (comparacao < 0) {

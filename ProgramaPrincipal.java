@@ -11,19 +11,19 @@ public class ProgramaPrincipal {
     private static final String PASTA_GERADOS = "arquivosGerados/";
 
     private static final String[] arquivos = {
-            "emprestimo1000alea.txt",
-            "emprestimo1000ord.txt",
-            "emprestimo1000inv.txt",
-            "emprestimo5000alea.txt",
-            "emprestimo5000ord.txt",
-            "emprestimo5000inv.txt",
-            "emprestimo10000alea.txt",
-            "emprestimo10000ord.txt",
-            "emprestimo10000inv.txt",
-            "emprestimo50000alea.txt",
-            "emprestimo50000ord.txt",
-            "emprestimo50000inv.txt"
-        };
+        "emprestimo1000alea.txt",
+        "emprestimo1000ord.txt",
+        "emprestimo1000inv.txt",
+        "emprestimo5000alea.txt",
+        "emprestimo5000ord.txt",
+        "emprestimo5000inv.txt",
+        "emprestimo10000alea.txt",
+        "emprestimo10000ord.txt",
+        "emprestimo10000inv.txt",
+        "emprestimo50000alea.txt",
+        "emprestimo50000ord.txt",
+        "emprestimo50000inv.txt"
+    };
 
     public static void main(String[] args) {
 
@@ -346,7 +346,7 @@ public class ProgramaPrincipal {
             List<Emprestimo> emprestimos = Util.carregarEmprestimos(arquivo);
             nomes = Util.carregaNomesPesquisa();
             long inicio = System.nanoTime();
-            HashingEncadeado hashing = new HashingEncadeado(1000);
+            HashingEncadeado hashing = new HashingEncadeado(getTamanhoIdeal(emprestimos.size()));
             for (Emprestimo emprestimo : emprestimos) {
                 hashing.inserir(emprestimo);
             }
@@ -383,5 +383,19 @@ public class ProgramaPrincipal {
         }
 
         return comparacaoNome;
+    }
+
+    private static int getTamanhoIdeal(int size) {
+        if (size == 1000) {
+            return 997;
+        } else if (size == 5000) {
+            return 4999;
+        } else if (size == 10000) {
+            return 9973;
+        } else if (size == 50000) {
+            return 49999;
+        } else {
+            return 0;
+        }
     }
 }
